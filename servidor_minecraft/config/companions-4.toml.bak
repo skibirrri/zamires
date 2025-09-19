@@ -1,0 +1,313 @@
+"Puppet Glove" = {}
+
+["Shadow Sword"]
+	#The amount of lifetime of the shadow sword
+	#
+	#Default: 4800
+	#Range: 0 ~ 100000
+	#
+	#Note: The time is measured in ticks (20 ticks = 1 second)
+	SHADOW_SWORD_LIFETIME = 4800
+	#Max life of the Shadow Sword
+	#
+	#Default: 70.0
+	#Range: 0.0 ~ 5000.0
+	SHADOW_SWORD_MAX_LIFE = 70.0
+	#Damage dealt by the Shadow Sword
+	#
+	#Default: 8.0
+	#Range: 0.0 ~ 500.0
+	SHADOW_SWORD_DAMAGE = 8.0
+	#Shadow Sword stats multiplier on its blood state. For example, if set to 1.2, a default damage of 10 will be 12 when the blood
+	#upgrade is active. This is only applied to Health and Attack Damage attributes.
+	#
+	#Default: 1.2
+	#Range: 0.0 ~ 10.0
+	SHADOW_SWORD_BLOOD_MULTIPLIER = 1.2
+
+["Soul Mage"]
+	#Determines whether this entity keeps its current chunk loaded. If false, the entity will not teleport to its owner from unloaded
+	#chunks.
+	#
+	#Default: true
+	SOUL_MAGE_KEEP_CHUNK_LOADED = true
+	#Max life of the Soul Mage
+	#
+	#Default: 75.0
+	#Range: 0.0 ~ 5000.0
+	SOUL_MAGE_MAX_LIFE = 75.0
+
+["Shadow Maw"]
+	#The amount of lifetime of the shadow maw
+	#
+	#Default: 4800
+	#Range: 0 ~ 100000
+	#
+	#Note: The time is measured in ticks (20 ticks = 1 second)
+	SHADOW_MAW_LIFETIME = 4800
+	#Max life of the Shadow Maw
+	#
+	#Default: 100.0
+	#Range: 0.0 ~ 5000.0
+	SHADOW_MAW_MAX_LIFE = 100.0
+	#Damage dealt by the Shadow Maw
+	#
+	#Default: 6.0
+	#Range: 0.0 ~ 500.0
+	SHADOW_MAW_DAMAGE = 6.0
+	#Shadow Maw stats multiplier on its blood state. For example, if set to 1.2, a default damage of 10 will be 12 when the blood
+	#upgrade is active. This is only applied to Health and Attack Damage attributes.
+	#
+	#Default: 1.2
+	#Range: 0.0 ~ 10.0
+	SHADOW_MAW_BLOOD_MULTIPLIER = 1.2
+
+[Teddy]
+	#Determines whether this entity keeps its current chunk loaded. If false, the entity will not teleport to its owner from unloaded
+	#chunks.
+	#
+	#Default: true
+	TEDDY_KEEP_CHUNK_LOADED = true
+	#Max life of the Teddy
+	#
+	#Default: 70.0
+	#Range: 0.0 ~ 5000.0
+	TEDDY_MAX_LIFE = 70.0
+	#Damage dealt by the Teddy
+	#
+	#Default: 7.0
+	#Range: 0.0 ~ 50.0
+	TEDDY_DAMAGE = 7.0
+	#Max life of the Teddy in mutant phase
+	#
+	#Default: 130.0
+	#Range: 0.0 ~ 2000.0
+	TEDDY_MUTANT_MAX_LIFE = 130.0
+	#Damage dealt by the Teddy in mutant phase
+	#
+	#Default: 8.5
+	#Range: 0.0 ~ 100.0
+	TEDDY_MUTANT_DAMAGE = 8.5
+	#Should the Teddy heal over time in its mutant form?
+	#
+	#Default: true
+	TEDDY_MUTANT_HEALS_OVER_TIME = true
+
+["Croissant Dragon"]
+	#Determines whether this entity keeps its current chunk loaded. If false, the entity will not teleport to its owner from unloaded
+	#chunks.
+	#
+	#Default: true
+	CROISSANT_DRAGON_KEEP_CHUNK_LOADED = true
+	#The amount of time the croissant dragon needs to hatch.
+	#
+	#Default: 6000
+	#Range: 10 ~ 100000
+	#
+	#Note: The time is measured in ticks
+	CROISSANT_EGG_LIFETIME = 6000
+	#Max life of the Croissant Dragon
+	#
+	#Default: 80.0
+	#Range: 0.0 ~ 5000.0
+	CROISSANT_DRAGON_MAX_LIFE = 80.0
+
+["Magic Books"]
+	#Damage dealt by each fragment of the magic ray.
+	#
+	#Default: 5.5
+	#Range: 1.0 ~ 1000.0
+	MAGIC_PIECE_DAMAGE = 5.5
+	#Damage dealt by the ice tornado spell.
+	#
+	#Default: 3.0
+	#Range: 1.0 ~ 1000.0
+	ICE_TORNADO_DAMAGE = 3.0
+	#Damage dealt by the stone spike spell.
+	#
+	#Default: 4.0
+	#Range: 1.0 ~ 1000.0
+	STONE_SPIKE_DAMAGE = 4.0
+	#Radius (in blocks) of the Fire Mark spell's effect.
+	#
+	#Default: 2.5
+	#Range: 1.0 ~ 1000.0
+	FIRE_MARK_EFFECT_RADIUS = 2.5
+	#Amount of health restored by the healing ring spell.
+	#
+	#Default: 6.0
+	#Range: 0.0 ~ 1000.0
+	HEAL_RING_HEALING = 6.0
+	#Attraction radius (in blocks) of the black hole spell.
+	#
+	#Default: 12.0
+	#Range: 0.0 ~ 1000.0
+	BLACK_HOLE_ATTRACTION_RADIUS = 12.0
+	#Speed at which entities are pulled toward the black hole.
+	#
+	#Default: 1.45
+	#Range: 0.0 ~ 100.0
+	BLACK_HOLE_ATTRACTION_SPEED = 1.45
+	#Damage dealt by each small ice shard.
+	#
+	#Default: 2.5
+	#Range: 0.0 ~ 100.0
+	SMALL_ICE_SHARD_DAMAGE = 2.5
+	#Duration (in ticks) that a single small ice shard freezes a target
+	#
+	#Default: 100
+	#Range: 0 ~ 10000
+	SMALL_ICE_SHARD_FREEZE_TICKS = 100
+	#Cooldown (in ticks) of the black hole magic book
+	#
+	#Default: 160
+	#Range: 0 ~ 10000
+	BLACK_HOLE_COOLDOWN = 160
+	#Cooldown (in ticks) of the naginata magic book
+	#
+	#Default: 140
+	#Range: 0 ~ 10000
+	NAGINATA_COOLDOWN = 140
+	#Cooldown (in ticks) of the brace magic book
+	#
+	#Default: 160
+	#Range: 0 ~ 10000
+	BRACE_COOLDOWN = 160
+	#Cooldown (in ticks) of the fire mark magic book
+	#
+	#Default: 140
+	#Range: 0 ~ 10000
+	FIRE_MARK_COOLDOWN = 140
+	#Cooldown (in ticks) of the heal ring magic book
+	#
+	#Default: 200
+	#Range: 0 ~ 10000
+	HEAL_RING_COOLDOWN = 200
+	#Cooldown (in ticks) of the ice shard magic book
+	#
+	#Default: 180
+	#Range: 0 ~ 10000
+	ICE_SHARD_COOLDOWN = 180
+	#Cooldown (in ticks) of the ice tornado magic book
+	#
+	#Default: 200
+	#Range: 0 ~ 10000
+	ICE_TORNADO_COOLDOWN = 200
+	#Cooldown (in ticks) of the magic ray magic book
+	#
+	#Default: 200
+	#Range: 0 ~ 10000
+	MAGIC_RAY_COOLDOWN = 200
+	#Cooldown (in ticks) of the stone spikes magic book
+	#
+	#Default: 140
+	#Range: 0 ~ 10000
+	STONE_SPIKES_COOLDOWN = 140
+
+[Cornelius]
+	#Determines whether this entity keeps its current chunk loaded. If false, the entity will not teleport to its owner from unloaded
+	#chunks.
+	#
+	#Default: true
+	CORNELIUS_KEEP_CHUNK_LOADED = true
+	#Ender Frog Heal Projectile heal amount
+	#
+	#Default: 2.5
+	#Range: 0.0 ~ 100.0
+	ENDER_FROG_HEAL_PROJECTILE_HEAL_AMOUNT = 2.5
+	#Max life of the Cornelius
+	#
+	#Default: 70.0
+	#Range: 0.0 ~ 5000.0
+	CORNELIUS_MAX_LIFE = 70.0
+	#Cornelius jackblack bets: [item; item; item; tag; item; ...] the order doesn't matter
+	#
+	#Default: companions:copper_coin; companions:nether_coin; companions:end_coin
+	#Range: -Infinity ~ Infinity
+	CORNELIUS_JACKBLACK_BETS = "companions:copper_coin; companions:nether_coin; companions:end_coin"
+
+[Cloak]
+	#Determines whether this entity keeps its current chunk loaded. If false, the entity will not teleport to its owner from unloaded
+	#chunks.
+	#
+	#Default: true
+	CLOAK_KEEP_CHUNK_LOADED = true
+	#Max life of the Cloak
+	#
+	#Default: 75.0
+	#Range: 0.0 ~ 5000.0
+	CLOAK_MAX_LIFE = 75.0
+	#Damage dealt by the Cloak
+	#
+	#Default: 8.0
+	#Range: 0.0 ~ 500.0
+	CLOAK_DAMAGE = 8.0
+
+["Sacred Pontiff"]
+	#Max life of the Sacred Pontiff
+	#
+	#Default: 225.0
+	#Range: 0.0 ~ 5000.0
+	SACRED_PONTIFF_MAX_LIFE = 225.0
+	#Damage dealt by the Sacred Pontiff
+	#
+	#Default: 7.0
+	#Range: 0.0 ~ 500.0
+	SACRED_PONTIFF_DAMAGE = 7.0
+	#Max life of His Holiness
+	#
+	#Default: 350.0
+	#Range: 0.0 ~ 5000.0
+	HIS_HOLINESS_MAX_LIFE = 350.0
+	#Damage dealt by His Holiness
+	#
+	#Default: 9.0
+	#Range: 0.0 ~ 500.0
+	HIS_HOLINESS_DAMAGE = 9.0
+
+[Bonanza]
+	#Bonanza item reward drops from 2 teddy heads: [item, chance, amount (can be either exact, n, or ranged, n-m); ...]
+	#
+	#Default: minecraft:golden_apple, 1.0, 1;minecraft:feather, 1.0, 1-4;minecraft:ender_pearl, 0.5, 1;minecraft:enchanted_golden_apple,
+	#0.25, 1;minecraft:netherite_scrap, 0.05, 1;minecraft:wither_skeleton_skull, 0.10, 1;minecraft:axolotl_bucket, 0.10,
+	#1;minecraft:music_disc_pigstep, 0.05, 1;minecraft:diamond, 0.15, 1;minecraft:emerald, 0.20, 1-2;minecraft:experience_bottle, 0.10,
+	#1-3;minecraft:nether_star, 0.005, 1
+	#Range: -Infinity ~ Infinity
+	BONANZA_2_TEDDY_HEADS_DROPS = "minecraft:golden_apple, 1.0, 1;minecraft:feather, 1.0, 1-4;minecraft:ender_pearl, 0.5, 1;minecraft:enchanted_golden_apple, 0.25, 1;minecraft:netherite_scrap, 0.05, 1;minecraft:wither_skeleton_skull, 0.10, 1;minecraft:axolotl_bucket, 0.10, 1;minecraft:music_disc_pigstep, 0.05, 1;minecraft:diamond, 0.15, 1;minecraft:emerald, 0.20, 1-2;minecraft:experience_bottle, 0.10, 1-3;minecraft:nether_star, 0.005, 1"
+	#Bonanza item reward drops from 3 teddy heads: [item, chance, amount (can be either exact, n, or ranged, n-m); ...]
+	#
+	#Default: minecraft:golden_apple, 1.0, 1-3;minecraft:enchanted_golden_apple, 0.8, 1-3;minecraft:ender_pearl, 0.75,
+	#1-2;minecraft:ender_eye, 0.75, 1-2;minecraft:diamond, 0.65, 1-9;minecraft:gold_ingot, 0.85, 1-19;minecraft:cake, 0.55,
+	#1;minecraft:netherite_scrap, 0.30, 1;minecraft:netherite_ingot, 0.10, 1;minecraft:nether_star, 0.05, 1;minecraft:enchanted_book,
+	#0.15, 1;minecraft:enchanted_book, 0.10, 1
+	#Range: -Infinity ~ Infinity
+	BONANZA_3_TEDDY_HEADS_DROPS = "minecraft:golden_apple, 1.0, 1-3;minecraft:enchanted_golden_apple, 0.8, 1-3;minecraft:ender_pearl, 0.75, 1-2;minecraft:ender_eye, 0.75, 1-2;minecraft:diamond, 0.65, 1-9;minecraft:gold_ingot, 0.85, 1-19;minecraft:cake, 0.55, 1;minecraft:netherite_scrap, 0.30, 1;minecraft:netherite_ingot, 0.10, 1;minecraft:nether_star, 0.05, 1;minecraft:enchanted_book, 0.15, 1;minecraft:enchanted_book, 0.10, 1"
+	#Bonanza entity spawns from 3 skull heads: [entity, amount; ...]
+	#
+	#Default: minecraft:warden, 1
+	#Range: -Infinity ~ Infinity
+	BONANZA_3_SKULL_DROP_ENTITIES = "minecraft:warden, 1"
+	#Bonanza amount of tries per coin. The first number corresponds to the copper coin, the second to the nether coin and the third to
+	#the end coin. To clarify: [copper_coin, nether_coin, end_coin]
+	#
+	#Default: 1, 3, 5
+	#Range: -Infinity ~ Infinity
+	BONANZA_COIN_TRIES = "1, 3, 5"
+
+["Spawn Rates"]
+	#Golden allay spawnrate: [weight, minAmount, maxAmount, biomes and tags... (as many as you want)]
+	#
+	#Default: 20, 1, 1, minecraft:swamp, minecraft:mangrove_swamp, #forge:is_swamp
+	#Range: -Infinity ~ Infinity
+	GOLDEN_ALLAY_SPAWN = "20, 1, 1, minecraft:swamp, minecraft:mangrove_swamp, #forge:is_swamp"
+	#Cornelius spawnrate: [weight, minAmount, maxAmount, biomes and tags... (as many as you want)]
+	#
+	#Default: 15, 1, 1, minecraft:swamp, minecraft:mangrove_swamp, #forge:is_swamp
+	#Range: -Infinity ~ Infinity
+	CORNELIUS_SPAWN = "15, 1, 1, minecraft:swamp, minecraft:mangrove_swamp, #forge:is_swamp"
+	#Wild Antlion spawnrate: [weight, minAmount, maxAmount, biomes and tags... (as many as you want)]
+	#
+	#Default: 15, 1, 1, minecraft:desert, #forge:is_desert
+	#Range: -Infinity ~ Infinity
+	WILD_ANTLION_SPAWN = "15, 1, 1, minecraft:desert, #forge:is_desert"
+
