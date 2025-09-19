@@ -2,6 +2,23 @@ fireDamageMultiplier = 3.0
 explosionDamageMultiplier = 2.0
 arrowDamageMultiplier = 0.5
 
+[missiles]
+
+	[missiles.cannonball]
+		mass = 15.0
+		explosionRadius = 3.0
+		destroysGround = false
+
+	[missiles.stone]
+		mass = 50.0
+		explosionRadius = 2.0
+		destroysGround = false
+
+	[missiles.giant_stone]
+		mass = 70.0
+		explosionRadius = 5.0
+		destroysGround = false
+
 [siege_machines]
 
 	[siege_machines.mortar]
@@ -52,21 +69,4 @@ arrowDamageMultiplier = 0.5
 		projectileSpeed = 0.0
 		inaccuracy = 0.0
 		damageMultiplier = 0.0
-
-[missiles]
-
-	[missiles.cannonball]
-		mass = 15.0
-		explosionRadius = 3.0
-		destroysGround = false
-
-	[missiles.stone]
-		mass = 50.0
-		explosionRadius = 2.0
-		destroysGround = false
-
-	[missiles.giant_stone]
-		mass = 70.0
-		explosionRadius = 5.0
-		destroysGround = false
 
