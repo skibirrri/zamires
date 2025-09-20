@@ -7184,3 +7184,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [20Sep2025 13:46:34.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xkgevd5imm6s]: Finished looking at arguments. Finalizing command.
 [20Sep2025 13:46:39.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Sep2025 13:46:39.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 13:51:39.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 13:51:39.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 13:56:39.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 13:56:39.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 13:58:25.012] [Server thread/DEBUG] [com.etema.attributemodify.AttributeModify/]: Processing Curios attributes for flame_pendant in slot necklace
+[20Sep2025 13:58:37.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Spectator Mode]
