@@ -3189,3 +3189,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [20Sep2025 13:28:06.518] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/2996, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
 [20Sep2025 13:28:06.584] [Server thread/INFO] [Easy NPC/]: Opening menu 91eb9165-e381-4f57-9f86-5e12e9a2e4ee for npc abf79ed6-2bb5-49ca-aa26-59f670c3a635 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=3323.30, y=74.00, z=3826.53] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
 [20Sep2025 13:28:29.191] [Server thread/INFO] [Easy NPC/]: Opening menu 73a76a21-47c1-4b1d-9020-b2b4b9f1406f for npc abf79ed6-2bb5-49ca-aa26-59f670c3a635 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=3324.71, y=74.00, z=3826.50] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[tabernero]}]
+[20Sep2025 13:31:58.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Survival Mode]
+[20Sep2025 13:32:01.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zamires: Set own game mode to Survival Mode]
+[20Sep2025 13:32:43.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zamires: Set own game mode to Creative Mode]
+[20Sep2025 13:33:13.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Creative Mode]
+[20Sep2025 13:35:23.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zamires lost connection: Disconnected
+[20Sep2025 13:35:23.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires left the game
+[20Sep2025 13:35:23.265] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client zamires
+[20Sep2025 13:35:59.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lentojas0 has made the advancement [Amateur Archaeologist]
+[20Sep2025 13:36:33.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zamires[/127.148.213.14:52241] logged in with entity id 4299 at (3261.699999988079, 72.40766180795079, 3843.300000011921)
+[20Sep2025 13:36:33.873] [Server thread/INFO] [com.etema.attributemodify.AttributeModify/]: Datapack sync event triggered
+[20Sep2025 13:36:33.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires joined the game
+[20Sep2025 13:36:33.993] [Server thread/INFO] [com.etema.attributemodify.AttributeModify/]: Player zamires logged in, syncing attribute data
