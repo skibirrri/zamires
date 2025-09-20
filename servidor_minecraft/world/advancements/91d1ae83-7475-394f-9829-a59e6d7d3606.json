@@ -41,18 +41,94 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_peaks": "2025-09-20 09:46:53 +0000",
+      "minecraft:sparse_jungle": "2025-09-20 09:43:27 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-20 09:40:23 +0000",
+      "minecraft:stony_shore": "2025-09-20 09:40:57 +0000",
+      "minecraft:savanna": "2025-09-20 09:13:29 +0000",
+      "minecraft:plains": "2025-09-20 09:15:57 +0000"
+    },
+    "done": false
+  },
   "mca:root": {
     "criteria": {
       "village_plains": "2025-09-20 09:15:57 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "minecraft:savanna": "2025-09-20 09:13:29 +0000",
-      "minecraft:plains": "2025-09-20 09:15:57 +0000"
+      "has_iron_sword": "2025-09-20 09:40:02 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-09-20 09:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-09-20 09:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-09-20 09:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-09-20 09:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-09-20 09:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-09-20 09:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-20 09:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-09-20 09:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-09-20 09:40:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-09-20 09:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-09-20 09:42:11 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
