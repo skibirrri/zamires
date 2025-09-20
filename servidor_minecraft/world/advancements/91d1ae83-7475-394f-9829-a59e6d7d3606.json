@@ -64,6 +64,12 @@
     },
     "done": true
   },
+  "rpgsmw:berserk_class": {
+    "criteria": {
+      "berserk_class_0": "2025-09-20 09:49:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-09-20 09:42:11 +0000"

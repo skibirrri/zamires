@@ -3405,3 +3405,38 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [20Sep2025 09:50:33.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniole131 has completed the challenge [Mage Class]
 [20Sep2025 09:50:33.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniole131 has completed the challenge [Paladin Class]
 [20Sep2025 09:52:11.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Teleported lentojas0 to daniole131]
+[20Sep2025 09:55:27.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: daniole131 lost connection: Disconnected
+[20Sep2025 09:55:27.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: daniole131 left the game
+[20Sep2025 09:55:27.121] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client daniole131
+[20Sep2025 09:57:14.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: messi[/127.148.213.14:51009] logged in with entity id 5343 at (267.5, 72.0, 215.5)
+[20Sep2025 09:57:14.373] [Server thread/INFO] [com.etema.attributemodify.AttributeModify/]: Datapack sync event triggered
+[20Sep2025 09:57:14.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: messi joined the game
+[20Sep2025 09:57:14.458] [Server thread/INFO] [com.etema.attributemodify.AttributeModify/]: Player messi logged in, syncing attribute data
+[20Sep2025 09:57:14.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: messi has made the advancement [Blade MoveSets]
+[20Sep2025 09:57:14.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: messi has reached the goal [Choose Your Class]
+[20Sep2025 09:57:50.720] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: messi lost connection: Disconnected
+[20Sep2025 09:57:50.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: messi left the game
+[20Sep2025 09:57:50.721] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client messi
+[20Sep2025 09:58:58.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: messi[/127.148.213.14:38509] logged in with entity id 6275 at (267.5, 72.0, 215.5)
+[20Sep2025 09:58:58.624] [Server thread/INFO] [com.etema.attributemodify.AttributeModify/]: Datapack sync event triggered
+[20Sep2025 09:58:58.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: messi joined the game
+[20Sep2025 09:58:58.707] [Server thread/INFO] [com.etema.attributemodify.AttributeModify/]: Player messi logged in, syncing attribute data
+[20Sep2025 09:59:21.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Made messi a server operator]
+[20Sep2025 09:59:27.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [messi: Set own game mode to Creative Mode]
+[20Sep2025 09:59:31.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lentojas0 has made the advancement [Tiny Proud Soul]
+[20Sep2025 09:59:31.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lentojas0 has made the advancement [Slash Blade]
+[20Sep2025 09:59:42.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: messi lost connection: Disconnected
+[20Sep2025 09:59:42.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: messi left the game
+[20Sep2025 09:59:42.222] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client messi
+[20Sep2025 10:01:03.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zamires[/127.148.213.14:37161] logged in with entity id 7158 at (279.5, 74.0, 223.5)
+[20Sep2025 10:01:03.026] [Server thread/INFO] [com.etema.attributemodify.AttributeModify/]: Datapack sync event triggered
+[20Sep2025 10:01:03.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires joined the game
+[20Sep2025 10:01:03.111] [Server thread/INFO] [com.etema.attributemodify.AttributeModify/]: Player zamires logged in, syncing attribute data
+[20Sep2025 10:01:03.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has made the advancement [Blade MoveSets]
+[20Sep2025 10:01:03.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has reached the goal [Choose Your Class]
+[20Sep2025 10:01:42.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4011ms or 80 ticks behind
+[20Sep2025 10:01:45.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has made the advancement [Minecraft Comes Alive]
+[20Sep2025 10:01:49.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Made zamires a server operator]
+[20Sep2025 10:02:13.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zamires: Set own game mode to Creative Mode]
+[20Sep2025 10:02:19.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lentojas0> [name:"poblado de llanura", x:-535, y:68, z:-707, dim:minecraft:overworld]
+[20Sep2025 10:02:29.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Teleported lentojas0 to zamires]
