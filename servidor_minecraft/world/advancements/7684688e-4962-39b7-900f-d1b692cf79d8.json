@@ -812,6 +812,12 @@
     },
     "done": true
   },
+  "celestisynth:obtain_solaris": {
+    "criteria": {
+      "criteria": "2025-09-20 18:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-09-20 14:44:26 +0000"
