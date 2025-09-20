@@ -617,9 +617,27 @@
     },
     "done": true
   },
+  "celestisynth:obtain_breezebreaker": {
+    "criteria": {
+      "criteria": "2025-09-20 14:21:53 +0000"
+    },
+    "done": true
+  },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2025-09-20 14:21:20 +0000"
+    },
+    "done": true
+  },
   "celestisynth:obtain_keres": {
     "criteria": {
       "criteria": "2025-09-20 14:05:36 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_aquaflora": {
+    "criteria": {
+      "criteria": "2025-09-20 14:21:55 +0000"
     },
     "done": true
   },
