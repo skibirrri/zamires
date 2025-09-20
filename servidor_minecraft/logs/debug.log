@@ -7012,3 +7012,175 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [20Sep2025 13:36:44.762] [Server thread/DEBUG] [com.etema.attributemodify.AttributeModify/]: Processing Curios attributes for scarf_of_invisibility in slot necklace
 [20Sep2025 13:37:16.362] [Server thread/DEBUG] [com.etema.attributemodify.AttributeModify/]: Processing Curios attributes for scarf_of_invisibility in slot necklace
 [20Sep2025 13:39:30.714] [Server thread/DEBUG] [com.etema.attributemodify.AttributeModify/]: Processing Curios attributes for scarf_of_invisibility in slot necklace
+[20Sep2025 13:40:37.422] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0evsjnta2pl0a]: started parsing
+[20Sep2025 13:40:37.422] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0evsjnta2pl0a]: Consuming argument ``
+[20Sep2025 13:40:38.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z5q18lvit8wp]: started parsing
+[20Sep2025 13:40:38.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z5q18lvit8wp]: Consuming argument `s`
+[20Sep2025 13:40:38.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rv1m74rway89]: started parsing
+[20Sep2025 13:40:38.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rv1m74rway89]: Consuming argument `sn`
+[20Sep2025 13:40:38.720] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08ojq14kacb81]: started parsing
+[20Sep2025 13:40:38.720] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08ojq14kacb81]: Consuming argument `sno`
+[20Sep2025 13:40:38.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r9eklv3fo9zg]: started parsing
+[20Sep2025 13:40:38.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r9eklv3fo9zg]: Consuming argument `snow`
+[20Sep2025 13:40:38.849] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r9eklv3fo9zg]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:40:39.265] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ko8tvr4ccjdj]: started parsing
+[20Sep2025 13:40:39.265] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ko8tvr4ccjdj]: Consuming argument `snow`
+[20Sep2025 13:40:39.265] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ko8tvr4ccjdj]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:40:48.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c32f7t90nonm]: started parsing
+[20Sep2025 13:40:48.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c32f7t90nonm]: Consuming argument `snow`
+[20Sep2025 13:40:48.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c32f7t90nonm]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:40:48.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ile1o783urff]: started parsing
+[20Sep2025 13:40:48.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ile1o783urff]: Consuming argument `snow`
+[20Sep2025 13:40:48.750] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ile1o783urff]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:40:48.846] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eciclez5i1a2]: started parsing
+[20Sep2025 13:40:48.846] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eciclez5i1a2]: Consuming argument `snow`
+[20Sep2025 13:40:48.846] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eciclez5i1a2]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:40:52.264] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dqtf0cx55yx8]: started parsing
+[20Sep2025 13:40:52.264] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dqtf0cx55yx8]: Consuming argument `snow`
+[20Sep2025 13:40:52.265] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dqtf0cx55yx8]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:40:52.265] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vcq73d3lfnlt]: started parsing
+[20Sep2025 13:40:52.265] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vcq73d3lfnlt]: Consuming argument `snow`
+[20Sep2025 13:40:52.265] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vcq73d3lfnlt]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:40:52.431] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kn8yimk81au4]: started parsing
+[20Sep2025 13:40:52.431] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kn8yimk81au4]: Consuming argument `snow`
+[20Sep2025 13:40:52.431] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kn8yimk81au4]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:40:54.571] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0525fozgj9qgt]: started parsing
+[20Sep2025 13:40:54.571] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0525fozgj9qgt]: Consuming argument `snow`
+[20Sep2025 13:40:54.571] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0525fozgj9qgt]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:40:54.571] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j5g5vdjtu66s]: started parsing
+[20Sep2025 13:40:54.571] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j5g5vdjtu66s]: Consuming argument `snow`
+[20Sep2025 13:40:54.571] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j5g5vdjtu66s]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:40:54.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1skc8eyd1sv3b]: started parsing
+[20Sep2025 13:40:54.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1skc8eyd1sv3b]: Consuming argument `snow`
+[20Sep2025 13:40:54.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1skc8eyd1sv3b]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:41:04.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g2cnleutwd2o]: started parsing
+[20Sep2025 13:41:04.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g2cnleutwd2o]: Consuming argument `snow`
+[20Sep2025 13:41:04.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g2cnleutwd2o]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:41:04.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [098cyncsq7qgd]: started parsing
+[20Sep2025 13:41:04.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [098cyncsq7qgd]: Consuming argument `snow`
+[20Sep2025 13:41:04.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [098cyncsq7qgd]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:41:04.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xk3lvfyh35pd]: started parsing
+[20Sep2025 13:41:04.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xk3lvfyh35pd]: Consuming argument `snow`
+[20Sep2025 13:41:04.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xk3lvfyh35pd]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:41:13.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mefup9m65pcy]: started parsing
+[20Sep2025 13:41:13.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mefup9m65pcy]: Consuming argument `snow`
+[20Sep2025 13:41:13.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mefup9m65pcy]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:41:13.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0so14rkpsnr2d]: started parsing
+[20Sep2025 13:41:13.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0so14rkpsnr2d]: Consuming argument `snow`
+[20Sep2025 13:41:13.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0so14rkpsnr2d]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:41:14.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rznmuyttpcio]: started parsing
+[20Sep2025 13:41:14.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rznmuyttpcio]: Consuming argument `snow`
+[20Sep2025 13:41:14.346] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rznmuyttpcio]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:41:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zamires: Set the time to 1000]
+[20Sep2025 13:41:28.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zamires: Set the time to 1000]
+[20Sep2025 13:41:30.146] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1veciunbprfe1]: started parsing
+[20Sep2025 13:41:30.146] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1veciunbprfe1]: Consuming argument `snow`
+[20Sep2025 13:41:30.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1veciunbprfe1]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:41:30.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17p63k1b68l82]: started parsing
+[20Sep2025 13:41:30.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17p63k1b68l82]: Consuming argument `snow`
+[20Sep2025 13:41:30.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17p63k1b68l82]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:41:30.869] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12hsa9gtj80r6]: started parsing
+[20Sep2025 13:41:30.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12hsa9gtj80r6]: Consuming argument `snow`
+[20Sep2025 13:41:30.870] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12hsa9gtj80r6]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:41:39.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 13:41:39.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 13:41:47.915] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t7bsbfugkgid]: started parsing
+[20Sep2025 13:41:47.915] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t7bsbfugkgid]: Consuming argument `snow`
+[20Sep2025 13:41:47.916] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t7bsbfugkgid]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:41:47.916] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1julenrdqnd4p]: started parsing
+[20Sep2025 13:41:47.916] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1julenrdqnd4p]: Consuming argument `snow`
+[20Sep2025 13:41:47.916] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1julenrdqnd4p]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:41:48.213] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06cgpwquchcjr]: started parsing
+[20Sep2025 13:41:48.213] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06cgpwquchcjr]: Consuming argument `snow`
+[20Sep2025 13:41:48.213] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06cgpwquchcjr]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:42:18.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sqeptyc39oa1]: started parsing
+[20Sep2025 13:42:18.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sqeptyc39oa1]: Consuming argument `snow`
+[20Sep2025 13:42:18.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sqeptyc39oa1]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:42:18.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00bggpxgvos83]: started parsing
+[20Sep2025 13:42:18.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00bggpxgvos83]: Consuming argument `snow`
+[20Sep2025 13:42:18.131] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00bggpxgvos83]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:42:18.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ak79r3jnifl]: started parsing
+[20Sep2025 13:42:18.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ak79r3jnifl]: Consuming argument `snow`
+[20Sep2025 13:42:18.266] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [19ak79r3jnifl]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:42:20.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13316jqtlq1rl]: started parsing
+[20Sep2025 13:42:20.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13316jqtlq1rl]: Consuming argument `snow`
+[20Sep2025 13:42:20.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13316jqtlq1rl]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:42:20.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15s5b8nf9vaa0]: started parsing
+[20Sep2025 13:42:20.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15s5b8nf9vaa0]: Consuming argument `snow`
+[20Sep2025 13:42:20.385] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15s5b8nf9vaa0]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:42:21.020] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s3zgyricv8rx]: started parsing
+[20Sep2025 13:42:21.021] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s3zgyricv8rx]: Consuming argument `snow`
+[20Sep2025 13:42:21.021] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1s3zgyricv8rx]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:42:21.021] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10fw0h9l8huj5]: started parsing
+[20Sep2025 13:42:21.021] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10fw0h9l8huj5]: Consuming argument `snow`
+[20Sep2025 13:42:21.021] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10fw0h9l8huj5]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:42:22.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vm0yx5bd8dvp]: started parsing
+[20Sep2025 13:42:22.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vm0yx5bd8dvp]: Consuming argument `sno`
+[20Sep2025 13:42:22.765] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14mlhu0jroofp]: started parsing
+[20Sep2025 13:42:22.765] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14mlhu0jroofp]: Consuming argument `sn`
+[20Sep2025 13:42:22.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t62vt3o0y2uz]: started parsing
+[20Sep2025 13:42:22.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t62vt3o0y2uz]: Consuming argument `s`
+[20Sep2025 13:42:22.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ri276zxgn9kp]: started parsing
+[20Sep2025 13:42:22.830] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ri276zxgn9kp]: Consuming argument ``
+[20Sep2025 13:42:24.815] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18wh11d3k7ncp]: started parsing
+[20Sep2025 13:42:24.815] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18wh11d3k7ncp]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:43:02.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Survival Mode]
+[20Sep2025 13:43:11.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Creative Mode]
+[20Sep2025 13:43:39.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [066qztqog4uu1]: started parsing
+[20Sep2025 13:43:39.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [066qztqog4uu1]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:43:40.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16a901kqz757c]: started parsing
+[20Sep2025 13:43:40.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16a901kqz757c]: Consuming argument `snow`
+[20Sep2025 13:43:40.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16a901kqz757c]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:43:40.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eiet6cdv5apa]: started parsing
+[20Sep2025 13:43:40.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eiet6cdv5apa]: Consuming argument `snow`
+[20Sep2025 13:43:40.747] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eiet6cdv5apa]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:43:41.430] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ow6gxy8rez9]: started parsing
+[20Sep2025 13:43:41.431] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ow6gxy8rez9]: Consuming argument `snow`
+[20Sep2025 13:43:41.431] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ow6gxy8rez9]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:43:44.530] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hreza45u0wew]: started parsing
+[20Sep2025 13:43:44.530] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hreza45u0wew]: Consuming argument `snow`
+[20Sep2025 13:43:44.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hreza45u0wew]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:43:44.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t3m41s5c3wig]: started parsing
+[20Sep2025 13:43:44.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t3m41s5c3wig]: Consuming argument `snow`
+[20Sep2025 13:43:44.531] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t3m41s5c3wig]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:43:44.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vg36ubfyjq44]: started parsing
+[20Sep2025 13:43:44.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vg36ubfyjq44]: Consuming argument `snow`
+[20Sep2025 13:43:44.671] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vg36ubfyjq44]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:45:47.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jeo6e47r3wfy]: started parsing
+[20Sep2025 13:45:47.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jeo6e47r3wfy]: Consuming argument `snow`
+[20Sep2025 13:45:47.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jeo6e47r3wfy]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:45:47.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bghoj64t1v5l]: started parsing
+[20Sep2025 13:45:47.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bghoj64t1v5l]: Consuming argument `snow`
+[20Sep2025 13:45:47.263] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bghoj64t1v5l]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:45:47.364] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1la262rl113i9]: started parsing
+[20Sep2025 13:45:47.364] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1la262rl113i9]: Consuming argument `snow`
+[20Sep2025 13:45:47.364] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1la262rl113i9]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:46:04.214] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jzmduh3p16xd]: started parsing
+[20Sep2025 13:46:04.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jzmduh3p16xd]: Consuming argument `snow`
+[20Sep2025 13:46:04.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jzmduh3p16xd]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:46:04.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07z61epryrulv]: started parsing
+[20Sep2025 13:46:04.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07z61epryrulv]: Consuming argument `snow`
+[20Sep2025 13:46:04.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07z61epryrulv]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:46:04.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00dj32hw18xhd]: started parsing
+[20Sep2025 13:46:04.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00dj32hw18xhd]: Consuming argument `snow`
+[20Sep2025 13:46:04.363] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00dj32hw18xhd]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:46:28.414] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c4t5is2tz4qa]: started parsing
+[20Sep2025 13:46:28.414] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c4t5is2tz4qa]: Consuming argument `snow`
+[20Sep2025 13:46:28.414] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c4t5is2tz4qa]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:46:28.415] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01di8n7vol15s]: started parsing
+[20Sep2025 13:46:28.415] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01di8n7vol15s]: Consuming argument `snow`
+[20Sep2025 13:46:28.415] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01di8n7vol15s]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:46:28.681] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046bv6ayvptck]: started parsing
+[20Sep2025 13:46:28.681] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046bv6ayvptck]: Consuming argument `snow`
+[20Sep2025 13:46:28.681] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046bv6ayvptck]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:46:34.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wqzl6p0t8mld]: started parsing
+[20Sep2025 13:46:34.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wqzl6p0t8mld]: Consuming argument `snow`
+[20Sep2025 13:46:34.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wqzl6p0t8mld]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:46:34.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1limda90qazzl]: started parsing
+[20Sep2025 13:46:34.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1limda90qazzl]: Consuming argument `snow`
+[20Sep2025 13:46:34.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1limda90qazzl]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:46:34.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xkgevd5imm6s]: started parsing
+[20Sep2025 13:46:34.946] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xkgevd5imm6s]: Consuming argument `snow`
+[20Sep2025 13:46:34.947] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xkgevd5imm6s]: Finished looking at arguments. Finalizing command.
+[20Sep2025 13:46:39.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 13:46:39.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

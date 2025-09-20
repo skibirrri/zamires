@@ -3201,3 +3201,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [20Sep2025 13:36:33.873] [Server thread/INFO] [com.etema.attributemodify.AttributeModify/]: Datapack sync event triggered
 [20Sep2025 13:36:33.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires joined the game
 [20Sep2025 13:36:33.993] [Server thread/INFO] [com.etema.attributemodify.AttributeModify/]: Player zamires logged in, syncing attribute data
+[20Sep2025 13:41:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zamires: Set the time to 1000]
+[20Sep2025 13:41:28.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zamires: Set the time to 1000]
+[20Sep2025 13:43:02.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Survival Mode]
+[20Sep2025 13:43:11.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Creative Mode]
