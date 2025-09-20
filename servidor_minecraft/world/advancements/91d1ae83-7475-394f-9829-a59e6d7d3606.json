@@ -779,6 +779,12 @@
     },
     "done": true
   },
+  "faded_conquest_2:fcislain": {
+    "criteria": {
+      "fcislain_0": "2025-09-20 16:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-09-20 14:10:46 +0000"
@@ -848,6 +854,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-09-20 15:41:06 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:ttslain": {
+    "criteria": {
+      "ttslain_0": "2025-09-20 16:37:14 +0000"
     },
     "done": true
   },
