@@ -12689,3 +12689,839 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [20Sep2025 19:22:47.078] [Server thread/DEBUG] [com.etema.attributemodify.AttributeModify/]: Processing Curios attributes for novelty_drinking_hat in slot head
 [20Sep2025 19:23:38.035] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jelena'/136903, l='ServerLevel[world]', x=-596.36, y=64.00, z=-616.51] died, message: 'Jelena was slain by lentojas0'
 [20Sep2025 19:23:38.036] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Jelena'/136903, l='ServerLevel[world]', x=-596.36, y=64.00, z=-616.51] died: Jelena was slain by lentojas0
+[20Sep2025 19:26:44.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 19:26:44.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 19:27:31.772] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/139920, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:27:31.772] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/139920, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:27:31.772] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/139920, l='ServerLevel[world]', x=-548.50, y=72.00, z=-668.50] ...
+[20Sep2025 19:27:31.773] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/139920, l='ServerLevel[world]', x=-548.50, y=72.00, z=-668.50] ...
+[20Sep2025 19:27:32.390] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/139931, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:27:32.391] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/139931, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:27:32.471] [Server thread/INFO] [Easy NPC/]: Opening menu 873e313d-6b37-4ed2-a0a7-d327018b5ce9 for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.79, y=72.00, z=-666.31] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:27:37.597] [Server thread/INFO] [Easy NPC/]: Opening menu b7a881f5-eed3-438e-a9e1-956d6226c5b2 for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.79, y=72.00, z=-666.31] with ConfigurationMenu.ABILITIES_ATTRIBUTE[translation{key='text.easy_npc.config.abilities_attribute.title', args=[Humanoid]}]
+[20Sep2025 19:27:38.497] [Server thread/INFO] [Easy NPC/]: Opening menu db1131a4-e050-473d-b1ee-1cdc7d9ff32c for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.79, y=72.00, z=-666.31] with ConfigurationMenu.BASE_ATTRIBUTE[translation{key='text.easy_npc.config.base_attribute.title', args=[Humanoid]}]
+[20Sep2025 19:27:51.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ia84tcyahqbm]: started parsing
+[20Sep2025 19:27:51.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ia84tcyahqbm]: Consuming argument `air`
+[20Sep2025 19:27:51.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ia84tcyahqbm]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:27:51.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bbfcio3kbrfx]: started parsing
+[20Sep2025 19:27:51.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bbfcio3kbrfx]: Consuming argument `air`
+[20Sep2025 19:27:51.974] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bbfcio3kbrfx]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:27:52.672] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v5tv8jv5x3fx]: started parsing
+[20Sep2025 19:27:52.672] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v5tv8jv5x3fx]: Consuming argument `air`
+[20Sep2025 19:27:52.672] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v5tv8jv5x3fx]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:27:53.832] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0om30h2au6fal]: started parsing
+[20Sep2025 19:27:53.832] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0om30h2au6fal]: Consuming argument `air`
+[20Sep2025 19:27:53.832] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0om30h2au6fal]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:27:53.832] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jf2g5ho7p11z]: started parsing
+[20Sep2025 19:27:53.832] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jf2g5ho7p11z]: Consuming argument `air`
+[20Sep2025 19:27:53.833] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jf2g5ho7p11z]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:27:53.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ctg2zq33lf0]: started parsing
+[20Sep2025 19:27:53.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ctg2zq33lf0]: Consuming argument `grass_block`
+[20Sep2025 19:27:53.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00ctg2zq33lf0]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:27:53.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1skgqj46lylj9]: started parsing
+[20Sep2025 19:27:53.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1skgqj46lylj9]: Consuming argument `grass_block`
+[20Sep2025 19:27:53.999] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1skgqj46lylj9]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:27:54.523] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kwd6zjkqzubl]: started parsing
+[20Sep2025 19:27:54.523] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kwd6zjkqzubl]: Consuming argument `grass_block`
+[20Sep2025 19:27:54.523] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kwd6zjkqzubl]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:08.237] [Server thread/INFO] [Easy NPC/]: Opening menu 435a95ed-975b-4c65-9dd4-d24f38c3cf07 for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.47, y=72.00, z=-667.12] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:28:09.472] [Server thread/INFO] [Easy NPC/]: Opening menu fb05d0ed-e4c0-462a-8699-a5f9b8556346 for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.47, y=72.00, z=-667.12] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[Humanoid]}]
+[20Sep2025 19:28:10.748] [Server thread/INFO] [Easy NPC/]: Opening menu fdfce0fa-d8f6-4ec9-baa9-9b1678facb49 for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.47, y=72.00, z=-667.12] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:28:12.352] [Server thread/INFO] [Easy NPC/]: Opening menu 24b2bf8d-9823-480e-8d26-cf6c432897fd for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.47, y=72.00, z=-667.12] with ConfigurationMenu.DEFAULT_ROTATION[translation{key='text.easy_npc.config.default_rotation.title', args=[Humanoid]}]
+[20Sep2025 19:28:12.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1neexb883u2yi]: started parsing
+[20Sep2025 19:28:12.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1neexb883u2yi]: Consuming argument `grass_block`
+[20Sep2025 19:28:12.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1neexb883u2yi]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:12.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t6fuknm1gefu]: started parsing
+[20Sep2025 19:28:12.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t6fuknm1gefu]: Consuming argument `grass_block`
+[20Sep2025 19:28:12.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t6fuknm1gefu]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:13.602] [Server thread/INFO] [Easy NPC/]: Opening menu 39bf39a0-4e5b-4789-b748-144342208aed for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.47, y=72.00, z=-667.12] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:28:13.783] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kynvy16qmipx]: started parsing
+[20Sep2025 19:28:13.783] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kynvy16qmipx]: Consuming argument `grass_block`
+[20Sep2025 19:28:13.783] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kynvy16qmipx]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:14.335] [Server thread/INFO] [Easy NPC/]: Opening menu 13a9fe00-9a4a-4ab9-a868-ec66e606c16c for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.47, y=72.00, z=-667.12] with ConfigurationMenu.NONE_TRADING[translation{key='text.easy_npc.config.none_trading.title', args=[Humanoid]}]
+[20Sep2025 19:28:15.348] [Server thread/INFO] [Easy NPC/]: Opening menu 01d85f22-2c50-4153-b899-ee612e544428 for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.47, y=72.00, z=-667.12] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:28:16.328] [Server thread/INFO] [Easy NPC/]: Opening menu d1cd9ee8-4512-41e9-b451-6bc1d8b812d2 for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.47, y=72.00, z=-667.12] with EquipmentConfigurationMenu[translation{key='text.easy_npc.config.equipment.title', args=[Humanoid]}]
+[20Sep2025 19:28:19.349] [Server thread/INFO] [Easy NPC/]: Opening menu 4ae40e8c-0d92-4c63-812a-fa33c54fa07c for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.47, y=72.00, z=-667.12] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:28:20.603] [Server thread/INFO] [Easy NPC/]: Opening menu ef7e4ab6-6b05-4388-adf9-8e8e24c3fe2f for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.47, y=72.00, z=-667.12] with ConfigurationMenu.BASIC_OBJECTIVE[translation{key='text.easy_npc.config.basic_objective.title', args=[Humanoid]}]
+[20Sep2025 19:28:21.823] [Server thread/INFO] [Easy NPC/]: Opening menu 2a8fb5c9-3534-4486-82a4-dec35d6ffa13 for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-548.47, y=72.00, z=-667.12] with ConfigurationMenu.ATTACK_OBJECTIVE[translation{key='text.easy_npc.config.attack_objective.title', args=[Humanoid]}]
+[20Sep2025 19:28:29.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j7lskqfnz96l]: started parsing
+[20Sep2025 19:28:29.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j7lskqfnz96l]: Consuming argument `grass_block`
+[20Sep2025 19:28:29.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j7lskqfnz96l]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:29.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16su72grtqj5o]: started parsing
+[20Sep2025 19:28:29.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16su72grtqj5o]: Consuming argument `grass_block`
+[20Sep2025 19:28:29.474] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16su72grtqj5o]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:29.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1icrh8qsb6tu5]: started parsing
+[20Sep2025 19:28:29.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1icrh8qsb6tu5]: Consuming argument `grass_block`
+[20Sep2025 19:28:29.648] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1icrh8qsb6tu5]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:32.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00fwkhd1josay]: started parsing
+[20Sep2025 19:28:32.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00fwkhd1josay]: Consuming argument `grass_block`
+[20Sep2025 19:28:32.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00fwkhd1josay]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:32.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [067i0frml79y0]: started parsing
+[20Sep2025 19:28:32.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [067i0frml79y0]: Consuming argument `grass_block`
+[20Sep2025 19:28:32.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [067i0frml79y0]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:33.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08k9emvfcwmqa]: started parsing
+[20Sep2025 19:28:33.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08k9emvfcwmqa]: Consuming argument `grass_block`
+[20Sep2025 19:28:33.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08k9emvfcwmqa]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:38.822] [Server thread/INFO] [Easy NPC/]: Opening menu 87c5882b-cbcd-440b-9b48-98471e38a58f for npc 511cd5d2-9575-4f3c-98f1-a2cd25b33bb0 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-618.18, y=47.00, z=-584.93] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:28:40.172] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ql9sknzwkcvy]: started parsing
+[20Sep2025 19:28:40.172] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ql9sknzwkcvy]: Consuming argument `grass_block`
+[20Sep2025 19:28:40.172] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ql9sknzwkcvy]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:40.172] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iylr3479ojc6]: started parsing
+[20Sep2025 19:28:40.172] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iylr3479ojc6]: Consuming argument `grass_block`
+[20Sep2025 19:28:40.172] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iylr3479ojc6]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:40.523] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Humanoid['Humanoid'/139920, l='ServerLevel[world]', x=-619.32, y=49.79, z=-584.72] requested by ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-618.18, y=47.00, z=-584.93]
+[20Sep2025 19:28:40.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vendz5md1rz4]: started parsing
+[20Sep2025 19:28:40.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vendz5md1rz4]: Consuming argument `grass_block`
+[20Sep2025 19:28:40.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vendz5md1rz4]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:48.483] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h5j5zxcb6tc6]: started parsing
+[20Sep2025 19:28:48.483] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h5j5zxcb6tc6]: Consuming argument `grass_block`
+[20Sep2025 19:28:48.484] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h5j5zxcb6tc6]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:48.484] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ivgcfavnid0z]: started parsing
+[20Sep2025 19:28:48.484] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ivgcfavnid0z]: Consuming argument `grass_block`
+[20Sep2025 19:28:48.484] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ivgcfavnid0z]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:48.597] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kel1qwga805i]: started parsing
+[20Sep2025 19:28:48.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kel1qwga805i]: Consuming argument `grass_block`
+[20Sep2025 19:28:48.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kel1qwga805i]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:59.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mye24gcyzzsb]: started parsing
+[20Sep2025 19:28:59.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mye24gcyzzsb]: Consuming argument `grass_block`
+[20Sep2025 19:28:59.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mye24gcyzzsb]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:59.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17igcmpb2reen]: started parsing
+[20Sep2025 19:28:59.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17igcmpb2reen]: Consuming argument `grass_block`
+[20Sep2025 19:28:59.639] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17igcmpb2reen]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:28:59.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00su58yhcjq4p]: started parsing
+[20Sep2025 19:28:59.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00su58yhcjq4p]: Consuming argument `grass_block`
+[20Sep2025 19:28:59.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00su58yhcjq4p]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:29:03.784] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/140966, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:29:03.784] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/140966, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:29:03.785] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/140966, l='ServerLevel[world]', x=-544.50, y=71.00, z=-674.50] ...
+[20Sep2025 19:29:03.785] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/140966, l='ServerLevel[world]', x=-544.50, y=71.00, z=-674.50] ...
+[20Sep2025 19:29:04.470] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/140974, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:29:04.471] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/140974, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:29:04.546] [Server thread/INFO] [Easy NPC/]: Opening menu caa5e743-1bce-4bcb-99ef-43979743d724 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.51, y=71.00, z=-671.33] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:29:05.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wvdq8rtm01ak]: started parsing
+[20Sep2025 19:29:05.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wvdq8rtm01ak]: Consuming argument `grass_block`
+[20Sep2025 19:29:05.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wvdq8rtm01ak]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:29:05.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l6qlzhvvl958]: started parsing
+[20Sep2025 19:29:05.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l6qlzhvvl958]: Consuming argument `grass_block`
+[20Sep2025 19:29:05.301] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l6qlzhvvl958]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:29:05.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ete1x06durw7]: started parsing
+[20Sep2025 19:29:05.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ete1x06durw7]: Consuming argument `grass_block`
+[20Sep2025 19:29:05.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ete1x06durw7]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:29:06.773] [Server thread/INFO] [Easy NPC/]: Opening menu 8368c7a7-7ef9-4ae9-bcb9-cbaf745948b2 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.54, y=71.00, z=-671.45] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[Humanoid]}]
+[20Sep2025 19:29:09.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06bsct1n3xwaz]: started parsing
+[20Sep2025 19:29:09.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06bsct1n3xwaz]: Consuming argument `grass_block`
+[20Sep2025 19:29:09.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06bsct1n3xwaz]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:29:09.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m8pnvh38zw2q]: started parsing
+[20Sep2025 19:29:09.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m8pnvh38zw2q]: Consuming argument `grass_block`
+[20Sep2025 19:29:09.884] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m8pnvh38zw2q]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:29:09.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uwyinc47huap]: started parsing
+[20Sep2025 19:29:09.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uwyinc47huap]: Consuming argument `grass_block`
+[20Sep2025 19:29:09.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uwyinc47huap]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:29:10.620] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/141015, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:29:10.621] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/141015, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:29:10.731] [Server thread/INFO] [Easy NPC/]: Opening menu 1e887aea-c11e-4743-850a-bcd27650df8f for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.04] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:29:11.986] [Server thread/INFO] [Easy NPC/]: Opening menu 4f2575bd-0a15-460c-bc2e-f7730899e1a4 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.04] with ConfigurationMenu.BASIC_OBJECTIVE[translation{key='text.easy_npc.config.basic_objective.title', args=[Humanoid]}]
+[20Sep2025 19:29:12.872] [Server thread/INFO] [Easy NPC/]: Opening menu 1ef5a3b6-19df-4406-8683-00e3aa76561e for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.04] with ConfigurationMenu.ATTACK_OBJECTIVE[translation{key='text.easy_npc.config.attack_objective.title', args=[Humanoid]}]
+[20Sep2025 19:29:13.901] [Server thread/INFO] [Easy NPC/]: Opening menu a53e6c61-cf24-4427-874d-f19b9caa1d1c for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.04] with ConfigurationMenu.LOOK_OBJECTIVE[translation{key='text.easy_npc.config.look_objective.title', args=[Humanoid]}]
+[20Sep2025 19:29:14.382] [Server thread/INFO] [Easy NPC/]: Opening menu 66b76c04-ebdb-4d5b-a5d0-fdddc8148b85 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.04] with ConfigurationMenu.ATTACK_OBJECTIVE[translation{key='text.easy_npc.config.attack_objective.title', args=[Humanoid]}]
+[20Sep2025 19:29:14.722] [Server thread/INFO] [Easy NPC/]: Opening menu f70f5bca-bc98-437f-9432-b80a0aa53eef for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.04] with ConfigurationMenu.FOLLOW_OBJECTIVE[translation{key='text.easy_npc.config.follow_objective.title', args=[Humanoid]}]
+[20Sep2025 19:29:17.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16nuhku8ezr5o]: started parsing
+[20Sep2025 19:29:17.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16nuhku8ezr5o]: Consuming argument `grass_block`
+[20Sep2025 19:29:17.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16nuhku8ezr5o]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:29:17.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ntdnd5koevbv]: started parsing
+[20Sep2025 19:29:17.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ntdnd5koevbv]: Consuming argument `grass_block`
+[20Sep2025 19:29:17.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ntdnd5koevbv]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:29:18.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nxl44x7lfgyl]: started parsing
+[20Sep2025 19:29:18.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nxl44x7lfgyl]: Consuming argument `grass_block`
+[20Sep2025 19:29:18.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nxl44x7lfgyl]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:29:23.734] [Server thread/INFO] [Easy NPC/]: Opening menu dc1ed7f7-b643-4f1f-ae84-c0a76231ac33 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.04] with ConfigurationMenu.BASIC_OBJECTIVE[translation{key='text.easy_npc.config.basic_objective.title', args=[Humanoid]}]
+[20Sep2025 19:29:25.734] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/141174, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:29:25.734] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/141174, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:29:25.787] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/141175, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:29:25.787] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/141175, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:29:25.874] [Server thread/INFO] [Easy NPC/]: Opening menu 78772c2c-e1a7-4bde-bf09-c926cf48553e for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.04] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:29:29.089] [Server thread/INFO] [Easy NPC/]: Opening menu da4de257-346f-4dce-bc90-17c242f33ff5 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.04] with EquipmentConfigurationMenu[translation{key='text.easy_npc.config.equipment.title', args=[Humanoid]}]
+[20Sep2025 19:29:32.646] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/141237, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:29:32.646] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/141237, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:29:32.736] [Server thread/INFO] [Easy NPC/]: Opening menu 8521efa5-2605-4c96-ab1e-70e1a445683b for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.04] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:29:38.933] [Server thread/INFO] [Easy NPC/]: Opening menu a937cc62-640e-4e8c-8822-2eec8c21f698 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.04] with ConfigurationMenu.SCALING[translation{key='text.easy_npc.config.scaling.title', args=[Humanoid]}]
+[20Sep2025 19:29:41.472] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/141279, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:29:41.472] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/141279, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:29:41.535] [Server thread/INFO] [Easy NPC/]: Opening menu 3bd6b891-cf9d-43bd-a4a1-628193c091a8 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.91, y=71.00, z=-672.63] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:29:42.800] [Server thread/INFO] [Easy NPC/]: Opening menu 141c95a2-7bb0-446d-910e-a16862001a0b for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.91, y=71.00, z=-672.63] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[Humanoid]}]
+[20Sep2025 19:29:43.749] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/141301, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:29:43.749] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/141301, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:29:43.825] [Server thread/INFO] [Easy NPC/]: Opening menu 610d12e0-ed04-47a5-912b-5c1f92cbcb98 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.91, y=71.00, z=-672.63] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:29:44.706] [Server thread/INFO] [Easy NPC/]: Opening menu 95a3718f-d8af-4b07-b76e-089b0c6995c7 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.91, y=71.00, z=-672.63] with ConfigurationMenu.BASIC_ACTION[translation{key='text.easy_npc.config.basic_action.title', args=[Humanoid]}]
+[20Sep2025 19:29:45.520] [Server thread/INFO] [Easy NPC/]: Opening menu fe633156-bea3-4b09-9b13-613637c99b2c for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.91, y=71.00, z=-672.63] with ConfigurationMenu.DIALOG_ACTION[translation{key='text.easy_npc.config.dialog_action.title', args=[Humanoid]}]
+[20Sep2025 19:29:46.835] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/141312, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:29:46.835] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/141312, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:29:46.901] [Server thread/INFO] [Easy NPC/]: Opening menu 991310c6-0e86-4fe0-8aa0-7b76b86c02e2 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.91, y=71.00, z=-672.63] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:29:49.471] [Server thread/INFO] [Easy NPC/]: Opening menu 28ff8247-7bb1-49c7-980f-34cf77bc96fa for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.91, y=71.00, z=-672.63] with ConfigurationMenu.ABILITIES_ATTRIBUTE[translation{key='text.easy_npc.config.abilities_attribute.title', args=[Humanoid]}]
+[20Sep2025 19:29:50.551] [Server thread/INFO] [Easy NPC/]: Opening menu 4f7547d6-3e39-4a9f-9d73-3fc1585e5390 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.91, y=71.00, z=-672.63] with ConfigurationMenu.BASE_ATTRIBUTE[translation{key='text.easy_npc.config.base_attribute.title', args=[Humanoid]}]
+[20Sep2025 19:29:55.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vdutx9m6dnyj]: started parsing
+[20Sep2025 19:29:55.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vdutx9m6dnyj]: Consuming argument `grass_block`
+[20Sep2025 19:29:55.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vdutx9m6dnyj]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:29:55.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1adyv0ft6f0ok]: started parsing
+[20Sep2025 19:29:55.079] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1adyv0ft6f0ok]: Consuming argument `grass_block`
+[20Sep2025 19:29:55.080] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1adyv0ft6f0ok]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:29:55.533] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06nivin4zu7j8]: started parsing
+[20Sep2025 19:29:55.533] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06nivin4zu7j8]: Consuming argument `grass_block`
+[20Sep2025 19:29:55.533] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06nivin4zu7j8]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:06.832] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07azvt1sgzgvf]: started parsing
+[20Sep2025 19:30:06.832] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07azvt1sgzgvf]: Consuming argument `grass_block`
+[20Sep2025 19:30:06.833] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07azvt1sgzgvf]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:06.833] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bplcz3f5zka7]: started parsing
+[20Sep2025 19:30:06.833] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bplcz3f5zka7]: Consuming argument `grass_block`
+[20Sep2025 19:30:06.833] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bplcz3f5zka7]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:07.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zoeldbfoxzq7]: started parsing
+[20Sep2025 19:30:07.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zoeldbfoxzq7]: Consuming argument `grass_block`
+[20Sep2025 19:30:07.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zoeldbfoxzq7]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:13.685] [Server thread/INFO] [Easy NPC/]: Captured NPC preset from Humanoid['Humanoid'/140966, l='ServerLevel[world]', x=-544.50, y=71.00, z=-674.50] with {AbsorptionAmount:0.0f,ActionData:{ActionEventSet:{ON_INTERACTION:[{Type:"OPEN_DEFAULT_DIALOG"},{Type:"OPEN_TRADING_SCREEN"}]},ActionPermissionLevel:0},Air:300s,AngerTime:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:1.0d,Name:"minecraft:generic.movement_speed"},{Base:0.0d,Name:"minecraft:generic.attack_knockback"},{Base:30.0d,Name:"minecraft:generic.armor"},{Base:2048.0d,Name:"minecraft:generic.attack_damage"},{Base:1024.0d,Name:"minecraft:generic.max_health"},{Base:1024.0d,Name:"minecraft:generic.attack_speed"},{Base:2048.0d,Modifiers:[{Amount:0.0705632053837234d,Name:"Random spawn bonus",Operation:1,UUID:[I;1544250888,-362526599,-1689930398,1243660751]}],Name:"minecraft:generic.follow_range"},{Base:0.0d,Name:"minecraft:generic.knockback_resistance"},{Base:0.08d,Name:"forge:entity_gravity"}],Brain:{memories:{}},CanPickUpLoot:0b,CanUpdate:1b,CustomAttributes:{},DeathTime:0s,DialogData:{DialogDataSet:[],Type:"NONE"},DisplayAttributeSet:[{Boolean:1b,Type:"VISIBLE_AT_NIGHT"},{Boolean:1b,Type:"VISIBLE"},{Boolean:1b,Type:"VISIBLE_AT_DAY"},{Boolean:1b,Type:"VISIBLE_IN_CREATIVE"},{Boolean:0b,Int:7,Type:"LIGHT_LEVEL"},{Boolean:1b,Type:"VISIBLE_IN_SPECTATOR"},{Boolean:1b,Type:"VISIBLE_TO_OWNER"},{Boolean:1b,Type:"VISIBLE_IN_STANDARD"},{Boolean:1b,Type:"VISIBLE_TO_TEAM"}],EasyNPCVersion:3,EntityAttribute:{CanBeLeashed:0b,CanBreatheUnderwater:0b,CanCloseDoor:0b,CanFloat:0b,CanOpenDoor:0b,CanPassDoor:0b,CanUseNetherPortal:0b,Freefall:0b,HealthRegeneration:0.0d,IsAttackable:0b,IsPushable:0b,PushEntities:0b},FallDistance:0.0f,FallFlying:0b,Fire:-1s,ForgeCaps:{"celestisynth:celestisynthentitycapabilities":{cs.frostBound:0,cs.phantomTagSource:0,cs.phantomTagTime:0,cs.quasarImbueSource:0,cs.quasarImbueTime:0,cs.trueInvisibility:0},"curios:inventory":{Curios:[]},"dungeon_realm:entity":{data:'{"isFinalMapBoss":false,"isUberBoss":false,"isDungeonMob":false,"isDungeonEliteMob":false,"isMiniBossMob":false,"isPackMob":false}'},"eeeabsmobs:frenzy_cap":{isFrenzy:0b,level:0},"eeeabsmobs:frenzy_processor":{isFrenzy:0b,level:0},"eeeabsmobs:vertigo_processor":{isVertigo:0b,limbSwingAmount:0.0f,pitch:0.0f,renderYawOffset:0.0f,swingProgress:0.0f,yaw:0.0f,yawHead:0.0f},"eeeabsmobs:vertigo_processor_cap":{isVertigo:0b,limbSwingAmount:0.0f,pitch:0.0f,renderYawOffset:0.0f,swingProgress:0.0f,yaw:0.0f,yawHead:0.0f},"library_of_exile:entity_info":{OTHER:"spawn",dmg_stats:'{"map":{},"enviroOrMobDmg":0.0}'},"mmorpg:entity_data":{ENTITY_TYPE:"MOB",affix:'{"affixes":[]}',cds:'{"map":{}}',custom_stats:'{"stats":{},"mods":{}}',ex_d:0,exp:0,hp:45,is_a_newbie:1b,leech:'{"map":{}}',level:6,mapid:"","mmorpg:custom_exact_stats_data":'{"stats":{},"mods":{}}',pet:'{"spell":"","ticks":0,"aggro_radius":10}',rarity:"common",res_loc:'{"mana":0.0,"magic_shield":0.0,"energy":0.0,"blood":0.0}',set_mob_stats:1b,statuses:'{"exileMap":{}}',th:'{"map":{}}',uuid:""},"slashblade:concentration":{lastupdate:0L,rawPoint:0L},"slashblade:inputstate":{Command:0},"slashblade:mobeffect":{StunTimeout:-1L},"the_harvest:entity":{data:'{"isHarvestSpawn":false}'}},HandDropChances:[0.085f,0.085f],HandItems:[{Count:1b,id:"fabledweaponry:scythe_netherite",tag:{Damage:0}},{}],Health:1024.0f,HurtByTimestamp:0,HurtTime:0s,Invulnerable:1b,LeftHanded:0b,ModelData:{DefaultPose:"STANDING",Pose:"DEFAULT",Position:{},Rotation:{},SmartAnimations:1b,Visible:{}},Motion:[0.0d,0.0d,0.0d],Navigation:{Home:{X:-545,Y:71,Z:-675}},ObjectiveData:{HasObjectives:1b,ObjectiveDataSet:[{Prio:9,Type:"LOOK_AT_PLAYER"},{Prio:10,Type:"LOOK_AT_MOB"},{Prio:9,Type:"LOOK_AT_RESET"}]},Offers:{Inventory:{},Recipes:{Recipes:[]}},OnGround:1b,Owner:[I;-1848529277,1953839439,-1742101090,1836922374],PersistenceRequired:0b,PortalCooldown:0,Pos:[-544.5d,71.0d,-674.5d],Profession:"NONE",RenderData:{},Rotation:[176.98479f,0.0f],SkinData:{Content:"",Name:"",Timestamp:1758396543784L,Type:"DEFAULT",URL:"",UUID:[I;0,0,0,0]},SoundData:{SoundDataSet:[{Name:"minecraft:entity.player.death",Type:"DEATH"},{Name:"minecraft:entity.generic.eat",Type:"EAT"},{Name:"minecraft:entity.player.hurt",Type:"HURT"},{Name:"minecraft:entity.villager.trade",Type:"TRADE"},{Name:"minecraft:entity.villager.yes",Type:"TRADE_YES"},{Name:"minecraft:entity.villager.no",Type:"TRADE_NO"}]},Status:{Finalized:1b},TradingData:{TradingDataSet:{LastReset:0L,MaxUses:64,ResetsEveryMin:0,RewardedXP:0,Type:"NONE"}},UUID:[I;-1635401386,-2031268569,-1359885171,-1303761837],Variant:"KNIGHT_02","forge:spawn_type":"SPAWN_EGG",id:"easy_npc:humanoid"} to 1 easy_npc_preset
+[20Sep2025 19:30:15.219] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aacenn3ysmcq]: started parsing
+[20Sep2025 19:30:15.220] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aacenn3ysmcq]: Consuming argument `grass_block`
+[20Sep2025 19:30:15.220] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aacenn3ysmcq]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:15.220] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n5v0pjwe99sy]: started parsing
+[20Sep2025 19:30:15.220] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n5v0pjwe99sy]: Consuming argument `grass_block`
+[20Sep2025 19:30:15.220] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n5v0pjwe99sy]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:15.283] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sdydy1g1qf4o]: started parsing
+[20Sep2025 19:30:15.283] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sdydy1g1qf4o]: Consuming argument `grass_block`
+[20Sep2025 19:30:15.283] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sdydy1g1qf4o]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:16.238] [Server thread/INFO] [Easy NPC/]: Captured NPC preset from Humanoid['Humanoid'/140966, l='ServerLevel[world]', x=-544.50, y=71.00, z=-674.50] with {AbsorptionAmount:0.0f,ActionData:{ActionEventSet:{ON_INTERACTION:[{Type:"OPEN_DEFAULT_DIALOG"},{Type:"OPEN_TRADING_SCREEN"}]},ActionPermissionLevel:0},Air:300s,AngerTime:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:1.0d,Name:"minecraft:generic.movement_speed"},{Base:0.0d,Name:"minecraft:generic.attack_knockback"},{Base:30.0d,Name:"minecraft:generic.armor"},{Base:2048.0d,Name:"minecraft:generic.attack_damage"},{Base:1024.0d,Name:"minecraft:generic.max_health"},{Base:1024.0d,Name:"minecraft:generic.attack_speed"},{Base:2048.0d,Modifiers:[{Amount:0.0705632053837234d,Name:"Random spawn bonus",Operation:1,UUID:[I;1544250888,-362526599,-1689930398,1243660751]}],Name:"minecraft:generic.follow_range"},{Base:0.0d,Name:"minecraft:generic.knockback_resistance"},{Base:0.08d,Name:"forge:entity_gravity"}],Brain:{memories:{}},CanPickUpLoot:0b,CanUpdate:1b,CustomAttributes:{},DeathTime:0s,DialogData:{DialogDataSet:[],Type:"NONE"},DisplayAttributeSet:[{Boolean:1b,Type:"VISIBLE_AT_NIGHT"},{Boolean:1b,Type:"VISIBLE"},{Boolean:1b,Type:"VISIBLE_AT_DAY"},{Boolean:1b,Type:"VISIBLE_IN_CREATIVE"},{Boolean:0b,Int:7,Type:"LIGHT_LEVEL"},{Boolean:1b,Type:"VISIBLE_IN_SPECTATOR"},{Boolean:1b,Type:"VISIBLE_TO_OWNER"},{Boolean:1b,Type:"VISIBLE_IN_STANDARD"},{Boolean:1b,Type:"VISIBLE_TO_TEAM"}],EasyNPCVersion:3,EntityAttribute:{CanBeLeashed:0b,CanBreatheUnderwater:0b,CanCloseDoor:0b,CanFloat:0b,CanOpenDoor:0b,CanPassDoor:0b,CanUseNetherPortal:0b,Freefall:0b,HealthRegeneration:0.0d,IsAttackable:0b,IsPushable:0b,PushEntities:0b},FallDistance:0.0f,FallFlying:0b,Fire:-1s,ForgeCaps:{"celestisynth:celestisynthentitycapabilities":{cs.frostBound:0,cs.phantomTagSource:0,cs.phantomTagTime:0,cs.quasarImbueSource:0,cs.quasarImbueTime:0,cs.trueInvisibility:0},"curios:inventory":{Curios:[]},"dungeon_realm:entity":{data:'{"isFinalMapBoss":false,"isUberBoss":false,"isDungeonMob":false,"isDungeonEliteMob":false,"isMiniBossMob":false,"isPackMob":false}'},"eeeabsmobs:frenzy_cap":{isFrenzy:0b,level:0},"eeeabsmobs:frenzy_processor":{isFrenzy:0b,level:0},"eeeabsmobs:vertigo_processor":{isVertigo:0b,limbSwingAmount:0.0f,pitch:0.0f,renderYawOffset:0.0f,swingProgress:0.0f,yaw:0.0f,yawHead:0.0f},"eeeabsmobs:vertigo_processor_cap":{isVertigo:0b,limbSwingAmount:0.0f,pitch:0.0f,renderYawOffset:0.0f,swingProgress:0.0f,yaw:0.0f,yawHead:0.0f},"library_of_exile:entity_info":{OTHER:"spawn",dmg_stats:'{"map":{},"enviroOrMobDmg":0.0}'},"mmorpg:entity_data":{ENTITY_TYPE:"MOB",affix:'{"affixes":[]}',cds:'{"map":{}}',custom_stats:'{"stats":{},"mods":{}}',ex_d:0,exp:0,hp:45,is_a_newbie:1b,leech:'{"map":{}}',level:6,mapid:"","mmorpg:custom_exact_stats_data":'{"stats":{},"mods":{}}',pet:'{"spell":"","ticks":0,"aggro_radius":10}',rarity:"common",res_loc:'{"mana":0.0,"magic_shield":0.0,"energy":0.0,"blood":0.0}',set_mob_stats:1b,statuses:'{"exileMap":{}}',th:'{"map":{}}',uuid:""},"slashblade:concentration":{lastupdate:0L,rawPoint:0L},"slashblade:inputstate":{Command:0},"slashblade:mobeffect":{StunTimeout:-1L},"the_harvest:entity":{data:'{"isHarvestSpawn":false}'}},HandDropChances:[0.085f,0.085f],HandItems:[{Count:1b,id:"fabledweaponry:scythe_netherite",tag:{Damage:0}},{}],Health:1024.0f,HurtByTimestamp:0,HurtTime:0s,Invulnerable:1b,LeftHanded:0b,ModelData:{DefaultPose:"STANDING",Pose:"DEFAULT",Position:{},Rotation:{},SmartAnimations:1b,Visible:{}},Motion:[0.0d,0.0d,0.0d],Navigation:{Home:{X:-545,Y:71,Z:-675}},ObjectiveData:{HasObjectives:1b,ObjectiveDataSet:[{Prio:9,Type:"LOOK_AT_PLAYER"},{Prio:10,Type:"LOOK_AT_MOB"},{Prio:9,Type:"LOOK_AT_RESET"}]},Offers:{Inventory:{},Recipes:{Recipes:[]}},OnGround:1b,Owner:[I;-1848529277,1953839439,-1742101090,1836922374],PersistenceRequired:0b,PortalCooldown:0,Pos:[-544.5d,71.0d,-674.5d],Profession:"NONE",RenderData:{},Rotation:[176.98479f,0.0f],SkinData:{Content:"",Name:"",Timestamp:1758396543784L,Type:"DEFAULT",URL:"",UUID:[I;0,0,0,0]},SoundData:{SoundDataSet:[{Name:"minecraft:entity.player.death",Type:"DEATH"},{Name:"minecraft:entity.generic.eat",Type:"EAT"},{Name:"minecraft:entity.player.hurt",Type:"HURT"},{Name:"minecraft:entity.villager.trade",Type:"TRADE"},{Name:"minecraft:entity.villager.yes",Type:"TRADE_YES"},{Name:"minecraft:entity.villager.no",Type:"TRADE_NO"}]},Status:{Finalized:1b},TradingData:{TradingDataSet:{LastReset:0L,MaxUses:64,ResetsEveryMin:0,RewardedXP:0,Type:"NONE"}},UUID:[I;-1635401386,-2031268569,-1359885171,-1303761837],Variant:"KNIGHT_02","forge:spawn_type":"SPAWN_EGG",id:"easy_npc:humanoid"} to 1 easy_npc_preset
+[20Sep2025 19:30:20.152] [Server thread/INFO] [Easy NPC/]: Opening menu f7919694-b9d1-4911-a76d-5ce84a6f73ed for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.69] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:30:23.672] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vlrpf6sejk3h]: started parsing
+[20Sep2025 19:30:23.672] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vlrpf6sejk3h]: Consuming argument `grass_block`
+[20Sep2025 19:30:23.673] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vlrpf6sejk3h]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:23.673] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lt9q5ykrqwj2]: started parsing
+[20Sep2025 19:30:23.673] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lt9q5ykrqwj2]: Consuming argument `grass_block`
+[20Sep2025 19:30:23.673] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lt9q5ykrqwj2]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:24.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09qbuf1l0e89w]: started parsing
+[20Sep2025 19:30:24.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09qbuf1l0e89w]: Consuming argument `grass_block`
+[20Sep2025 19:30:24.049] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [09qbuf1l0e89w]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:27.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bkdawytfq1l9]: started parsing
+[20Sep2025 19:30:27.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bkdawytfq1l9]: Consuming argument `grass_block`
+[20Sep2025 19:30:27.598] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bkdawytfq1l9]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:27.599] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ajpro10sjmrm]: started parsing
+[20Sep2025 19:30:27.599] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ajpro10sjmrm]: Consuming argument `grass_block`
+[20Sep2025 19:30:27.599] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ajpro10sjmrm]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:27.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ms43ljxwqo77]: started parsing
+[20Sep2025 19:30:27.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ms43ljxwqo77]: Consuming argument `grass_block`
+[20Sep2025 19:30:27.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ms43ljxwqo77]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:31.882] [Server thread/INFO] [Easy NPC/]: Opening menu 6a200639-5e00-4ab1-9450-f9e3c7e8a03e for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.69] with ConfigurationMenu.ABILITIES_ATTRIBUTE[translation{key='text.easy_npc.config.abilities_attribute.title', args=[Humanoid]}]
+[20Sep2025 19:30:32.683] [Server thread/INFO] [Easy NPC/]: Opening menu 1c589bcb-dbbc-46d3-87c8-834438dbcb37 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.69] with ConfigurationMenu.BASE_ATTRIBUTE[translation{key='text.easy_npc.config.base_attribute.title', args=[Humanoid]}]
+[20Sep2025 19:30:32.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pgrf8zmomcxr]: started parsing
+[20Sep2025 19:30:32.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pgrf8zmomcxr]: Consuming argument `grass_block`
+[20Sep2025 19:30:32.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pgrf8zmomcxr]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:32.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07yrzcfo4x6nm]: started parsing
+[20Sep2025 19:30:32.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07yrzcfo4x6nm]: Consuming argument `grass_block`
+[20Sep2025 19:30:32.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07yrzcfo4x6nm]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:32.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13xg9jyfmi2io]: started parsing
+[20Sep2025 19:30:32.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13xg9jyfmi2io]: Consuming argument `grass_block`
+[20Sep2025 19:30:32.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13xg9jyfmi2io]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:33.572] [Server thread/INFO] [Easy NPC/]: Opening menu bb42622e-0c6e-41ca-b66a-141e49813ad9 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.69] with ConfigurationMenu.DISPLAY_ATTRIBUTE[translation{key='text.easy_npc.config.display_attribute.title', args=[Humanoid]}]
+[20Sep2025 19:30:34.049] [Server thread/INFO] [Easy NPC/]: Opening menu 3d1e91d9-accc-4457-bb82-ee15c42b9ffb for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.69] with ConfigurationMenu.ABILITIES_ATTRIBUTE[translation{key='text.easy_npc.config.abilities_attribute.title', args=[Humanoid]}]
+[20Sep2025 19:30:35.647] [Server thread/INFO] [Easy NPC/]: Opening menu 544505d3-7dca-4f49-9f46-c8f4b0880269 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.69] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:30:36.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13f0hei4qz7zq]: started parsing
+[20Sep2025 19:30:36.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13f0hei4qz7zq]: Consuming argument `grass_block`
+[20Sep2025 19:30:36.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13f0hei4qz7zq]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:36.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ua47jjio5f3f]: started parsing
+[20Sep2025 19:30:36.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ua47jjio5f3f]: Consuming argument `grass_block`
+[20Sep2025 19:30:36.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ua47jjio5f3f]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:37.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o2dfb8y411a6]: started parsing
+[20Sep2025 19:30:37.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o2dfb8y411a6]: Consuming argument `grass_block`
+[20Sep2025 19:30:37.098] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o2dfb8y411a6]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:37.278] [Server thread/INFO] [Easy NPC/]: Opening menu 32773255-6bce-4ea6-83da-dac6f2e8954a for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.69] with ConfigurationMenu.BASIC_ACTION[translation{key='text.easy_npc.config.basic_action.title', args=[Humanoid]}]
+[20Sep2025 19:30:38.548] [Server thread/INFO] [Easy NPC/]: Opening menu aeca974a-a3a2-4c42-802d-d52c43bb032b for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.69] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:30:39.126] [Server thread/INFO] [Easy NPC/]: Opening menu c4b78f7d-9158-4f74-b3af-ac2f2087ab72 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.69] with ConfigurationMenu.BASIC_OBJECTIVE[translation{key='text.easy_npc.config.basic_objective.title', args=[Humanoid]}]
+[20Sep2025 19:30:39.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12vz7geq671uf]: started parsing
+[20Sep2025 19:30:39.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12vz7geq671uf]: Consuming argument `grass_block`
+[20Sep2025 19:30:39.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12vz7geq671uf]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:39.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16qfvanveudjn]: started parsing
+[20Sep2025 19:30:39.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16qfvanveudjn]: Consuming argument `grass_block`
+[20Sep2025 19:30:39.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16qfvanveudjn]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:39.521] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1la2i1pip3mzl]: started parsing
+[20Sep2025 19:30:39.522] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1la2i1pip3mzl]: Consuming argument `grass_block`
+[20Sep2025 19:30:39.522] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1la2i1pip3mzl]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:40.251] [Server thread/INFO] [Easy NPC/]: Opening menu 71a247d7-1da7-4afa-8b32-74efa4f6c9e7 for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.69] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:30:40.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1811t9t1dypcj]: started parsing
+[20Sep2025 19:30:40.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1811t9t1dypcj]: Consuming argument `grass_block`
+[20Sep2025 19:30:40.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1811t9t1dypcj]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:40.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0im7by8j172xo]: started parsing
+[20Sep2025 19:30:40.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0im7by8j172xo]: Consuming argument `grass_block`
+[20Sep2025 19:30:40.548] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0im7by8j172xo]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:40.724] [Server thread/INFO] [Easy NPC/]: Opening menu e4545f56-a0b9-4d29-9170-384d30a10bfd for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.69] with ConfigurationMenu.BASIC_OBJECTIVE[translation{key='text.easy_npc.config.basic_objective.title', args=[Humanoid]}]
+[20Sep2025 19:30:40.733] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ait2239viyg7]: started parsing
+[20Sep2025 19:30:40.733] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ait2239viyg7]: Consuming argument `grass_block`
+[20Sep2025 19:30:40.733] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ait2239viyg7]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:30:41.423] [Server thread/INFO] [Easy NPC/]: Opening menu 22fbdeae-0fce-4bef-b194-61489f3a10ad for npc 9e85c156-86ed-4d27-aef1-cc8db24a2c53 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.72, y=71.00, z=-672.69] with ConfigurationMenu.ATTACK_OBJECTIVE[translation{key='text.easy_npc.config.attack_objective.title', args=[Humanoid]}]
+[20Sep2025 19:30:45.597] [Server thread/INFO] [Easy NPC/]: Captured NPC preset from Humanoid['Humanoid'/140966, l='ServerLevel[world]', x=-544.50, y=71.00, z=-674.50] with {AbsorptionAmount:0.0f,ActionData:{ActionEventSet:{ON_INTERACTION:[{Type:"OPEN_DEFAULT_DIALOG"},{Type:"OPEN_TRADING_SCREEN"}]},ActionPermissionLevel:0},Air:300s,AngerTime:0,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:1.0d,Name:"minecraft:generic.movement_speed"},{Base:0.0d,Name:"minecraft:generic.attack_knockback"},{Base:0.0d,Name:"forge:step_height_addition"},{Base:30.0d,Name:"minecraft:generic.armor"},{Base:2048.0d,Name:"minecraft:generic.attack_damage"},{Base:1024.0d,Name:"minecraft:generic.max_health"},{Base:1024.0d,Name:"minecraft:generic.attack_speed"},{Base:2048.0d,Modifiers:[{Amount:0.0705632053837234d,Name:"Random spawn bonus",Operation:1,UUID:[I;1544250888,-362526599,-1689930398,1243660751]}],Name:"minecraft:generic.follow_range"},{Base:0.0d,Name:"minecraft:generic.knockback_resistance"},{Base:0.08d,Name:"forge:entity_gravity"}],Brain:{memories:{}},CanPickUpLoot:0b,CanUpdate:1b,CustomAttributes:{},DeathTime:0s,DialogData:{DialogDataSet:[],Type:"NONE"},DisplayAttributeSet:[{Boolean:1b,Type:"VISIBLE_AT_NIGHT"},{Boolean:1b,Type:"VISIBLE"},{Boolean:1b,Type:"VISIBLE_AT_DAY"},{Boolean:1b,Type:"VISIBLE_IN_CREATIVE"},{Boolean:0b,Int:7,Type:"LIGHT_LEVEL"},{Boolean:1b,Type:"VISIBLE_IN_SPECTATOR"},{Boolean:1b,Type:"VISIBLE_TO_OWNER"},{Boolean:1b,Type:"VISIBLE_IN_STANDARD"},{Boolean:1b,Type:"VISIBLE_TO_TEAM"}],EasyNPCVersion:3,EntityAttribute:{CanBeLeashed:0b,CanBreatheUnderwater:0b,CanCloseDoor:0b,CanFloat:0b,CanOpenDoor:0b,CanPassDoor:0b,CanUseNetherPortal:0b,Freefall:0b,HealthRegeneration:0.0d,IsAttackable:0b,IsPushable:0b,PushEntities:0b},FallDistance:0.0f,FallFlying:0b,Fire:-1s,ForgeCaps:{"celestisynth:celestisynthentitycapabilities":{cs.frostBound:0,cs.phantomTagSource:0,cs.phantomTagTime:0,cs.quasarImbueSource:0,cs.quasarImbueTime:0,cs.trueInvisibility:0},"curios:inventory":{Curios:[]},"dungeon_realm:entity":{data:'{"isFinalMapBoss":false,"isUberBoss":false,"isDungeonMob":false,"isDungeonEliteMob":false,"isMiniBossMob":false,"isPackMob":false}'},"eeeabsmobs:frenzy_cap":{isFrenzy:0b,level:0},"eeeabsmobs:frenzy_processor":{isFrenzy:0b,level:0},"eeeabsmobs:vertigo_processor":{isVertigo:0b,limbSwingAmount:0.0f,pitch:0.0f,renderYawOffset:0.0f,swingProgress:0.0f,yaw:0.0f,yawHead:0.0f},"eeeabsmobs:vertigo_processor_cap":{isVertigo:0b,limbSwingAmount:0.0f,pitch:0.0f,renderYawOffset:0.0f,swingProgress:0.0f,yaw:0.0f,yawHead:0.0f},"library_of_exile:entity_info":{OTHER:"spawn",dmg_stats:'{"map":{},"enviroOrMobDmg":0.0}'},"mmorpg:entity_data":{ENTITY_TYPE:"MOB",affix:'{"affixes":[]}',cds:'{"map":{}}',custom_stats:'{"stats":{},"mods":{}}',ex_d:0,exp:0,hp:45,is_a_newbie:1b,leech:'{"map":{}}',level:6,mapid:"","mmorpg:custom_exact_stats_data":'{"stats":{},"mods":{}}',pet:'{"spell":"","ticks":0,"aggro_radius":10}',rarity:"common",res_loc:'{"mana":0.0,"magic_shield":0.0,"energy":0.0,"blood":0.0}',set_mob_stats:1b,statuses:'{"exileMap":{}}',th:'{"map":{}}',uuid:""},"slashblade:concentration":{lastupdate:0L,rawPoint:0L},"slashblade:inputstate":{Command:0},"slashblade:mobeffect":{StunTimeout:-1L},"the_harvest:entity":{data:'{"isHarvestSpawn":false}'}},HandDropChances:[0.085f,0.085f],HandItems:[{Count:1b,id:"fabledweaponry:scythe_netherite",tag:{Damage:0}},{}],Health:1024.0f,HurtByTimestamp:0,HurtTime:0s,Invulnerable:1b,LeftHanded:0b,ModelData:{DefaultPose:"STANDING",Pose:"DEFAULT",Position:{},Rotation:{},SmartAnimations:1b,Visible:{}},Motion:[0.0d,-0.0784000015258789d,0.0d],Navigation:{Home:{X:-545,Y:71,Z:-675}},ObjectiveData:{HasObjectives:1b,HasTravelTarget:1b,ObjectiveDataSet:[{Prio:9,Type:"LOOK_AT_PLAYER"},{Prio:2,SpeedModifier:0.6d,Type:"MELEE_ATTACK"},{Prio:10,Type:"LOOK_AT_MOB"},{Prio:2,SpeedModifier:0.6d,Type:"ATTACK_MONSTER"},{Prio:9,Type:"LOOK_AT_RESET"}]},Offers:{Inventory:{},Recipes:{Recipes:[]}},OnGround:1b,Owner:[I;-1848529277,1953839439,-1742101090,1836922374],PersistenceRequired:0b,PortalCooldown:0,Pos:[-544.5d,71.0d,-674.5d],Profession:"NONE",RenderData:{},Rotation:[176.98479f,0.0f],SkinData:{Content:"",Name:"",Timestamp:1758396543784L,Type:"DEFAULT",URL:"",UUID:[I;0,0,0,0]},SoundData:{SoundDataSet:[{Name:"minecraft:entity.player.death",Type:"DEATH"},{Name:"minecraft:entity.generic.eat",Type:"EAT"},{Name:"minecraft:entity.player.hurt",Type:"HURT"},{Name:"minecraft:entity.villager.trade",Type:"TRADE"},{Name:"minecraft:entity.villager.yes",Type:"TRADE_YES"},{Name:"minecraft:entity.villager.no",Type:"TRADE_NO"}]},Status:{Finalized:1b},TradingData:{TradingDataSet:{LastReset:0L,MaxUses:64,ResetsEveryMin:0,RewardedXP:0,Type:"NONE"}},UUID:[I;-1635401386,-2031268569,-1359885171,-1303761837],Variant:"KNIGHT_02","forge:spawn_type":"SPAWN_EGG",id:"easy_npc:humanoid"} to 1 easy_npc_preset
+[20Sep2025 19:30:51.037] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/141856, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:30:51.037] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/141856, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:30:51.038] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Humanoid'/141856, l='ServerLevel[world]', x=-544.50, y=71.00, z=-674.50].
+[20Sep2025 19:30:52.640] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/141885, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:30:52.641] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/141885, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:30:52.641] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Humanoid'/141885, l='ServerLevel[world]', x=-544.50, y=71.00, z=-674.50].
+[20Sep2025 19:30:53.778] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/141899, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:30:53.778] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/141899, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:30:53.778] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Humanoid'/141899, l='ServerLevel[world]', x=-544.50, y=71.00, z=-674.50].
+[20Sep2025 19:30:56.283] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/141922, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:30:56.283] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/141922, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:30:56.283] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Humanoid'/141922, l='ServerLevel[world]', x=-544.50, y=71.00, z=-674.50].
+[20Sep2025 19:31:01.938] [Server thread/INFO] [Easy NPC/]: Opening menu 01ff426a-1baf-47f8-bcf4-cc6a183d7e17 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-541.92, y=71.00, z=-675.31] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:31:02.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mwbmf5qh59b8]: started parsing
+[20Sep2025 19:31:02.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mwbmf5qh59b8]: Consuming argument `grass_block`
+[20Sep2025 19:31:02.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mwbmf5qh59b8]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:02.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mupiod92m37b]: started parsing
+[20Sep2025 19:31:02.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mupiod92m37b]: Consuming argument `grass_block`
+[20Sep2025 19:31:02.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mupiod92m37b]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:02.222] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vs63ce4dpzfg]: started parsing
+[20Sep2025 19:31:02.222] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vs63ce4dpzfg]: Consuming argument `grass_block`
+[20Sep2025 19:31:02.222] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vs63ce4dpzfg]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:05.723] [Server thread/INFO] [Easy NPC/]: Opening menu 07b45bfc-b757-4180-82f2-a7d50c644f9e for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-541.92, y=71.00, z=-675.31] with ConfigurationMenu.DEFAULT_POSE[translation{key='text.easy_npc.config.default_pose.title', args=[Humanoid]}]
+[20Sep2025 19:31:09.072] [Server thread/INFO] [Easy NPC/]: Opening menu 89a6a0be-18f7-41d1-a7f4-0b16c355636c for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-541.92, y=71.00, z=-675.31] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:31:12.986] [Server thread/INFO] [Easy NPC/]: Opening menu 6e4a7c22-f106-4020-bd80-3d6f2ac4b8b2 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-541.92, y=71.00, z=-675.31] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[Humanoid]}]
+[20Sep2025 19:31:17.624] [Server thread/INFO] [Easy NPC/]: Opening menu ab260432-a5ff-4a9d-851f-9c756ec49078 for npc 1587383d-f19c-4b6d-aed7-116f2cb4791a and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.67, y=71.00, z=-673.40] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:31:18.953] [Server thread/INFO] [Easy NPC/]: Opening menu b23b1677-9a91-4893-8cdb-62d96f9f12fe for npc 1587383d-f19c-4b6d-aed7-116f2cb4791a and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.67, y=71.00, z=-673.40] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[Humanoid]}]
+[20Sep2025 19:31:23.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07tvyoh6es737]: started parsing
+[20Sep2025 19:31:23.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07tvyoh6es737]: Consuming argument `grass_block`
+[20Sep2025 19:31:23.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07tvyoh6es737]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:23.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ru0ezeexd178]: started parsing
+[20Sep2025 19:31:23.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ru0ezeexd178]: Consuming argument `grass_block`
+[20Sep2025 19:31:23.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ru0ezeexd178]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:23.697] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tqsnoeze3jo5]: started parsing
+[20Sep2025 19:31:23.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tqsnoeze3jo5]: Consuming argument `grass_block`
+[20Sep2025 19:31:23.698] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tqsnoeze3jo5]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:23.840] [Server thread/INFO] [Easy NPC/]: Opening menu 2fb8067e-98cc-4ac6-94b5-f209357ce37f for npc 001f9b1f-06e6-48b9-b1b3-f19effee4ecc and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-546.95, y=72.00, z=-672.67] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:31:27.570] [Server thread/INFO] [Easy NPC/]: Opening menu 44a9c9aa-ba13-40f8-a1ba-d9766cf95c9c for npc 001f9b1f-06e6-48b9-b1b3-f19effee4ecc and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-546.95, y=72.00, z=-672.67] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[Humanoid]}]
+[20Sep2025 19:31:36.446] [Server thread/INFO] [Easy NPC/]: Opening menu 5b67f00b-5ca9-44ed-ae51-567501ddb9f3 for npc d9559613-989b-4099-9eb4-db9bdb4a9cea and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.73, y=71.00, z=-671.16] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:31:36.721] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m0b1xo12u3lg]: started parsing
+[20Sep2025 19:31:36.721] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m0b1xo12u3lg]: Consuming argument `grass_block`
+[20Sep2025 19:31:36.722] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m0b1xo12u3lg]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:36.722] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1peyt47e4idmp]: started parsing
+[20Sep2025 19:31:36.722] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1peyt47e4idmp]: Consuming argument `grass_block`
+[20Sep2025 19:31:36.722] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1peyt47e4idmp]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:36.833] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z94qyu1lcb6m]: started parsing
+[20Sep2025 19:31:36.833] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z94qyu1lcb6m]: Consuming argument `grass_block`
+[20Sep2025 19:31:36.833] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0z94qyu1lcb6m]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:37.546] [Server thread/INFO] [Easy NPC/]: Opening menu 1358f9d1-32be-4869-88af-f93da58f0f0a for npc d9559613-989b-4099-9eb4-db9bdb4a9cea and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.73, y=71.00, z=-671.16] with ConfigurationMenu.DEFAULT_POSITION[translation{key='text.easy_npc.config.default_position.title', args=[Humanoid]}]
+[20Sep2025 19:31:44.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 19:31:44.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 19:31:45.439] [Server thread/INFO] [Easy NPC/]: Opening menu a0222be1-333d-4415-8850-834218583393 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-544.68, y=71.00, z=-677.05] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:31:47.175] [Server thread/INFO] [Easy NPC/]: Opening menu 52491167-646e-4e67-be87-f973aed6ffac for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-544.68, y=71.00, z=-677.05] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:31:48.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i5kcmru3av6f]: started parsing
+[20Sep2025 19:31:48.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i5kcmru3av6f]: Consuming argument `grass_block`
+[20Sep2025 19:31:48.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0i5kcmru3av6f]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:48.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18104ht661uma]: started parsing
+[20Sep2025 19:31:48.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18104ht661uma]: Consuming argument `grass_block`
+[20Sep2025 19:31:48.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18104ht661uma]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:48.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nrgnx2akr2g7]: started parsing
+[20Sep2025 19:31:48.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nrgnx2akr2g7]: Consuming argument `grass_block`
+[20Sep2025 19:31:48.532] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nrgnx2akr2g7]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:54.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tw58yitypp69]: started parsing
+[20Sep2025 19:31:54.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tw58yitypp69]: Consuming argument `grass_block`
+[20Sep2025 19:31:54.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tw58yitypp69]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:54.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xe0ryb8dq9ol]: started parsing
+[20Sep2025 19:31:54.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xe0ryb8dq9ol]: Consuming argument `grass_block`
+[20Sep2025 19:31:54.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xe0ryb8dq9ol]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:54.321] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k5bsgsn8j29t]: started parsing
+[20Sep2025 19:31:54.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k5bsgsn8j29t]: Consuming argument `grass_block`
+[20Sep2025 19:31:54.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1k5bsgsn8j29t]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:58.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17burpf8rz667]: started parsing
+[20Sep2025 19:31:58.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17burpf8rz667]: Consuming argument `grass_block`
+[20Sep2025 19:31:58.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17burpf8rz667]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:58.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ggrdrwq9q3et]: started parsing
+[20Sep2025 19:31:58.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ggrdrwq9q3et]: Consuming argument `grass_block`
+[20Sep2025 19:31:58.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ggrdrwq9q3et]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:31:58.774] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3xgt1sxfc5n]: started parsing
+[20Sep2025 19:31:58.774] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3xgt1sxfc5n]: Consuming argument `grass_block`
+[20Sep2025 19:31:58.774] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h3xgt1sxfc5n]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:03.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01z7xmsz9olhe]: started parsing
+[20Sep2025 19:32:03.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01z7xmsz9olhe]: Consuming argument `grass_block`
+[20Sep2025 19:32:03.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01z7xmsz9olhe]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:03.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [012z8yg7gopgo]: started parsing
+[20Sep2025 19:32:03.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [012z8yg7gopgo]: Consuming argument `grass_block`
+[20Sep2025 19:32:03.683] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [012z8yg7gopgo]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:03.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01n2qnk3t3dke]: started parsing
+[20Sep2025 19:32:03.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01n2qnk3t3dke]: Consuming argument `grass_block`
+[20Sep2025 19:32:03.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01n2qnk3t3dke]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:05.821] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qh6pjsp9o9nh]: started parsing
+[20Sep2025 19:32:05.821] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qh6pjsp9o9nh]: Consuming argument `grass_block`
+[20Sep2025 19:32:05.821] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qh6pjsp9o9nh]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:05.821] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wun31xr33xkl]: started parsing
+[20Sep2025 19:32:05.821] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wun31xr33xkl]: Consuming argument `grass_block`
+[20Sep2025 19:32:05.821] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wun31xr33xkl]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:05.900] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bks7keyzrlvw]: started parsing
+[20Sep2025 19:32:05.900] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bks7keyzrlvw]: Consuming argument `grass_block`
+[20Sep2025 19:32:05.900] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bks7keyzrlvw]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:19.522] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Selim'/136865, l='ServerLevel[world]', x=-534.12, y=69.00, z=-683.20] died, message: 'Selim was slain by lentojas0'
+[20Sep2025 19:32:19.523] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Selim'/136865, l='ServerLevel[world]', x=-534.12, y=69.00, z=-683.20] died: Selim was slain by lentojas0
+[20Sep2025 19:32:23.748] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02pgh9jj8asj9]: started parsing
+[20Sep2025 19:32:23.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02pgh9jj8asj9]: Consuming argument `grass_block`
+[20Sep2025 19:32:23.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02pgh9jj8asj9]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:23.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05uhfmbfo2f5k]: started parsing
+[20Sep2025 19:32:23.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05uhfmbfo2f5k]: Consuming argument `grass_block`
+[20Sep2025 19:32:23.749] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05uhfmbfo2f5k]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:23.897] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pjn72ckbvw6e]: started parsing
+[20Sep2025 19:32:23.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pjn72ckbvw6e]: Consuming argument `grass_block`
+[20Sep2025 19:32:23.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pjn72ckbvw6e]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:42.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0un1koi7mr159]: started parsing
+[20Sep2025 19:32:42.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0un1koi7mr159]: Consuming argument `grass_block`
+[20Sep2025 19:32:42.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0un1koi7mr159]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:42.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kgg2lr3119qz]: started parsing
+[20Sep2025 19:32:42.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kgg2lr3119qz]: Consuming argument `grass_block`
+[20Sep2025 19:32:42.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kgg2lr3119qz]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:42.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f2l42ghjp9f6]: started parsing
+[20Sep2025 19:32:42.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f2l42ghjp9f6]: Consuming argument `grass_block`
+[20Sep2025 19:32:42.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1f2l42ghjp9f6]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:44.823] [Server thread/DEBUG] [com.etema.attributemodify.AttributeModify/]: Processing Curios attributes for plastic_drinking_hat in slot head
+[20Sep2025 19:32:56.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c83zou7v29qr]: started parsing
+[20Sep2025 19:32:56.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c83zou7v29qr]: Consuming argument `grass_block`
+[20Sep2025 19:32:56.899] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1c83zou7v29qr]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:56.899] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vwsqxlc704fg]: started parsing
+[20Sep2025 19:32:56.899] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vwsqxlc704fg]: Consuming argument `grass_block`
+[20Sep2025 19:32:56.899] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vwsqxlc704fg]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:56.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14agwnnl958nd]: started parsing
+[20Sep2025 19:32:56.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14agwnnl958nd]: Consuming argument `grass_block`
+[20Sep2025 19:32:56.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14agwnnl958nd]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:32:58.579] [Server thread/INFO] [Easy NPC/]: Opening menu de6838ed-6e47-4a94-9895-47c93afc2a0c for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-542.93, y=71.00, z=-678.21] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:33:06.928] [Server thread/INFO] [Easy NPC/]: Opening menu f68eaa36-b1d0-4260-978e-10804bb2a5a7 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-542.97, y=71.00, z=-678.02] with ConfigurationMenu.BASIC_OBJECTIVE[translation{key='text.easy_npc.config.basic_objective.title', args=[Humanoid]}]
+[20Sep2025 19:33:07.948] [Server thread/INFO] [Easy NPC/]: Opening menu a98c38c1-8746-4e5a-b69c-cda8adb7345a for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-542.97, y=71.00, z=-678.02] with ConfigurationMenu.FOLLOW_OBJECTIVE[translation{key='text.easy_npc.config.follow_objective.title', args=[Humanoid]}]
+[20Sep2025 19:33:08.324] [Server thread/INFO] [Easy NPC/]: Opening menu f147cec9-f2ee-4243-b0df-ff1e51c6f1bc for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-542.97, y=71.00, z=-678.02] with ConfigurationMenu.ATTACK_OBJECTIVE[translation{key='text.easy_npc.config.attack_objective.title', args=[Humanoid]}]
+[20Sep2025 19:33:09.049] [Server thread/INFO] [Easy NPC/]: Opening menu 3b894e43-5c4c-43b8-b71c-d3c9d0933c73 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-542.97, y=71.00, z=-678.02] with ConfigurationMenu.FOLLOW_OBJECTIVE[translation{key='text.easy_npc.config.follow_objective.title', args=[Humanoid]}]
+[20Sep2025 19:33:10.020] [Server thread/INFO] [Easy NPC/]: Opening menu d57a9341-f302-4cd8-a63e-0de2841387b5 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-542.97, y=71.00, z=-678.02] with ConfigurationMenu.LOOK_OBJECTIVE[translation{key='text.easy_npc.config.look_objective.title', args=[Humanoid]}]
+[20Sep2025 19:33:12.169] [Server thread/INFO] [Easy NPC/]: Opening menu 52f79b4d-3cd5-4c6a-9ed8-481d8becc980 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.14, y=71.00, z=-677.43] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:33:19.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fv3ukt7wu0ix]: started parsing
+[20Sep2025 19:33:19.871] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fv3ukt7wu0ix]: Consuming argument `grass_block`
+[20Sep2025 19:33:19.872] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fv3ukt7wu0ix]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:19.872] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02cu5ij5rdc2o]: started parsing
+[20Sep2025 19:33:19.872] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02cu5ij5rdc2o]: Consuming argument `grass_block`
+[20Sep2025 19:33:19.872] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02cu5ij5rdc2o]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:20.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t8i5tysdr2n9]: started parsing
+[20Sep2025 19:33:20.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t8i5tysdr2n9]: Consuming argument `grass_block`
+[20Sep2025 19:33:20.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t8i5tysdr2n9]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:22.896] [Server thread/INFO] [Easy NPC/]: Opening menu 29eaa98f-2ecf-4808-b3ce-ca8e00c35d43 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.14, y=71.00, z=-677.43] with ConfigurationMenu.ABILITIES_ATTRIBUTE[translation{key='text.easy_npc.config.abilities_attribute.title', args=[Humanoid]}]
+[20Sep2025 19:33:23.672] [Server thread/INFO] [Easy NPC/]: Opening menu 962369a5-8662-45de-89fe-cdaee4de5f74 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.14, y=71.00, z=-677.43] with ConfigurationMenu.BASE_ATTRIBUTE[translation{key='text.easy_npc.config.base_attribute.title', args=[Humanoid]}]
+[20Sep2025 19:33:24.421] [Server thread/INFO] [Easy NPC/]: Opening menu f0c8e5d2-879d-4a47-a915-d0868db1d313 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.14, y=71.00, z=-677.43] with ConfigurationMenu.DISPLAY_ATTRIBUTE[translation{key='text.easy_npc.config.display_attribute.title', args=[Humanoid]}]
+[20Sep2025 19:33:24.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rc0atrmzrqrh]: started parsing
+[20Sep2025 19:33:24.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rc0atrmzrqrh]: Consuming argument `grass_block`
+[20Sep2025 19:33:24.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rc0atrmzrqrh]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:24.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dt0kgh85w058]: started parsing
+[20Sep2025 19:33:24.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dt0kgh85w058]: Consuming argument `grass_block`
+[20Sep2025 19:33:24.848] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dt0kgh85w058]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:24.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wsn6o0psi3d4]: started parsing
+[20Sep2025 19:33:24.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wsn6o0psi3d4]: Consuming argument `grass_block`
+[20Sep2025 19:33:24.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wsn6o0psi3d4]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:25.324] [Server thread/INFO] [Easy NPC/]: Opening menu 80503631-7af7-4bbf-9a03-0ef780e9ce74 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.14, y=71.00, z=-677.43] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:33:26.521] [Server thread/INFO] [Easy NPC/]: Opening menu 7ff996db-ed92-42c0-a9bf-1570114a4256 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.14, y=71.00, z=-677.43] with ConfigurationMenu.BASIC_ACTION[translation{key='text.easy_npc.config.basic_action.title', args=[Humanoid]}]
+[20Sep2025 19:33:28.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [110rge378gb2j]: started parsing
+[20Sep2025 19:33:28.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [110rge378gb2j]: Consuming argument `grass_block`
+[20Sep2025 19:33:28.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [110rge378gb2j]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:28.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fswe2jd21d84]: started parsing
+[20Sep2025 19:33:28.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fswe2jd21d84]: Consuming argument `grass_block`
+[20Sep2025 19:33:28.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fswe2jd21d84]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:29.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qp7yqqynn28x]: started parsing
+[20Sep2025 19:33:29.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qp7yqqynn28x]: Consuming argument `grass_block`
+[20Sep2025 19:33:29.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qp7yqqynn28x]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:29.701] [Server thread/INFO] [Easy NPC/]: Opening menu 3a6ebc78-4bf9-418a-a9dd-992e42b459e3 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.14, y=71.00, z=-677.43] with ConfigurationMenu.DISTANCE_ACTION[translation{key='text.easy_npc.config.distance_action.title', args=[Humanoid]}]
+[20Sep2025 19:33:31.834] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14kvo0f1l5wve]: started parsing
+[20Sep2025 19:33:31.834] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14kvo0f1l5wve]: Consuming argument `grass_block`
+[20Sep2025 19:33:31.834] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14kvo0f1l5wve]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:31.834] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sqxh0ts8gozb]: started parsing
+[20Sep2025 19:33:31.834] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sqxh0ts8gozb]: Consuming argument `grass_block`
+[20Sep2025 19:33:31.834] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sqxh0ts8gozb]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:31.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d1arr1wkad1r]: started parsing
+[20Sep2025 19:33:31.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d1arr1wkad1r]: Consuming argument `grass_block`
+[20Sep2025 19:33:31.975] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d1arr1wkad1r]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:32.821] [Server thread/INFO] [Easy NPC/]: Opening menu 00b12a73-1f8b-4b1e-8767-ef5521e11530 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.14, y=71.00, z=-677.43] with EditorMenuHandler{editorType=ACTION_DATA_ENTRY, easyNPC=Humanoid['Humanoid'/141856, l='ServerLevel[world]', x=-543.50, y=71.00, z=-675.50], screenData=ScreenData[uuid=144ec9b7-eda8-436b-90fc-b23eaacffd97, dialogId=00000000-0000-0000-0000-000000000000, dialogButtonId=00000000-0000-0000-0000-000000000000, actionDataEntryId=d181f6cc-58b2-3ab3-9dbf-6dad07b2f2fd, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_INTERACTION:[{Type:"OPEN_DEFAULT_DIALOG"},{Type:"OPEN_TRADING_SCREEN"}]}},ActionEventType:"ON_DISTANCE_NEAR",ConfigurationType:"DISTANCE_ACTION",DialogData:{DialogDataSet:[],Type:"NONE"},EditorType:"NONE"}]}
+[20Sep2025 19:33:34.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0brzwsudyapfy]: started parsing
+[20Sep2025 19:33:34.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0brzwsudyapfy]: Consuming argument `grass_block`
+[20Sep2025 19:33:34.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0brzwsudyapfy]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:34.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nv5vtuyp7012]: started parsing
+[20Sep2025 19:33:34.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nv5vtuyp7012]: Consuming argument `grass_block`
+[20Sep2025 19:33:34.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nv5vtuyp7012]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:34.933] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bwfpk9l8xluf]: started parsing
+[20Sep2025 19:33:34.933] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bwfpk9l8xluf]: Consuming argument `grass_block`
+[20Sep2025 19:33:34.933] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bwfpk9l8xluf]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:37.147] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iidfjs73ftih]: started parsing
+[20Sep2025 19:33:37.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iidfjs73ftih]: Consuming argument `grass_block`
+[20Sep2025 19:33:37.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iidfjs73ftih]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:37.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07213s8vil7jr]: started parsing
+[20Sep2025 19:33:37.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07213s8vil7jr]: Consuming argument `grass_block`
+[20Sep2025 19:33:37.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07213s8vil7jr]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:37.276] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15qxszvddn2dj]: started parsing
+[20Sep2025 19:33:37.276] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15qxszvddn2dj]: Consuming argument `grass_block`
+[20Sep2025 19:33:37.276] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15qxszvddn2dj]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:40.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lt70u8j5bfa5]: started parsing
+[20Sep2025 19:33:40.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lt70u8j5bfa5]: Consuming argument `grass_block`
+[20Sep2025 19:33:40.979] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lt70u8j5bfa5]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:40.979] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08073kdqhzhj6]: started parsing
+[20Sep2025 19:33:40.979] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08073kdqhzhj6]: Consuming argument `grass_block`
+[20Sep2025 19:33:40.979] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08073kdqhzhj6]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:41.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lwkneh3e81t4]: started parsing
+[20Sep2025 19:33:41.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lwkneh3e81t4]: Consuming argument `grass_block`
+[20Sep2025 19:33:41.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lwkneh3e81t4]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:45.383] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fjda23q9imeh]: started parsing
+[20Sep2025 19:33:45.383] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fjda23q9imeh]: Consuming argument `grass_block`
+[20Sep2025 19:33:45.384] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fjda23q9imeh]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:45.384] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0299mpo1rs0f8]: started parsing
+[20Sep2025 19:33:45.384] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0299mpo1rs0f8]: Consuming argument `grass_block`
+[20Sep2025 19:33:45.384] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0299mpo1rs0f8]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:45.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eg8qbivvhmxb]: started parsing
+[20Sep2025 19:33:45.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eg8qbivvhmxb]: Consuming argument `grass_block`
+[20Sep2025 19:33:45.473] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eg8qbivvhmxb]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:33:47.645] [Server thread/INFO] [Easy NPC/]: Opening menu 9803952a-a084-410e-b1af-b036ebdd322c for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-544.88, y=71.00, z=-676.78] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:33:55.380] [Server thread/INFO] [Easy NPC/]: Opening menu 45cb8342-e49a-4ac6-93f9-20f80cd837f1 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.68, y=71.00, z=-677.61] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:34:00.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00h2nz4gq33xu]: started parsing
+[20Sep2025 19:34:00.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00h2nz4gq33xu]: Consuming argument `grass_block`
+[20Sep2025 19:34:00.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00h2nz4gq33xu]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:00.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0568ngoa1iop9]: started parsing
+[20Sep2025 19:34:00.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0568ngoa1iop9]: Consuming argument `grass_block`
+[20Sep2025 19:34:00.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0568ngoa1iop9]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:01.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sf1ber4m5sz6]: started parsing
+[20Sep2025 19:34:01.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sf1ber4m5sz6]: Consuming argument `grass_block`
+[20Sep2025 19:34:01.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0sf1ber4m5sz6]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:02.531] [Server thread/INFO] [Easy NPC/]: Opening menu 2a53bce6-73e4-4efe-9b64-74aff0c5b046 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.68, y=71.00, z=-677.61] with ConfigurationMenu.BASIC_ACTION[translation{key='text.easy_npc.config.basic_action.title', args=[Humanoid]}]
+[20Sep2025 19:34:03.197] [Server thread/INFO] [Easy NPC/]: Opening menu 750270e1-5d16-4095-91aa-5113286b07e5 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.68, y=71.00, z=-677.61] with ConfigurationMenu.DIALOG_ACTION[translation{key='text.easy_npc.config.dialog_action.title', args=[Humanoid]}]
+[20Sep2025 19:34:03.588] [Server thread/INFO] [Easy NPC/]: Opening menu 13af42f6-7c54-465b-9839-d676aee1fc3a for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.68, y=71.00, z=-677.61] with ConfigurationMenu.DISTANCE_ACTION[translation{key='text.easy_npc.config.distance_action.title', args=[Humanoid]}]
+[20Sep2025 19:34:08.232] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15gusn1bk9ioa]: started parsing
+[20Sep2025 19:34:08.232] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15gusn1bk9ioa]: Consuming argument `grass_block`
+[20Sep2025 19:34:08.232] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15gusn1bk9ioa]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:08.232] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rwelqxgk4npl]: started parsing
+[20Sep2025 19:34:08.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rwelqxgk4npl]: Consuming argument `grass_block`
+[20Sep2025 19:34:08.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rwelqxgk4npl]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:08.332] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t83cmbuqdsm0]: started parsing
+[20Sep2025 19:34:08.332] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t83cmbuqdsm0]: Consuming argument `grass_block`
+[20Sep2025 19:34:08.332] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t83cmbuqdsm0]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:08.973] [Server thread/INFO] [Easy NPC/]: Opening menu 59c6a074-a0c9-459c-9035-d789f6e4e5a8 for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.68, y=71.00, z=-677.61] with ConfigurationMenu.DIALOG_ACTION[translation{key='text.easy_npc.config.dialog_action.title', args=[Humanoid]}]
+[20Sep2025 19:34:09.699] [Server thread/INFO] [Easy NPC/]: Opening menu 869ca8e9-9e5e-4cc3-934c-2c29777a46fd for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.68, y=71.00, z=-677.61] with ConfigurationMenu.DISTANCE_ACTION[translation{key='text.easy_npc.config.distance_action.title', args=[Humanoid]}]
+[20Sep2025 19:34:10.376] [Server thread/INFO] [Easy NPC/]: Opening menu 887a0a58-e97f-45f7-a14c-007f8d1dfb6b for npc 144ec9b7-eda8-436b-90fc-b23eaacffd97 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-543.68, y=71.00, z=-677.61] with EditorMenuHandler{editorType=ACTION_DATA_ENTRY, easyNPC=Humanoid['Humanoid'/141856, l='ServerLevel[world]', x=-543.50, y=71.00, z=-675.50], screenData=ScreenData[uuid=144ec9b7-eda8-436b-90fc-b23eaacffd97, dialogId=00000000-0000-0000-0000-000000000000, dialogButtonId=00000000-0000-0000-0000-000000000000, actionDataEntryId=d181f6cc-58b2-3ab3-9dbf-6dad07b2f2fd, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_INTERACTION:[{Type:"OPEN_DEFAULT_DIALOG"},{Type:"OPEN_TRADING_SCREEN"}]}},ActionEventType:"ON_DISTANCE_NEAR",ConfigurationType:"DISTANCE_ACTION",DialogData:{DialogDataSet:[],Type:"NONE"},EditorType:"NONE"}]}
+[20Sep2025 19:34:10.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fxo9iehsifh6]: started parsing
+[20Sep2025 19:34:10.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fxo9iehsifh6]: Consuming argument `grass_block`
+[20Sep2025 19:34:10.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fxo9iehsifh6]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:10.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u5cxjqihe816]: started parsing
+[20Sep2025 19:34:10.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u5cxjqihe816]: Consuming argument `grass_block`
+[20Sep2025 19:34:10.670] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u5cxjqihe816]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:10.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kpc5e1878ne2]: started parsing
+[20Sep2025 19:34:10.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kpc5e1878ne2]: Consuming argument `grass_block`
+[20Sep2025 19:34:10.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kpc5e1878ne2]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:16.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ue4659heyng7]: started parsing
+[20Sep2025 19:34:16.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ue4659heyng7]: Consuming argument `grass_block`
+[20Sep2025 19:34:16.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ue4659heyng7]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:16.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06h9k488tjlzg]: started parsing
+[20Sep2025 19:34:16.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06h9k488tjlzg]: Consuming argument `grass_block`
+[20Sep2025 19:34:16.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06h9k488tjlzg]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:16.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tuh0g06fegm8]: started parsing
+[20Sep2025 19:34:16.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tuh0g06fegm8]: Consuming argument `grass_block`
+[20Sep2025 19:34:16.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tuh0g06fegm8]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:34.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1otdpmhtxaxa2]: started parsing
+[20Sep2025 19:34:34.572] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1otdpmhtxaxa2]: Consuming argument `grass_block`
+[20Sep2025 19:34:34.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1otdpmhtxaxa2]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:34.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xzw9afadocn4]: started parsing
+[20Sep2025 19:34:34.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xzw9afadocn4]: Consuming argument `grass_block`
+[20Sep2025 19:34:34.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xzw9afadocn4]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:34.722] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qbt2yo9r527e]: started parsing
+[20Sep2025 19:34:34.722] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qbt2yo9r527e]: Consuming argument `grass_block`
+[20Sep2025 19:34:34.722] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qbt2yo9r527e]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:42.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bs6bg9pqyy9z]: started parsing
+[20Sep2025 19:34:42.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bs6bg9pqyy9z]: Consuming argument `grass_block`
+[20Sep2025 19:34:42.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bs6bg9pqyy9z]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:42.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ki4ydu1zt4si]: started parsing
+[20Sep2025 19:34:42.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ki4ydu1zt4si]: Consuming argument `grass_block`
+[20Sep2025 19:34:42.883] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ki4ydu1zt4si]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:42.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gk6vro0i2h1s]: started parsing
+[20Sep2025 19:34:42.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gk6vro0i2h1s]: Consuming argument `grass_block`
+[20Sep2025 19:34:42.983] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gk6vro0i2h1s]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:50.702] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oo8i93hqsl6l]: started parsing
+[20Sep2025 19:34:50.702] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oo8i93hqsl6l]: Consuming argument `grass_block`
+[20Sep2025 19:34:50.702] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oo8i93hqsl6l]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:50.702] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18umzfqru7uxy]: started parsing
+[20Sep2025 19:34:50.702] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18umzfqru7uxy]: Consuming argument `grass_block`
+[20Sep2025 19:34:50.702] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18umzfqru7uxy]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:51.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12ie9h7a6c3ee]: started parsing
+[20Sep2025 19:34:51.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12ie9h7a6c3ee]: Consuming argument `grass_block`
+[20Sep2025 19:34:51.233] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12ie9h7a6c3ee]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:58.082] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0emlv511e0dyc]: started parsing
+[20Sep2025 19:34:58.082] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0emlv511e0dyc]: Consuming argument `grass_block`
+[20Sep2025 19:34:58.082] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0emlv511e0dyc]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:58.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17eqvym9gwvi4]: started parsing
+[20Sep2025 19:34:58.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17eqvym9gwvi4]: Consuming argument `grass_block`
+[20Sep2025 19:34:58.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17eqvym9gwvi4]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:34:58.177] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15baetok6v1de]: started parsing
+[20Sep2025 19:34:58.177] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15baetok6v1de]: Consuming argument `grass_block`
+[20Sep2025 19:34:58.177] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15baetok6v1de]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:02.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o50gn2sha92t]: started parsing
+[20Sep2025 19:35:02.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o50gn2sha92t]: Consuming argument `grass_block`
+[20Sep2025 19:35:02.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o50gn2sha92t]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:02.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08lde1pmwdx2f]: started parsing
+[20Sep2025 19:35:02.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08lde1pmwdx2f]: Consuming argument `grass_block`
+[20Sep2025 19:35:02.898] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08lde1pmwdx2f]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:03.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03hg30373ydqc]: started parsing
+[20Sep2025 19:35:03.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03hg30373ydqc]: Consuming argument `grass_block`
+[20Sep2025 19:35:03.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03hg30373ydqc]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:04.823] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/144800, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:35:04.824] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/144800, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:35:04.824] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/144800, l='ServerLevel[world]', x=-537.50, y=70.00, z=-664.50] ...
+[20Sep2025 19:35:04.824] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/144800, l='ServerLevel[world]', x=-537.50, y=70.00, z=-664.50] ...
+[20Sep2025 19:35:05.824] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/144804, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:35:05.825] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/144804, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:35:05.897] [Server thread/INFO] [Easy NPC/]: Opening menu e6a913e1-1f29-4e74-9f2a-2b3f182f100b for npc 886a7c13-cbb9-45da-b6a8-00b6138bd79c and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-538.88, y=70.00, z=-665.36] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:35:06.828] [Server thread/INFO] [Easy NPC/]: Opening menu 1613c46c-6860-46ee-809c-219c397cc6ab for npc 886a7c13-cbb9-45da-b6a8-00b6138bd79c and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-538.88, y=70.00, z=-665.36] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[Humanoid]}]
+[20Sep2025 19:35:07.425] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fq6nvn0x8ijq]: started parsing
+[20Sep2025 19:35:07.425] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fq6nvn0x8ijq]: Consuming argument `grass_block`
+[20Sep2025 19:35:07.425] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fq6nvn0x8ijq]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:07.425] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xsf1ykrdq66y]: started parsing
+[20Sep2025 19:35:07.425] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xsf1ykrdq66y]: Consuming argument `grass_block`
+[20Sep2025 19:35:07.426] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xsf1ykrdq66y]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:07.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1da1i5b8h0bdq]: started parsing
+[20Sep2025 19:35:07.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1da1i5b8h0bdq]: Consuming argument `grass_block`
+[20Sep2025 19:35:07.547] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1da1i5b8h0bdq]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:07.574] [Server thread/INFO] [Easy NPC/]: Opening menu ab6adb0f-0a2a-4561-8fce-901629e0e1b6 for npc 886a7c13-cbb9-45da-b6a8-00b6138bd79c and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-538.88, y=70.00, z=-665.36] with ConfigurationMenu.NONE_DIALOG[translation{key='text.easy_npc.config.none_dialog.title', args=[Humanoid]}]
+[20Sep2025 19:35:08.141] [Server thread/INFO] [Easy NPC/]: Opening menu 1b181b2f-9837-499e-9825-839249fc7b81 for npc 886a7c13-cbb9-45da-b6a8-00b6138bd79c and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-538.88, y=70.00, z=-665.36] with ConfigurationMenu.BASIC_DIALOG[translation{key='text.easy_npc.config.basic_dialog.title', args=[Humanoid]}]
+[20Sep2025 19:35:10.834] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1opw81war56ry]: started parsing
+[20Sep2025 19:35:10.834] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1opw81war56ry]: Consuming argument `grass_block`
+[20Sep2025 19:35:10.834] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1opw81war56ry]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:10.834] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06yeuvaa136qt]: started parsing
+[20Sep2025 19:35:10.835] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06yeuvaa136qt]: Consuming argument `grass_block`
+[20Sep2025 19:35:10.835] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06yeuvaa136qt]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:10.901] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sxow1wbuyb3u]: started parsing
+[20Sep2025 19:35:10.901] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sxow1wbuyb3u]: Consuming argument `grass_block`
+[20Sep2025 19:35:10.901] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sxow1wbuyb3u]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:18.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sjipjrupqhr9]: started parsing
+[20Sep2025 19:35:18.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sjipjrupqhr9]: Consuming argument `grass_block`
+[20Sep2025 19:35:18.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sjipjrupqhr9]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:18.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w946agzshk15]: started parsing
+[20Sep2025 19:35:18.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w946agzshk15]: Consuming argument `grass_block`
+[20Sep2025 19:35:18.322] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1w946agzshk15]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:18.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16b9xjjt20pwz]: started parsing
+[20Sep2025 19:35:18.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16b9xjjt20pwz]: Consuming argument `grass_block`
+[20Sep2025 19:35:18.482] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16b9xjjt20pwz]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:20.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1khiplcg9q95n]: started parsing
+[20Sep2025 19:35:20.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1khiplcg9q95n]: Consuming argument `grass_block`
+[20Sep2025 19:35:20.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1khiplcg9q95n]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:20.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ybgg0420jmv2]: started parsing
+[20Sep2025 19:35:20.923] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ybgg0420jmv2]: Consuming argument `grass_block`
+[20Sep2025 19:35:20.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ybgg0420jmv2]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:21.020] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k0bo4nl3t0yg]: started parsing
+[20Sep2025 19:35:21.020] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k0bo4nl3t0yg]: Consuming argument `grass_block`
+[20Sep2025 19:35:21.020] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k0bo4nl3t0yg]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:24.920] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12utubmf1ekvu]: started parsing
+[20Sep2025 19:35:24.920] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12utubmf1ekvu]: Consuming argument `grass_block`
+[20Sep2025 19:35:24.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12utubmf1ekvu]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:24.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pyzfijojlfht]: started parsing
+[20Sep2025 19:35:24.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pyzfijojlfht]: Consuming argument `grass_block`
+[20Sep2025 19:35:24.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pyzfijojlfht]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:24.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ckoctxs4o978]: started parsing
+[20Sep2025 19:35:24.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ckoctxs4o978]: Consuming argument `grass_block`
+[20Sep2025 19:35:24.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ckoctxs4o978]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:30.127] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0snli8504snri]: started parsing
+[20Sep2025 19:35:30.127] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0snli8504snri]: Consuming argument `grass_block`
+[20Sep2025 19:35:30.128] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0snli8504snri]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:30.128] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ki12dvd4lbni]: started parsing
+[20Sep2025 19:35:30.128] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ki12dvd4lbni]: Consuming argument `grass_block`
+[20Sep2025 19:35:30.128] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ki12dvd4lbni]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:30.198] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ctfjokadi9qk]: started parsing
+[20Sep2025 19:35:30.198] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ctfjokadi9qk]: Consuming argument `grass_block`
+[20Sep2025 19:35:30.198] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ctfjokadi9qk]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:35.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15sftaacz3iyi]: started parsing
+[20Sep2025 19:35:35.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15sftaacz3iyi]: Consuming argument `grass_block`
+[20Sep2025 19:35:35.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15sftaacz3iyi]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:35.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qhhremb1eqg3]: started parsing
+[20Sep2025 19:35:35.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qhhremb1eqg3]: Consuming argument `grass_block`
+[20Sep2025 19:35:35.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qhhremb1eqg3]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:35.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n32oqspgu1b2]: started parsing
+[20Sep2025 19:35:35.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n32oqspgu1b2]: Consuming argument `grass_block`
+[20Sep2025 19:35:35.432] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n32oqspgu1b2]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:42.919] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qlknlduvacf2]: started parsing
+[20Sep2025 19:35:42.920] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qlknlduvacf2]: Consuming argument `grass_block`
+[20Sep2025 19:35:42.920] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qlknlduvacf2]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:42.920] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m4og0g7crhzz]: started parsing
+[20Sep2025 19:35:42.920] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m4og0g7crhzz]: Consuming argument `grass_block`
+[20Sep2025 19:35:42.920] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m4og0g7crhzz]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:42.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [020af9peshy2g]: started parsing
+[20Sep2025 19:35:42.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [020af9peshy2g]: Consuming argument `grass_block`
+[20Sep2025 19:35:42.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [020af9peshy2g]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:35:44.876] [Server thread/INFO] [Easy NPC/]: Opening menu 710af3a1-5857-47fb-921f-1af225857e23 for npc 886a7c13-cbb9-45da-b6a8-00b6138bd79c and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-538.78, y=70.00, z=-666.27] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:35:45.801] [Server thread/INFO] [Easy NPC/]: Opening menu 0a8c9552-0e3c-46d8-beb9-c777b7f6c5a7 for npc 886a7c13-cbb9-45da-b6a8-00b6138bd79c and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-538.67, y=69.94, z=-666.11] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[Humanoid]}]
+[20Sep2025 19:35:47.027] [Server thread/INFO] [Easy NPC/]: Opening menu a4e78b91-977e-4883-a5ef-145c14884eef for npc 886a7c13-cbb9-45da-b6a8-00b6138bd79c and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-538.67, y=69.94, z=-666.11] with ConfigurationMenu.PLAYER_SKIN[translation{key='text.easy_npc.config.player_skin.title', args=[Humanoid]}]
+[20Sep2025 19:36:44.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 19:36:44.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 19:37:04.471] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a1r98taflzrj]: started parsing
+[20Sep2025 19:37:04.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a1r98taflzrj]: Consuming argument `grass_block`
+[20Sep2025 19:37:04.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a1r98taflzrj]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:04.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07zc1fcwa1iut]: started parsing
+[20Sep2025 19:37:04.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07zc1fcwa1iut]: Consuming argument `grass_block`
+[20Sep2025 19:37:04.472] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07zc1fcwa1iut]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:04.576] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r3mv8lvsphxt]: started parsing
+[20Sep2025 19:37:04.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r3mv8lvsphxt]: Consuming argument `grass_block`
+[20Sep2025 19:37:04.577] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1r3mv8lvsphxt]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:09.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dg06lae2bem3]: started parsing
+[20Sep2025 19:37:09.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dg06lae2bem3]: Consuming argument `grass_block`
+[20Sep2025 19:37:09.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dg06lae2bem3]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:09.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dzzs54588en4]: started parsing
+[20Sep2025 19:37:09.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dzzs54588en4]: Consuming argument `grass_block`
+[20Sep2025 19:37:09.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dzzs54588en4]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:10.074] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vcyp45hmtyti]: started parsing
+[20Sep2025 19:37:10.074] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vcyp45hmtyti]: Consuming argument `grass_block`
+[20Sep2025 19:37:10.074] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vcyp45hmtyti]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:12.633] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [186nonbvdztaj]: started parsing
+[20Sep2025 19:37:12.633] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [186nonbvdztaj]: Consuming argument `grass_block`
+[20Sep2025 19:37:12.633] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [186nonbvdztaj]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:12.633] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lk9nb6fcs541]: started parsing
+[20Sep2025 19:37:12.633] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lk9nb6fcs541]: Consuming argument `grass_block`
+[20Sep2025 19:37:12.633] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1lk9nb6fcs541]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:12.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0um78xav97fqh]: started parsing
+[20Sep2025 19:37:12.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0um78xav97fqh]: Consuming argument `grass_block`
+[20Sep2025 19:37:12.798] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0um78xav97fqh]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:17.447] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01hdbp4mgtkot]: started parsing
+[20Sep2025 19:37:17.447] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01hdbp4mgtkot]: Consuming argument `grass_block`
+[20Sep2025 19:37:17.447] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01hdbp4mgtkot]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:17.448] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d83rnh59c8w5]: started parsing
+[20Sep2025 19:37:17.448] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d83rnh59c8w5]: Consuming argument `grass_block`
+[20Sep2025 19:37:17.448] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d83rnh59c8w5]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:17.523] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oi3e5tqbhlet]: started parsing
+[20Sep2025 19:37:17.523] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oi3e5tqbhlet]: Consuming argument `grass_block`
+[20Sep2025 19:37:17.524] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0oi3e5tqbhlet]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:20.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pjauvwi2hl6c]: started parsing
+[20Sep2025 19:37:20.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pjauvwi2hl6c]: Consuming argument `grass_block`
+[20Sep2025 19:37:20.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pjauvwi2hl6c]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:20.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uqm6jbfkp1eu]: started parsing
+[20Sep2025 19:37:20.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uqm6jbfkp1eu]: Consuming argument `grass_block`
+[20Sep2025 19:37:20.274] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uqm6jbfkp1eu]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:20.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lnox8tue2zdm]: started parsing
+[20Sep2025 19:37:20.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lnox8tue2zdm]: Consuming argument `grass_blockç`
+[20Sep2025 19:37:20.399] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14qkspwwqav3s]: started parsing
+[20Sep2025 19:37:20.399] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14qkspwwqav3s]: Consuming argument `grass_blockç`
+[20Sep2025 19:37:21.247] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pup11c9biwp5]: started parsing
+[20Sep2025 19:37:21.247] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pup11c9biwp5]: Consuming argument `grass_blockç`
+[20Sep2025 19:37:21.248] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xqmugtxnev2m]: started parsing
+[20Sep2025 19:37:21.249] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xqmugtxnev2m]: Consuming argument `grass_blockç`
+[20Sep2025 19:37:21.723] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hkxh308sb3io]: started parsing
+[20Sep2025 19:37:21.723] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hkxh308sb3io]: Consuming argument `grass_block`
+[20Sep2025 19:37:21.724] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hkxh308sb3io]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:21.724] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xzg1bosnqwej]: started parsing
+[20Sep2025 19:37:21.724] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xzg1bosnqwej]: Consuming argument `grass_block`
+[20Sep2025 19:37:21.724] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xzg1bosnqwej]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:22.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ixesc9m93tsb]: started parsing
+[20Sep2025 19:37:22.133] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ixesc9m93tsb]: Consuming argument `grass_block`
+[20Sep2025 19:37:22.133] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ixesc9m93tsb]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:29.934] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h57l0ybq5vas]: started parsing
+[20Sep2025 19:37:29.934] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h57l0ybq5vas]: Consuming argument `grass_block`
+[20Sep2025 19:37:29.934] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h57l0ybq5vas]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:29.935] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vius7fos6aci]: started parsing
+[20Sep2025 19:37:29.935] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vius7fos6aci]: Consuming argument `grass_block`
+[20Sep2025 19:37:29.935] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vius7fos6aci]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:30.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l7syb3sb18i3]: started parsing
+[20Sep2025 19:37:30.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l7syb3sb18i3]: Consuming argument `grass_block`
+[20Sep2025 19:37:30.076] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0l7syb3sb18i3]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:36.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pp2hqa81f3pn]: started parsing
+[20Sep2025 19:37:36.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pp2hqa81f3pn]: Consuming argument `grass_block`
+[20Sep2025 19:37:36.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pp2hqa81f3pn]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:36.132] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xuvotpbs2kbs]: started parsing
+[20Sep2025 19:37:36.133] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xuvotpbs2kbs]: Consuming argument `grass_block`
+[20Sep2025 19:37:36.133] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xuvotpbs2kbs]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:36.226] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rcmsrc05d3u6]: started parsing
+[20Sep2025 19:37:36.226] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rcmsrc05d3u6]: Consuming argument `grass_block`
+[20Sep2025 19:37:36.226] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rcmsrc05d3u6]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:39.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1suaqufz8i6mv]: started parsing
+[20Sep2025 19:37:39.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1suaqufz8i6mv]: Consuming argument `grass_block`
+[20Sep2025 19:37:39.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1suaqufz8i6mv]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:39.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08zwe49bkmqyh]: started parsing
+[20Sep2025 19:37:39.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08zwe49bkmqyh]: Consuming argument `grass_block`
+[20Sep2025 19:37:39.183] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08zwe49bkmqyh]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:39.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1igg6xlatd5s6]: started parsing
+[20Sep2025 19:37:39.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1igg6xlatd5s6]: Consuming argument `grass_block`
+[20Sep2025 19:37:39.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1igg6xlatd5s6]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:41.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02f2e3kqzwly8]: started parsing
+[20Sep2025 19:37:41.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02f2e3kqzwly8]: Consuming argument `grass_block`
+[20Sep2025 19:37:41.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02f2e3kqzwly8]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:41.397] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qczhwo1psu5h]: started parsing
+[20Sep2025 19:37:41.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qczhwo1psu5h]: Consuming argument `grass_block`
+[20Sep2025 19:37:41.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qczhwo1psu5h]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:37:41.524] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rbvxrztzxz9c]: started parsing
+[20Sep2025 19:37:41.524] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rbvxrztzxz9c]: Consuming argument `grass_block`
+[20Sep2025 19:37:41.525] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rbvxrztzxz9c]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:38:23.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shruan83ea47]: started parsing
+[20Sep2025 19:38:23.997] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shruan83ea47]: Consuming argument `grass_block`
+[20Sep2025 19:38:23.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0shruan83ea47]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:38:23.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046ag71mwkpzv]: started parsing
+[20Sep2025 19:38:23.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046ag71mwkpzv]: Consuming argument `grass_block`
+[20Sep2025 19:38:23.998] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [046ag71mwkpzv]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:38:24.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tq778b59rpd0]: started parsing
+[20Sep2025 19:38:24.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tq778b59rpd0]: Consuming argument `grass_block`
+[20Sep2025 19:38:24.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tq778b59rpd0]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:38:26.485] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qo65x6ht3tvf]: started parsing
+[20Sep2025 19:38:26.485] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qo65x6ht3tvf]: Consuming argument `grass_block`
+[20Sep2025 19:38:26.485] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qo65x6ht3tvf]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:38:26.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eumxkj9wcoab]: started parsing
+[20Sep2025 19:38:26.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eumxkj9wcoab]: Consuming argument `grass_block`
+[20Sep2025 19:38:26.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eumxkj9wcoab]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:38:26.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kzy6tn0i4znw]: started parsing
+[20Sep2025 19:38:26.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kzy6tn0i4znw]: Consuming argument `grass_block`
+[20Sep2025 19:38:26.623] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kzy6tn0i4znw]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:38:37.024] [Server thread/INFO] [Easy NPC/]: Opening menu 80e7a1ad-bd8f-4788-bd7c-9a264a6ec3af for npc 886a7c13-cbb9-45da-b6a8-00b6138bd79c and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-538.43, y=69.94, z=-666.35] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:38:38.022] [Server thread/INFO] [Easy NPC/]: Opening menu 961735f7-85cc-43ee-a084-3f800a3a8a01 for npc 886a7c13-cbb9-45da-b6a8-00b6138bd79c and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-538.43, y=69.94, z=-666.35] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[Humanoid]}]
+[20Sep2025 19:38:42.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [160fzdczhaejo]: started parsing
+[20Sep2025 19:38:42.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [160fzdczhaejo]: Consuming argument `grass_block`
+[20Sep2025 19:38:42.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [160fzdczhaejo]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:38:42.150] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03q8x2c990nqk]: started parsing
+[20Sep2025 19:38:42.150] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03q8x2c990nqk]: Consuming argument `grass_block`
+[20Sep2025 19:38:42.150] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [03q8x2c990nqk]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:38:42.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kysjia9ny8mp]: started parsing
+[20Sep2025 19:38:42.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kysjia9ny8mp]: Consuming argument `grass_block`
+[20Sep2025 19:38:42.273] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kysjia9ny8mp]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:39:02.288] [Server thread/INFO] [Easy NPC/]: Opening menu 16b35875-6bb3-4b63-93ae-5d7fec4aaa4c for npc 886a7c13-cbb9-45da-b6a8-00b6138bd79c and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-538.43, y=69.94, z=-666.35] with ConfigurationMenu.PLAYER_SKIN[translation{key='text.easy_npc.config.player_skin.title', args=[Humanoid]}]
+[20Sep2025 19:39:20.701] [Server thread/INFO] [Easy NPC/]: Opening menu 2a110c5c-5093-4f6b-bb8b-047141e6b8df for npc 886a7c13-cbb9-45da-b6a8-00b6138bd79c and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-538.52, y=69.94, z=-665.99] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:39:43.500] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wdqo35k4b6ot]: started parsing
+[20Sep2025 19:39:43.500] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wdqo35k4b6ot]: Consuming argument `grass_block`
+[20Sep2025 19:39:43.500] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wdqo35k4b6ot]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:39:43.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wulr61ycvhav]: started parsing
+[20Sep2025 19:39:43.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wulr61ycvhav]: Consuming argument `grass_block`
+[20Sep2025 19:39:43.501] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wulr61ycvhav]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:39:43.672] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05vkc2i4lch1q]: started parsing
+[20Sep2025 19:39:43.672] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05vkc2i4lch1q]: Consuming argument `grass_block`
+[20Sep2025 19:39:43.672] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05vkc2i4lch1q]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:41:32.932] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/148029, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:41:32.932] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/148029, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:41:32.932] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/148029, l='ServerLevel[world]', x=-507.50, y=67.00, z=-684.50] ...
+[20Sep2025 19:41:32.932] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/148029, l='ServerLevel[world]', x=-507.50, y=67.00, z=-684.50] ...
+[20Sep2025 19:41:44.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 19:41:44.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 19:42:07.096] [Server thread/INFO] [Easy NPC/]: Opening menu 356076c2-6d85-48c2-80f6-7c4b0d072649 for npc 9d9111f7-9113-4aea-9370-da9a8e6e2b0c and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-509.93, y=67.00, z=-683.49] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:42:09.125] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Humanoid['Humanoid'/148029, l='ServerLevel[world]', x=-507.50, y=67.00, z=-684.50] requested by ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-509.93, y=67.00, z=-683.49]
+[20Sep2025 19:42:10.147] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/148165, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 19:42:10.147] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/148165, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 19:42:10.148] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/148165, l='ServerLevel[world]', x=-507.50, y=67.00, z=-683.50] ...
+[20Sep2025 19:42:10.148] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/148165, l='ServerLevel[world]', x=-507.50, y=67.00, z=-683.50] ...
+[20Sep2025 19:44:19.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14xpulw91bccy]: started parsing
+[20Sep2025 19:44:19.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14xpulw91bccy]: Consuming argument `grass_block`
+[20Sep2025 19:44:19.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14xpulw91bccy]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:44:19.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [190b9bt3sg0rk]: started parsing
+[20Sep2025 19:44:19.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [190b9bt3sg0rk]: Consuming argument `grass_block`
+[20Sep2025 19:44:19.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [190b9bt3sg0rk]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:44:19.271] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0egtz4hsshpz7]: started parsing
+[20Sep2025 19:44:19.271] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0egtz4hsshpz7]: Consuming argument `grass_block`
+[20Sep2025 19:44:19.271] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0egtz4hsshpz7]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:44:24.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u1g0vpjx30iu]: started parsing
+[20Sep2025 19:44:24.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u1g0vpjx30iu]: Consuming argument `grass_block`
+[20Sep2025 19:44:24.796] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u1g0vpjx30iu]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:44:24.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qpbvmlbd5drt]: started parsing
+[20Sep2025 19:44:24.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qpbvmlbd5drt]: Consuming argument `grass_block`
+[20Sep2025 19:44:24.797] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0qpbvmlbd5drt]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:44:24.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m4ldrrdwgu3g]: started parsing
+[20Sep2025 19:44:24.850] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m4ldrrdwgu3g]: Consuming argument `grass_block`
+[20Sep2025 19:44:24.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m4ldrrdwgu3g]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:44:55.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08tnei8qd2lgs]: started parsing
+[20Sep2025 19:44:55.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08tnei8qd2lgs]: Consuming argument `grass_block`
+[20Sep2025 19:44:55.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08tnei8qd2lgs]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:44:55.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yprkqnzk9p0v]: started parsing
+[20Sep2025 19:44:55.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yprkqnzk9p0v]: Consuming argument `grass_block`
+[20Sep2025 19:44:55.182] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yprkqnzk9p0v]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:44:55.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c6kkas44egs1]: started parsing
+[20Sep2025 19:44:55.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c6kkas44egs1]: Consuming argument `grass_block`
+[20Sep2025 19:44:55.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c6kkas44egs1]: Finished looking at arguments. Finalizing command.
+[20Sep2025 19:44:56.800] [Server thread/INFO] [Easy NPC/]: Opening menu 63b3a941-e6b0-4ee4-8dfc-dcebafb8778c for npc 19c10784-a4d5-4c22-a731-bea61e20a635 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-507.10, y=66.94, z=-681.70] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:44:58.181] [Server thread/INFO] [Easy NPC/]: Opening menu 58587143-6c6b-4df6-b492-c88d9b36dc21 for npc 19c10784-a4d5-4c22-a731-bea61e20a635 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-507.10, y=66.94, z=-681.70] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[Humanoid]}]
+[20Sep2025 19:44:58.924] [Server thread/INFO] [Easy NPC/]: Opening menu bf829553-03e6-4b00-8a30-deb0c09613c6 for npc 19c10784-a4d5-4c22-a731-bea61e20a635 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-507.10, y=66.94, z=-681.70] with ConfigurationMenu.URL_SKIN[translation{key='text.easy_npc.config.url_skin.title', args=[Humanoid]}]
+[20Sep2025 19:45:14.974] [Server thread/INFO] [Easy NPC/]: Opening menu 1e64beec-ea82-4457-a6f6-cb0fb0cf255d for npc 19c10784-a4d5-4c22-a731-bea61e20a635 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-507.84, y=66.94, z=-681.37] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:46:02.071] [Server thread/INFO] [Easy NPC/]: Opening menu c5ce67c2-5ae9-4792-b298-8fa69de1afe8 for npc 19c10784-a4d5-4c22-a731-bea61e20a635 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-507.64, y=66.94, z=-681.57] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 19:46:03.570] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC Humanoid['Humanoid'/148165, l='ServerLevel[world]', x=-507.50, y=67.00, z=-683.50] requested by ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-507.64, y=66.94, z=-681.57]
