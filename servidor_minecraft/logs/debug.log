@@ -9831,3 +9831,131 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [20Sep2025 15:59:04.499] [Server thread/INFO] [Easy NPC/]: Opening menu f5dfbc67-743e-48b5-8045-c235f29c0628 for npc 729042ac-35f7-42cc-97a6-c4b60b602a71 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=3298.56, y=69.00, z=3834.25] with DialogMenuHandler{displayName=literal{aitor}[style={color=#FFFFFF}]}
 [20Sep2025 16:01:44.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Sep2025 16:01:44.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 16:02:58.686] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n4jj1yg04gu5]: started parsing
+[20Sep2025 16:02:58.686] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n4jj1yg04gu5]: Consuming argument `stone_bricks`
+[20Sep2025 16:02:58.686] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0n4jj1yg04gu5]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:02:58.687] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06vxg1mzdez73]: started parsing
+[20Sep2025 16:02:58.687] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06vxg1mzdez73]: Consuming argument `stone_bricks`
+[20Sep2025 16:02:58.687] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06vxg1mzdez73]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:02:58.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14yoe1dd3fxoo]: started parsing
+[20Sep2025 16:02:58.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14yoe1dd3fxoo]: Consuming argument `air`
+[20Sep2025 16:02:58.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14yoe1dd3fxoo]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:02:58.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1exmzlsd848p1]: started parsing
+[20Sep2025 16:02:58.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1exmzlsd848p1]: Consuming argument `air`
+[20Sep2025 16:02:58.875] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1exmzlsd848p1]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:02:59.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tjciguvvdyo8]: started parsing
+[20Sep2025 16:02:59.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tjciguvvdyo8]: Consuming argument `90`
+[20Sep2025 16:02:59.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tjciguvvdyo8]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:02:59.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [081898oger4ki]: started parsing
+[20Sep2025 16:02:59.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [081898oger4ki]: Consuming argument `90`
+[20Sep2025 16:02:59.787] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [081898oger4ki]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:00.437] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1au46ohtqkduw]: started parsing
+[20Sep2025 16:03:00.437] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1au46ohtqkduw]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:04.203] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ju8fbn9p4ol]: started parsing
+[20Sep2025 16:03:04.203] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ju8fbn9p4ol]: Consuming argument `stone_bricks`
+[20Sep2025 16:03:04.203] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15ju8fbn9p4ol]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:04.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07kn734ly1lyh]: started parsing
+[20Sep2025 16:03:04.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07kn734ly1lyh]: Consuming argument `stone_bricks`
+[20Sep2025 16:03:04.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07kn734ly1lyh]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:04.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11u2wlh4db315]: started parsing
+[20Sep2025 16:03:04.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11u2wlh4db315]: Consuming argument `air`
+[20Sep2025 16:03:04.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11u2wlh4db315]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:04.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ynzntux9ten5]: started parsing
+[20Sep2025 16:03:04.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ynzntux9ten5]: Consuming argument `air`
+[20Sep2025 16:03:04.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ynzntux9ten5]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:05.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10hvts5bfy5f1]: started parsing
+[20Sep2025 16:03:05.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10hvts5bfy5f1]: Consuming argument `90`
+[20Sep2025 16:03:05.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10hvts5bfy5f1]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:05.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fu2txkjz5oqw]: started parsing
+[20Sep2025 16:03:05.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fu2txkjz5oqw]: Consuming argument `90`
+[20Sep2025 16:03:05.326] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1fu2txkjz5oqw]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:05.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vu1a1fzrx0nx]: started parsing
+[20Sep2025 16:03:05.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vu1a1fzrx0nx]: Consuming argument `stone_bricks`
+[20Sep2025 16:03:05.921] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vu1a1fzrx0nx]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:05.922] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17tfh49rmiypz]: started parsing
+[20Sep2025 16:03:05.922] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17tfh49rmiypz]: Consuming argument `stone_bricks`
+[20Sep2025 16:03:05.922] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17tfh49rmiypz]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:06.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nrzlflwixjcy]: started parsing
+[20Sep2025 16:03:06.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nrzlflwixjcy]: Consuming argument `air`
+[20Sep2025 16:03:06.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nrzlflwixjcy]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:06.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x5fg4hwuvhba]: started parsing
+[20Sep2025 16:03:06.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x5fg4hwuvhba]: Consuming argument `air`
+[20Sep2025 16:03:06.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0x5fg4hwuvhba]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:07.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pyja3moa31k5]: started parsing
+[20Sep2025 16:03:07.786] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0pyja3moa31k5]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:10.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02045btxn4bu2]: started parsing
+[20Sep2025 16:03:10.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02045btxn4bu2]: Consuming argument ``
+[20Sep2025 16:03:11.151] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q7okcyvjlpiq]: started parsing
+[20Sep2025 16:03:11.151] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q7okcyvjlpiq]: Consuming argument `9`
+[20Sep2025 16:03:11.151] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q7okcyvjlpiq]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:11.271] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oyxtypmh8isr]: started parsing
+[20Sep2025 16:03:11.271] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oyxtypmh8isr]: Consuming argument `90`
+[20Sep2025 16:03:11.271] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1oyxtypmh8isr]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:11.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ruaog8d4gb9o]: started parsing
+[20Sep2025 16:03:11.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ruaog8d4gb9o]: Consuming argument `90`
+[20Sep2025 16:03:11.374] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ruaog8d4gb9o]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:13.902] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1opzg8tbm3w0w]: started parsing
+[20Sep2025 16:03:13.902] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1opzg8tbm3w0w]: Consuming argument `90`
+[20Sep2025 16:03:13.902] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1opzg8tbm3w0w]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:13.902] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05qg8lwvj9mvg]: started parsing
+[20Sep2025 16:03:13.902] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05qg8lwvj9mvg]: Consuming argument `90`
+[20Sep2025 16:03:13.903] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05qg8lwvj9mvg]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:15.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gqzr97g0w5br]: started parsing
+[20Sep2025 16:03:15.174] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gqzr97g0w5br]: Consuming argument `90`
+[20Sep2025 16:03:15.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gqzr97g0w5br]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:15.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02c9ztwy19kdf]: started parsing
+[20Sep2025 16:03:15.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02c9ztwy19kdf]: Consuming argument `90`
+[20Sep2025 16:03:15.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [02c9ztwy19kdf]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:15.821] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08sq9gkbof7dm]: started parsing
+[20Sep2025 16:03:15.821] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08sq9gkbof7dm]: Consuming argument `stone_bricks`
+[20Sep2025 16:03:15.822] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08sq9gkbof7dm]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:15.822] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12jhv71bxuale]: started parsing
+[20Sep2025 16:03:15.822] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12jhv71bxuale]: Consuming argument `stone_bricks`
+[20Sep2025 16:03:15.822] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12jhv71bxuale]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:16.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q4hcb51ppi3r]: started parsing
+[20Sep2025 16:03:16.375] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1q4hcb51ppi3r]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:03:40.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zamires: Teleported zamires to lentojas0]
+[20Sep2025 16:06:44.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 16:06:44.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 16:07:15.794] [Server thread/INFO] [Easy NPC/]: Opening menu fde35315-0640-44b8-9be3-b18bb354fe68 for npc 729042ac-35f7-42cc-97a6-c4b60b602a71 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=3300.51, y=69.00, z=3835.45] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[aitor]}]
+[20Sep2025 16:07:17.064] [Server thread/INFO] [Easy NPC/]: Opening menu 93a40ed9-c137-444f-a1c1-a3706e6aaacb for npc 729042ac-35f7-42cc-97a6-c4b60b602a71 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=3300.51, y=69.00, z=3835.45] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[aitor]}]
+[20Sep2025 16:07:18.527] [Server thread/INFO] [Easy NPC/]: Opening menu 4c8f4808-7967-44af-8257-aa4b247c01bb for npc 729042ac-35f7-42cc-97a6-c4b60b602a71 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=3300.51, y=69.00, z=3835.45] with ConfigurationMenu.URL_SKIN[translation{key='text.easy_npc.config.url_skin.title', args=[aitor]}]
+[20Sep2025 16:08:43.988] [Server thread/INFO] [Easy NPC/]: Opening menu ba8e5414-7579-409f-8809-8faa21cb2f81 for npc 729042ac-35f7-42cc-97a6-c4b60b602a71 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=3300.70, y=69.00, z=3835.25] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[aitor]}]
+[20Sep2025 16:08:45.172] [Server thread/INFO] [Easy NPC/]: Opening menu 865c2ab7-4729-413c-88bb-61e6b360377d for npc 729042ac-35f7-42cc-97a6-c4b60b602a71 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=3300.70, y=69.00, z=3835.25] with ConfigurationMenu.BASIC_DIALOG[translation{key='text.easy_npc.config.basic_dialog.title', args=[aitor]}]
+[20Sep2025 16:09:04.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jk9euxr339qy]: started parsing
+[20Sep2025 16:09:04.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jk9euxr339qy]: Consuming argument `90`
+[20Sep2025 16:09:04.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jk9euxr339qy]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:09:04.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11brj5tpnn2xg]: started parsing
+[20Sep2025 16:09:04.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11brj5tpnn2xg]: Consuming argument `90`
+[20Sep2025 16:09:04.701] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11brj5tpnn2xg]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:09:05.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vmhuci2r32au]: started parsing
+[20Sep2025 16:09:05.286] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vmhuci2r32au]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:09:07.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00420wwvw47wc]: started parsing
+[20Sep2025 16:09:07.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00420wwvw47wc]: Consuming argument `90`
+[20Sep2025 16:09:07.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00420wwvw47wc]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:09:07.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p5z3ndkadclm]: started parsing
+[20Sep2025 16:09:07.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p5z3ndkadclm]: Consuming argument `90`
+[20Sep2025 16:09:07.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p5z3ndkadclm]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:09:08.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [116sgb0gn02z2]: started parsing
+[20Sep2025 16:09:08.851] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [116sgb0gn02z2]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:09:10.886] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gebg60kfvr8u]: started parsing
+[20Sep2025 16:09:10.886] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gebg60kfvr8u]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:09:29.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tcgqkos4fqx5]: started parsing
+[20Sep2025 16:09:29.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tcgqkos4fqx5]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:09:36.389] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k5r4c4eo0sxw]: started parsing
+[20Sep2025 16:09:36.389] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0k5r4c4eo0sxw]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:09:42.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dhmgd65m95h5]: started parsing
+[20Sep2025 16:09:42.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dhmgd65m95h5]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:09:56.626] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qdouzrh3mv27]: started parsing
+[20Sep2025 16:09:56.626] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qdouzrh3mv27]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:10:10.090] [Server thread/INFO] [Easy NPC/]: Opening menu 89c7f483-bc3d-4c3b-8acd-2c924afe3660 for npc 729042ac-35f7-42cc-97a6-c4b60b602a71 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=3301.48, y=69.00, z=3834.84] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[aitor]}]
+[20Sep2025 16:10:12.775] [Server thread/INFO] [Easy NPC/]: Opening menu dca60794-e9a5-4daf-a73f-7380b4d56ac3 for npc 729042ac-35f7-42cc-97a6-c4b60b602a71 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=3301.48, y=69.00, z=3834.84] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[aitor]}]
+[20Sep2025 16:10:13.743] [Server thread/INFO] [Easy NPC/]: Opening menu 47ec5792-6701-4480-899a-73f6cb1fb418 for npc 729042ac-35f7-42cc-97a6-c4b60b602a71 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=3301.48, y=69.00, z=3834.84] with ConfigurationMenu.URL_SKIN[translation{key='text.easy_npc.config.url_skin.title', args=[aitor]}]
+[20Sep2025 16:10:14.691] [Server thread/INFO] [Easy NPC/]: Opening menu c8aa0ca6-bd39-4016-bf94-cab77e6089bf for npc 729042ac-35f7-42cc-97a6-c4b60b602a71 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=3301.48, y=69.00, z=3834.84] with ConfigurationMenu.PLAYER_SKIN[translation{key='text.easy_npc.config.player_skin.title', args=[aitor]}]
+[20Sep2025 16:10:15.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e6svsj4vunt5]: started parsing
+[20Sep2025 16:10:15.251] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e6svsj4vunt5]: Finished looking at arguments. Finalizing command.
+[20Sep2025 16:10:21.202] [Server thread/INFO] [Easy NPC/]: Opening menu b668275d-c6e1-4e86-be0f-277e97993bbc for npc 729042ac-35f7-42cc-97a6-c4b60b602a71 and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=3301.58, y=69.00, z=3834.80] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[aitor]}]
+[20Sep2025 16:10:22.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zamires: Teleported zamires to lentojas0]
+[20Sep2025 16:11:44.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 16:11:44.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 16:12:12.836] [Server thread/INFO] [Easy NPC/]: Opening menu df89bf43-a569-44ec-8776-95c566863e3e for npc 729042ac-35f7-42cc-97a6-c4b60b602a71 and player ServerPlayer['zamires'/15873, l='ServerLevel[world]', x=3298.49, y=69.00, z=3832.82] with DialogMenuHandler{displayName=literal{aitor}[style={color=#FFFFFF}]}
