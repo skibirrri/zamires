@@ -11810,3 +11810,138 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [20Sep2025 18:30:24.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zamires: Set the time to 1000]
 [20Sep2025 18:31:44.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Sep2025 18:31:44.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 18:36:44.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 18:36:44.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 18:40:52.444] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/111038, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 18:40:52.444] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/111038, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 18:40:52.445] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/111038, l='ServerLevel[world]', x=-1175.50, y=74.00, z=-1783.50] ...
+[20Sep2025 18:40:52.445] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/111038, l='ServerLevel[world]', x=-1175.50, y=74.00, z=-1783.50] ...
+[20Sep2025 18:40:52.977] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/111043, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[20Sep2025 18:40:52.978] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/111043, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[20Sep2025 18:40:53.053] [Server thread/INFO] [Easy NPC/]: Opening menu ca1fe2ea-5baa-40f9-a2dc-a6aa40df3265 for npc a50427e7-9ca6-41ba-b3f7-77b822ebf66e and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-1177.64, y=74.00, z=-1783.63] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[20Sep2025 18:40:54.052] [Server thread/INFO] [Easy NPC/]: Opening menu 44600b2e-db5b-4742-9e71-c67596775d71 for npc a50427e7-9ca6-41ba-b3f7-77b822ebf66e and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-1177.64, y=74.00, z=-1783.63] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[Humanoid]}]
+[20Sep2025 18:40:56.000] [Server thread/INFO] [Easy NPC/]: Opening menu f5d682f6-7cf7-4d7b-869a-1ac54aa71a91 for npc a50427e7-9ca6-41ba-b3f7-77b822ebf66e and player ServerPlayer['lentojas0'/1106, l='ServerLevel[world]', x=-1177.64, y=74.00, z=-1783.63] with ConfigurationMenu.BASIC_DIALOG[translation{key='text.easy_npc.config.basic_dialog.title', args=[Humanoid]}]
+[20Sep2025 18:41:44.527] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 18:41:44.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 18:41:51.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Teleported lentojas0 to zamires]
+[20Sep2025 18:42:28.025] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rrwom8kikpa3]: started parsing
+[20Sep2025 18:42:28.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rrwom8kikpa3]: Consuming argument `air`
+[20Sep2025 18:42:28.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rrwom8kikpa3]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:42:28.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07kdsnsrmg3d9]: started parsing
+[20Sep2025 18:42:28.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07kdsnsrmg3d9]: Consuming argument `air`
+[20Sep2025 18:42:28.026] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [07kdsnsrmg3d9]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:42:28.342] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ggtuedk1yaa8]: started parsing
+[20Sep2025 18:42:28.342] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ggtuedk1yaa8]: Consuming argument `aira`
+[20Sep2025 18:42:28.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fuvlnyce10oi]: started parsing
+[20Sep2025 18:42:28.343] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fuvlnyce10oi]: Consuming argument `aira`
+[20Sep2025 18:42:28.590] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x7xw00853fn2]: started parsing
+[20Sep2025 18:42:28.590] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x7xw00853fn2]: Consuming argument `air`
+[20Sep2025 18:42:28.590] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1x7xw00853fn2]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:42:28.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mo0tsbjtewfb]: started parsing
+[20Sep2025 18:42:28.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mo0tsbjtewfb]: Consuming argument `air`
+[20Sep2025 18:42:28.591] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mo0tsbjtewfb]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:42:28.852] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qolrj3atv64m]: started parsing
+[20Sep2025 18:42:28.852] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qolrj3atv64m]: Consuming argument `air`
+[20Sep2025 18:42:28.852] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qolrj3atv64m]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:42:38.112] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gnlhn4fvnrko]: started parsing
+[20Sep2025 18:42:38.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gnlhn4fvnrko]: Consuming argument `air`
+[20Sep2025 18:42:38.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gnlhn4fvnrko]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:42:38.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vg0jr8wqsr2m]: started parsing
+[20Sep2025 18:42:38.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vg0jr8wqsr2m]: Consuming argument `air`
+[20Sep2025 18:42:38.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vg0jr8wqsr2m]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:42:38.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1io6r9mwvef5j]: started parsing
+[20Sep2025 18:42:38.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1io6r9mwvef5j]: Consuming argument `air`
+[20Sep2025 18:42:38.284] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1io6r9mwvef5j]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:42:46.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06gpj0yl0772t]: started parsing
+[20Sep2025 18:42:46.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06gpj0yl0772t]: Consuming argument `air`
+[20Sep2025 18:42:46.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [06gpj0yl0772t]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:42:46.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t3mtgnmzqinr]: started parsing
+[20Sep2025 18:42:46.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t3mtgnmzqinr]: Consuming argument `air`
+[20Sep2025 18:42:46.945] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0t3mtgnmzqinr]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:42:47.091] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nrxy4f1db6i3]: started parsing
+[20Sep2025 18:42:47.091] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nrxy4f1db6i3]: Consuming argument `air`
+[20Sep2025 18:42:47.091] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nrxy4f1db6i3]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:02.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pidegn196nk8]: started parsing
+[20Sep2025 18:43:02.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pidegn196nk8]: Consuming argument `air`
+[20Sep2025 18:43:02.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pidegn196nk8]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:02.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p9jllno07u6l]: started parsing
+[20Sep2025 18:43:02.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p9jllno07u6l]: Consuming argument `air`
+[20Sep2025 18:43:02.799] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p9jllno07u6l]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:02.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [035w5hdavzs7k]: started parsing
+[20Sep2025 18:43:02.880] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [035w5hdavzs7k]: Consuming argument `air`
+[20Sep2025 18:43:02.880] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [035w5hdavzs7k]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:04.934] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gw2whqe3kmxs]: started parsing
+[20Sep2025 18:43:04.934] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gw2whqe3kmxs]: Consuming argument `air`
+[20Sep2025 18:43:04.934] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gw2whqe3kmxs]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:04.934] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xaawnrs651ha]: started parsing
+[20Sep2025 18:43:04.934] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xaawnrs651ha]: Consuming argument `air`
+[20Sep2025 18:43:04.934] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xaawnrs651ha]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:04.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p90zmxskgjzm]: started parsing
+[20Sep2025 18:43:04.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p90zmxskgjzm]: Consuming argument `air`
+[20Sep2025 18:43:04.943] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p90zmxskgjzm]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:07.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00d5ieuzs6ue1]: started parsing
+[20Sep2025 18:43:07.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00d5ieuzs6ue1]: Consuming argument `air`
+[20Sep2025 18:43:07.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00d5ieuzs6ue1]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:07.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iqzxastamki3]: started parsing
+[20Sep2025 18:43:07.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iqzxastamki3]: Consuming argument `air`
+[20Sep2025 18:43:07.730] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1iqzxastamki3]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:07.835] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0egzlm1gz50jy]: started parsing
+[20Sep2025 18:43:07.837] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0egzlm1gz50jy]: Consuming argument `air`
+[20Sep2025 18:43:07.838] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0egzlm1gz50jy]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:09.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f2wr8zecmdci]: started parsing
+[20Sep2025 18:43:09.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f2wr8zecmdci]: Consuming argument `air`
+[20Sep2025 18:43:09.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f2wr8zecmdci]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:09.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [106ai76fowiao]: started parsing
+[20Sep2025 18:43:09.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [106ai76fowiao]: Consuming argument `air`
+[20Sep2025 18:43:09.455] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [106ai76fowiao]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:09.561] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s0ujmrbf1qbp]: started parsing
+[20Sep2025 18:43:09.565] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s0ujmrbf1qbp]: Consuming argument `air`
+[20Sep2025 18:43:09.565] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s0ujmrbf1qbp]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:13.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tfan5l3htt0a]: started parsing
+[20Sep2025 18:43:13.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tfan5l3htt0a]: Consuming argument `air`
+[20Sep2025 18:43:13.758] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1tfan5l3htt0a]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:13.758] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10puk1pjjeju5]: started parsing
+[20Sep2025 18:43:13.758] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10puk1pjjeju5]: Consuming argument `air`
+[20Sep2025 18:43:13.758] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10puk1pjjeju5]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:13.833] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uy2plv4528t0]: started parsing
+[20Sep2025 18:43:13.833] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uy2plv4528t0]: Consuming argument `air`
+[20Sep2025 18:43:13.833] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uy2plv4528t0]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:16.631] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vjqsq5s3yw69]: started parsing
+[20Sep2025 18:43:16.631] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vjqsq5s3yw69]: Consuming argument `air`
+[20Sep2025 18:43:16.631] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vjqsq5s3yw69]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:16.631] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05p8ezfg0v56v]: started parsing
+[20Sep2025 18:43:16.631] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05p8ezfg0v56v]: Consuming argument `air`
+[20Sep2025 18:43:16.631] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05p8ezfg0v56v]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:16.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hyry42exbslc]: started parsing
+[20Sep2025 18:43:16.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hyry42exbslc]: Consuming argument `air`
+[20Sep2025 18:43:16.737] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hyry42exbslc]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:27.117] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0usoeh3gi2qts]: started parsing
+[20Sep2025 18:43:27.117] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0usoeh3gi2qts]: Consuming argument `air`
+[20Sep2025 18:43:27.117] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0usoeh3gi2qts]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:27.118] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01sye1lno6m7x]: started parsing
+[20Sep2025 18:43:27.118] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01sye1lno6m7x]: Consuming argument `air`
+[20Sep2025 18:43:27.118] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01sye1lno6m7x]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:27.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0091w2f6x04xz]: started parsing
+[20Sep2025 18:43:27.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0091w2f6x04xz]: Consuming argument `air`
+[20Sep2025 18:43:27.156] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0091w2f6x04xz]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:33.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zamires moved too quickly! -7.7902085707384,5.812595443431164,-4.451243953809808
+[20Sep2025 18:43:39.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15plcklgwfg16]: started parsing
+[20Sep2025 18:43:39.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15plcklgwfg16]: Consuming argument `air`
+[20Sep2025 18:43:39.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15plcklgwfg16]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:39.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1btzhdvo1n3ap]: started parsing
+[20Sep2025 18:43:39.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1btzhdvo1n3ap]: Consuming argument `air`
+[20Sep2025 18:43:39.083] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1btzhdvo1n3ap]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:39.171] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tux1g68e7ziq]: started parsing
+[20Sep2025 18:43:39.171] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tux1g68e7ziq]: Consuming argument `air`
+[20Sep2025 18:43:39.172] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0tux1g68e7ziq]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:50.439] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hgqzqfc4bl1a]: started parsing
+[20Sep2025 18:43:50.439] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hgqzqfc4bl1a]: Consuming argument `air`
+[20Sep2025 18:43:50.439] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1hgqzqfc4bl1a]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:50.439] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [011r7blz73hp6]: started parsing
+[20Sep2025 18:43:50.440] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [011r7blz73hp6]: Consuming argument `air`
+[20Sep2025 18:43:50.440] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [011r7blz73hp6]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:43:50.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [053be9fisrqmo]: started parsing
+[20Sep2025 18:43:50.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [053be9fisrqmo]: Consuming argument `air`
+[20Sep2025 18:43:50.539] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [053be9fisrqmo]: Finished looking at arguments. Finalizing command.
+[20Sep2025 18:44:00.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zamires: Teleported zamires to lentojas0]
+[20Sep2025 18:44:05.714] [Server thread/DEBUG] [com.etema.attributemodify.AttributeModify/]: Processing Curios attributes for night_vision_goggles in slot head
