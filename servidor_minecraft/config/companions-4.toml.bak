@@ -435,17 +435,17 @@
 	# Default: 8.0
 	# Range: 0.0 ~ 1000.0
 	HOLINESS_STAR_DAMAGE = 8.0
-	# Damage dealt by Brace projectile per hit.
-	# 
-	# Default: 4.0
-	# Range: 0.0 ~ 1000.0
+	#Damage dealt by Brace projectile per hit.
+	#
+	#Default: 4.0
+	#Range: 0.0 ~ 1000.0
 	BRACE_PROJECTILE_DAMAGE = 4.0
-	# Lifesteal fraction per hit for Crystallized Blood Scythe.
-	# 
-	# Default: 0.15
-	# Range: 0.0 ~ 1.0
-	# 
-	# Note: 0.10 = heal 10% of damage dealt
+	#Lifesteal fraction per hit for Crystallized Blood Scythe.
+	#
+	#Default: 0.15
+	#Range: 0.0 ~ 1.0
+	#
+	#Note: 0.10 = heal 10% of damage dealt
 	CRYSTALLIZED_BLOOD_SCYTHE_LIFE_STEAL = 0.15
 	#Damage dealt by Blood Tornado (axe ability).
 	#

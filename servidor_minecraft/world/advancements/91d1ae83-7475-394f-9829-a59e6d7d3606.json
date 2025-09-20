@@ -1,0 +1,58 @@
+{
+  "slashblade:movesets": {
+    "criteria": {
+      "crafting": "2025-09-20 09:13:28 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:faded_2": {
+    "criteria": {
+      "faded_2_0": "2025-09-20 09:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-20 09:13:28 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2025-09-20 09:13:28 +0000"
+    },
+    "done": true
+  },
+  "arsenal:root": {
+    "criteria": {
+      "custom_test_name": "2025-09-20 09:13:28 +0000"
+    },
+    "done": true
+  },
+  "theabyss:unlockthebook": {
+    "criteria": {
+      "unlockthebook": "2025-09-20 09:13:28 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:choose_your_class": {
+    "criteria": {
+      "choose_your_class_0": "2025-09-20 09:13:28 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2025-09-20 09:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2025-09-20 09:13:29 +0000",
+      "minecraft:plains": "2025-09-20 09:15:57 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

@@ -304,10 +304,10 @@
 	# Default: 15, 1, 1, minecraft:swamp, minecraft:mangrove_swamp, #forge:is_swamp
 	# Range: -Infinity ~ Infinity
 	CORNELIUS_SPAWN = "15, 1, 1, minecraft:swamp, minecraft:mangrove_swamp, #forge:is_swamp"
-	#Wild Antlion spawnrate: [weight, minAmount, maxAmount, biomes and tags... (as many as you want)]
-	#
-	#Default: 15, 1, 1, minecraft:desert, #forge:is_desert
-	#Range: -Infinity ~ Infinity
+	# Wild Antlion spawnrate: [weight, minAmount, maxAmount, biomes and tags... (as many as you want)]
+	# 
+	# Default: 15, 1, 1, minecraft:desert, #forge:is_desert
+	# Range: -Infinity ~ Infinity
 	WILD_ANTLION_SPAWN = "15, 1, 1, minecraft:desert, #forge:is_desert"
 
 ["Puppet Glove"]
@@ -525,107 +525,3 @@
 	# Range: 0.0 ~ 2000.0
 	ANTLION_SOLDIER_MAX_LIFE = 70.0
 	# Damage dealt by the Antlion in its flying phase
-	# 
-	# Default: 10.0
-	# Range: 0.0 ~ 100.0
-	ANTLION_FLYER_DAMAGE = 10.0
-	# Max life of the Antlion in its flying phase
-	# 
-	# Default: 45.0
-	# Range: 0.0 ~ 1500.0
-	ANTLION_FLYER_MAX_LIFE = 45.0
-	# Damage dealt by the Antlion in its tank phase
-	# 
-	# Default: 6.0
-	# Range: 0.0 ~ 200.0
-	ANTLION_TANK_DAMAGE = 6.0
-	# Max life of the Antlion in its tank phase
-	# 
-	# Default: 120.0
-	# Range: 0.0 ~ 5000.0
-	ANTLION_TANK_MAX_LIFE = 120.0
-	# Damage dealt by the Antlion's sand projectile in its soldier phase
-	# 
-	# Default: 10.0
-	# Range: 0.0 ~ 200.0
-	ANTLION_SOLDIER_PROJECTILE_DAMAGE = 10.0
-
-[Puppet]
-	# Determines whether this entity keeps its current chunk loaded. If false, the entity will not teleport to its owner from unloaded
-	# chunks.
-	# 
-	# Default: true
-	PUPPET_KEEP_CHUNK_LOADED = true
-	# Max life of the Puppet
-	# 
-	# Default: 85.0
-	# Range: 0.0 ~ 1000.0
-	PUPPET_MAX_LIFE = 85.0
-	# Damage dealt by the Puppet
-	# 
-	# Default: 7.0
-	# Range: 0.0 ~ 100.0
-	PUPPET_DAMAGE = 7.0
-
-[Mankh]
-	# Determines whether this entity keeps its current chunk loaded. If false, the entity will not teleport to its owner from unloaded
-	# chunks.
-	# 
-	# Default: true
-	MANKH_KEEP_CHUNK_LOADED = true
-	# Max life of the Mankh
-	# 
-	# Default: 85.0
-	# Range: 0.0 ~ 5000.0
-	MANKH_MAX_LIFE = 85.0
-	# Damage dealt by the Mankh
-	# 
-	# Default: 8.5
-	# Range: 0.0 ~ 500.0
-	MANKH_DAMAGE = 8.5
-
-[Dinamo]
-	# Determines whether this entity keeps its current chunk loaded. If false, the entity will not teleport to its owner from unloaded
-	# chunks, and it will not visually render the Tesla connection rays. Keeping the chunk loaded is therefore necessary for full
-	# functionality in this entity.
-	# 
-	# Default: true
-	DINAMO_KEEP_CHUNK_LOADED = true
-	# The maximum number of tesla modules that can be connected in a chain without using a voltaic repeater, starting from a Dinamo. For
-	# example, if set to 3, the Dinamo can connect to coil 1, which connects to coil 2, which connects to coil 3.
-	# 
-	# Default: 7
-	# Range: 0 ~ 50
-	# 
-	# Note: Any additional tesla modules beyond this limit will not be powered.
-	DINAMO_MAX_CHAIN_CONNECTIONS = 7
-	# The maximum distance a tesla module can connect to another
-	# 
-	# Default: 13
-	# Range: 0 ~ 100
-	DINAMO_MAX_CONNECTION_DISTANCE = 13
-	# Max life of the Dinamo
-	# 
-	# Default: 65.0
-	# Range: 0.0 ~ 5000.0
-	DINAMO_MAX_LIFE = 65.0
-	# Electricity damage from both Dinamo and tesla network blocks.
-	# 
-	# Default: 7.5
-	# Range: 0.0 ~ 500.0
-	ELECTRICITY_DAMAGE = 7.5
-
-[Food]
-	#Should the mutant flesh tp the player to the opposite position when looking at a target?
-	#
-	#Default: true
-	MUTANT_FLESH_SHOULD_TP = true
-	#Should the mutant flesh hurt the player?
-	#
-	#Default: true
-	MUTANT_FLESH_SHOULD_HURT = true
-	#Should the antlion fur set the player on fire?
-	#
-	#Default: true
-	ANTLION_FUR_SHOULD_FIRE = true
-
