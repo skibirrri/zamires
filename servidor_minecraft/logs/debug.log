@@ -8744,3 +8744,288 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [21Sep2025 11:43:36.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0945vy74dwzc4]: started parsing
 [21Sep2025 11:43:36.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0945vy74dwzc4]: Consuming argument `stone_bricks`
 [21Sep2025 11:43:36.054] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0945vy74dwzc4]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:44:08.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Spectator Mode]
+[21Sep2025 11:44:18.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zamires: Teleported zamires to lentojas0]
+[21Sep2025 11:44:19.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Creative Mode]
+[21Sep2025 11:45:27.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Spectator Mode]
+[21Sep2025 11:45:55.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: Set own game mode to Creative Mode]
+[21Sep2025 11:47:29.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 11:47:29.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 11:47:29.617] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/59060, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 11:47:29.617] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/59060, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 11:47:29.618] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero de alto mando'/59060, l='ServerLevel[world]', x=2396.45, y=87.00, z=-3835.17].
+[21Sep2025 11:47:55.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qvqazp84pmgs]: started parsing
+[21Sep2025 11:47:55.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qvqazp84pmgs]: Consuming argument `stone_bricks`
+[21Sep2025 11:47:55.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1qvqazp84pmgs]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:47:55.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l7x8yxss60xn]: started parsing
+[21Sep2025 11:47:55.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l7x8yxss60xn]: Consuming argument `stone_bricks`
+[21Sep2025 11:47:55.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1l7x8yxss60xn]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:47:56.575] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rk99a8scokca]: started parsing
+[21Sep2025 11:47:56.575] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rk99a8scokca]: Consuming argument `stone_bricks`
+[21Sep2025 11:47:56.575] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0rk99a8scokca]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:47:59.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r5g1aav7o18n]: started parsing
+[21Sep2025 11:47:59.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r5g1aav7o18n]: Consuming argument `stone_bricks`
+[21Sep2025 11:47:59.125] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0r5g1aav7o18n]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:47:59.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o3hqzz5sj8ba]: started parsing
+[21Sep2025 11:47:59.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o3hqzz5sj8ba]: Consuming argument `stone_bricks`
+[21Sep2025 11:47:59.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o3hqzz5sj8ba]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:47:59.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mcn1w4k6yope]: started parsing
+[21Sep2025 11:47:59.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mcn1w4k6yope]: Consuming argument `stone_bricks`
+[21Sep2025 11:47:59.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mcn1w4k6yope]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:48:04.260] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [196nmlwngk8vb]: started parsing
+[21Sep2025 11:48:04.260] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [196nmlwngk8vb]: Consuming argument `stone_bricks`
+[21Sep2025 11:48:04.260] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [196nmlwngk8vb]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:48:04.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ndwmyuf5q6gu]: started parsing
+[21Sep2025 11:48:04.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ndwmyuf5q6gu]: Consuming argument `stone_bricks`
+[21Sep2025 11:48:04.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ndwmyuf5q6gu]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:48:04.411] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1madvi5baihj5]: started parsing
+[21Sep2025 11:48:04.411] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1madvi5baihj5]: Consuming argument `stone_bricks`
+[21Sep2025 11:48:04.412] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1madvi5baihj5]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:48:05.819] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/59853, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 11:48:05.819] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/59853, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 11:48:05.820] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50] ...
+[21Sep2025 11:48:05.820] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50] ...
+[21Sep2025 11:48:07.312] [Server thread/INFO] [Easy NPC/]: Opening menu a5165643-3576-4939-8710-fd2a3a97cca5 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.63, y=93.00, z=-771.31] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[21Sep2025 11:48:10.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aqmra0a090dn]: started parsing
+[21Sep2025 11:48:10.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aqmra0a090dn]: Consuming argument `stone_bricks`
+[21Sep2025 11:48:10.175] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1aqmra0a090dn]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:48:10.176] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o2tlyxb668un]: started parsing
+[21Sep2025 11:48:10.176] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o2tlyxb668un]: Consuming argument `stone_bricks`
+[21Sep2025 11:48:10.176] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1o2tlyxb668un]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:48:10.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vh9b8gge7t1u]: started parsing
+[21Sep2025 11:48:10.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vh9b8gge7t1u]: Consuming argument `stone_bricks`
+[21Sep2025 11:48:10.350] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vh9b8gge7t1u]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:48:16.800] [Server thread/INFO] [Easy NPC/]: Opening menu 75ce52a6-4dc9-47cd-8dbb-d60ce88d5316 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.63, y=93.00, z=-771.31] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[cultista]}]
+[21Sep2025 11:48:17.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08eodxcy76leh]: started parsing
+[21Sep2025 11:48:17.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08eodxcy76leh]: Consuming argument `stone_bricks`
+[21Sep2025 11:48:17.050] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08eodxcy76leh]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:48:17.051] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1txbpl2du7068]: started parsing
+[21Sep2025 11:48:17.051] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1txbpl2du7068]: Consuming argument `stone_bricks`
+[21Sep2025 11:48:17.051] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1txbpl2du7068]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:48:17.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pycnr3f4sfl0]: started parsing
+[21Sep2025 11:48:17.113] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pycnr3f4sfl0]: Consuming argument `stone_bricks`
+[21Sep2025 11:48:17.114] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pycnr3f4sfl0]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:48:18.051] [Server thread/INFO] [Easy NPC/]: Opening menu 5a83ccd4-c2fb-4c95-b15a-070732fba36d for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.63, y=93.00, z=-771.31] with ConfigurationMenu.PLAYER_SKIN[translation{key='text.easy_npc.config.player_skin.title', args=[cultista]}]
+[21Sep2025 11:49:14.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0na9aai7hkvjg]: started parsing
+[21Sep2025 11:49:14.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0na9aai7hkvjg]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:14.976] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0na9aai7hkvjg]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:14.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gde7e2gln0ru]: started parsing
+[21Sep2025 11:49:14.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gde7e2gln0ru]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:14.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gde7e2gln0ru]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:15.177] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fk2gxnqsjyno]: started parsing
+[21Sep2025 11:49:15.177] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fk2gxnqsjyno]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:15.177] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fk2gxnqsjyno]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:19.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xbt597cnm1lo]: started parsing
+[21Sep2025 11:49:19.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xbt597cnm1lo]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:19.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xbt597cnm1lo]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:19.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lbdir2ppc0kn]: started parsing
+[21Sep2025 11:49:19.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lbdir2ppc0kn]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:19.556] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lbdir2ppc0kn]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:19.676] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0be16yos34hti]: started parsing
+[21Sep2025 11:49:19.676] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0be16yos34hti]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:19.677] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0be16yos34hti]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:25.312] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wd7zp995g3ev]: started parsing
+[21Sep2025 11:49:25.312] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wd7zp995g3ev]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:25.312] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1wd7zp995g3ev]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:25.312] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jfuanx7ndyno]: started parsing
+[21Sep2025 11:49:25.312] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jfuanx7ndyno]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:25.312] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jfuanx7ndyno]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:25.361] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17sd7f0r1ymbt]: started parsing
+[21Sep2025 11:49:25.361] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17sd7f0r1ymbt]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:25.361] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17sd7f0r1ymbt]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:30.260] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t1tgvlczfygu]: started parsing
+[21Sep2025 11:49:30.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t1tgvlczfygu]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:30.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1t1tgvlczfygu]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:30.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pvqgbe3qzlt3]: started parsing
+[21Sep2025 11:49:30.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pvqgbe3qzlt3]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:30.261] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pvqgbe3qzlt3]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:30.312] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pos0xsosaegz]: started parsing
+[21Sep2025 11:49:30.312] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pos0xsosaegz]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:30.312] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1pos0xsosaegz]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:39.477] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mupcne3ayt9m]: started parsing
+[21Sep2025 11:49:39.477] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mupcne3ayt9m]: Consuming argument ``
+[21Sep2025 11:49:39.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p8mu38ylk6gi]: started parsing
+[21Sep2025 11:49:39.612] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p8mu38ylk6gi]: Consuming argument `a`
+[21Sep2025 11:49:39.761] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d1ar76u1xwqk]: started parsing
+[21Sep2025 11:49:39.761] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1d1ar76u1xwqk]: Consuming argument `ai`
+[21Sep2025 11:49:39.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12d8cvlu2div7]: started parsing
+[21Sep2025 11:49:39.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12d8cvlu2div7]: Consuming argument `air`
+[21Sep2025 11:49:39.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12d8cvlu2div7]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:39.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fqy04ar0qus7]: started parsing
+[21Sep2025 11:49:39.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fqy04ar0qus7]: Consuming argument `air`
+[21Sep2025 11:49:39.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fqy04ar0qus7]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:52.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mprfnf2mvowb]: started parsing
+[21Sep2025 11:49:52.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mprfnf2mvowb]: Consuming argument `air`
+[21Sep2025 11:49:52.048] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0mprfnf2mvowb]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:52.049] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [072n8e969ex2k]: started parsing
+[21Sep2025 11:49:52.049] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [072n8e969ex2k]: Consuming argument `air`
+[21Sep2025 11:49:52.049] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [072n8e969ex2k]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:52.127] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d6w6vul5nlur]: started parsing
+[21Sep2025 11:49:52.127] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d6w6vul5nlur]: Consuming argument `air`
+[21Sep2025 11:49:52.127] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0d6w6vul5nlur]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:52.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1koddva9d88gu]: started parsing
+[21Sep2025 11:49:52.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1koddva9d88gu]: Consuming argument `air`
+[21Sep2025 11:49:52.827] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1koddva9d88gu]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:52.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [198e86qs9g6ph]: started parsing
+[21Sep2025 11:49:52.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [198e86qs9g6ph]: Consuming argument `air`
+[21Sep2025 11:49:52.828] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [198e86qs9g6ph]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:52.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jtxw2hib8i2e]: started parsing
+[21Sep2025 11:49:52.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jtxw2hib8i2e]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:52.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jtxw2hib8i2e]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:52.977] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nfe9apuhkebd]: started parsing
+[21Sep2025 11:49:52.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nfe9apuhkebd]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:52.978] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nfe9apuhkebd]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:53.412] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ybmcowzgwc3]: started parsing
+[21Sep2025 11:49:53.412] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ybmcowzgwc3]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:53.412] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10ybmcowzgwc3]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:59.952] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wumzf6qbwxij]: started parsing
+[21Sep2025 11:49:59.952] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wumzf6qbwxij]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:59.952] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wumzf6qbwxij]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:49:59.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yof7n0v2oo06]: started parsing
+[21Sep2025 11:49:59.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yof7n0v2oo06]: Consuming argument `stone_bricks`
+[21Sep2025 11:49:59.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0yof7n0v2oo06]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:50:00.027] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00wxll2qyj3re]: started parsing
+[21Sep2025 11:50:00.027] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00wxll2qyj3re]: Consuming argument `stone_bricks`
+[21Sep2025 11:50:00.027] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00wxll2qyj3re]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:50:27.102] [Server thread/INFO] [Easy NPC/]: Opening menu 2d2b88f1-2812-461d-94a0-9b5055f7a652 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.63, y=93.00, z=-771.31] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[cultista]}]
+[21Sep2025 11:50:28.403] [Server thread/INFO] [Easy NPC/]: Opening menu f9d54f1f-5b95-4f1a-a75f-694488929534 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.63, y=93.00, z=-771.31] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[cultista]}]
+[21Sep2025 11:50:30.654] [Server thread/INFO] [Easy NPC/]: Opening menu 7909a712-c710-40a2-a503-21052e1b9a02 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.63, y=93.00, z=-771.31] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[cultista]}]
+[21Sep2025 11:50:31.977] [Server thread/INFO] [Easy NPC/]: Opening menu 0086dcc2-74cb-4f1c-8404-5003a0d4091f for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.63, y=93.00, z=-771.31] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[cultista]}]
+[21Sep2025 11:50:32.914] [Server thread/INFO] [Easy NPC/]: Opening menu 847fb754-4b4c-48ec-b5ac-264db7814a24 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.63, y=93.00, z=-771.31] with ConfigurationMenu.PLAYER_SKIN[translation{key='text.easy_npc.config.player_skin.title', args=[cultista]}]
+[21Sep2025 11:50:47.077] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17ilwgnxi5igv]: started parsing
+[21Sep2025 11:50:47.077] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17ilwgnxi5igv]: Consuming argument ``
+[21Sep2025 11:50:47.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p5lnm7ch89nn]: started parsing
+[21Sep2025 11:50:47.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1p5lnm7ch89nn]: Consuming argument `a`
+[21Sep2025 11:50:47.377] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p3tua1anf80x]: started parsing
+[21Sep2025 11:50:47.377] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p3tua1anf80x]: Consuming argument `ai`
+[21Sep2025 11:50:47.504] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h1f54yw1ia8e]: started parsing
+[21Sep2025 11:50:47.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h1f54yw1ia8e]: Consuming argument `air`
+[21Sep2025 11:50:47.505] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1h1f54yw1ia8e]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:50:47.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cffn0ru7eatc]: started parsing
+[21Sep2025 11:50:47.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cffn0ru7eatc]: Consuming argument `air`
+[21Sep2025 11:50:47.600] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0cffn0ru7eatc]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:51:23.198] [Server thread/INFO] [Easy NPC/]: Opening menu 95fdf969-5aae-467f-a87e-bcb4dab9083d for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-599.93, y=93.00, z=-771.03] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[cultista]}]
+[21Sep2025 11:51:24.248] [Server thread/INFO] [Easy NPC/]: Opening menu 50e1df2a-2f9e-4523-898f-5e25848c47d0 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-599.95, y=93.00, z=-771.15] with ConfigurationMenu.PLAYER_SKIN[translation{key='text.easy_npc.config.player_skin.title', args=[cultista]}]
+[21Sep2025 11:51:49.300] [Server thread/INFO] [Easy NPC/]: Opening menu 54d9b86f-3e24-4997-ad8a-63dc30d11aa6 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.13, y=93.00, z=-771.09] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[cultista]}]
+[21Sep2025 11:51:49.950] [Server thread/INFO] [Easy NPC/]: Opening menu e65209d5-3ba4-4db3-b9bf-721b0503f8d9 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.19, y=93.00, z=-771.08] with ConfigurationMenu.NONE_DIALOG[translation{key='text.easy_npc.config.none_dialog.title', args=[cultista]}]
+[21Sep2025 11:51:50.780] [Server thread/INFO] [Easy NPC/]: Opening menu 97fb2455-850a-4b0e-913c-7ee379ebfb6e for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.19, y=93.00, z=-771.08] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[cultista]}]
+[21Sep2025 11:51:51.918] [Server thread/INFO] [Easy NPC/]: Create new dialog DialogData [id=c21f969b-5f03-333d-83e0-4f8f136e7682, name=Default, label=default, texts=[DialogTextData{id=80e01a49-845c-1605-4fea-8c3e2b3f3ef3, text='Dialog text', isTranslationKey=false}], buttons=[]] for Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50] from ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.19, y=93.00, z=-771.08]
+[21Sep2025 11:51:51.918] [Server thread/INFO] [Easy NPC/]: Open dialog editor with for dialog c21f969b-5f03-333d-83e0-4f8f136e7682 for Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50] from ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.19, y=93.00, z=-771.08]
+[21Sep2025 11:51:52.004] [Server thread/INFO] [Easy NPC/]: Opening menu d818f391-8073-4161-beab-1b8992a1e148 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.19, y=93.00, z=-771.08] with EditorMenuHandler{editorType=DIALOG, easyNPC=Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50], screenData=ScreenData[uuid=3f5c9a55-5fdd-4248-a064-893091a81fc8, dialogId=c21f969b-5f03-333d-83e0-4f8f136e7682, dialogButtonId=null, actionDataEntryId=null, pageIndex=0, additionalData={DialogData:{Default:"default",DialogDataSet:[{Buttons:[],Name:"Default",Texts:[{Text:"Dialog text"}]}],Type:"CUSTOM"}}]}
+[21Sep2025 11:51:59.454] [Server thread/INFO] [Easy NPC/]: Opening menu f024e7f4-f838-4d71-b5ea-5722372158e1 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.19, y=93.00, z=-771.08] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[cultista]}]
+[21Sep2025 11:52:11.150] [Server thread/INFO] [Easy NPC/]: Opening menu eb6f8e4e-8154-492b-96f4-db3e75d06ca9 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.24, y=93.00, z=-771.15] with DialogMenuHandler{displayName=literal{cultista}[style={color=#FFFFFF}]}
+[21Sep2025 11:52:12.506] [Server thread/INFO] [Easy NPC/]: Opening menu 6e66fd48-53c7-4d9b-b304-3a371ae975cc for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[cultista]}]
+[21Sep2025 11:52:13.150] [Server thread/INFO] [Easy NPC/]: Opening menu 6ea21175-7105-4546-ac38-607b152a8e29 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[cultista]}]
+[21Sep2025 11:52:14.104] [Server thread/INFO] [Easy NPC/]: Open dialog editor with for dialog 807e0c30-d072-3b48-981f-8f4abe44a573 for Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50] from ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24]
+[21Sep2025 11:52:14.176] [Server thread/INFO] [Easy NPC/]: Opening menu 6dde971c-d05b-420a-88c4-0ed491cee3e8 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24] with EditorMenuHandler{editorType=DIALOG, easyNPC=Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50], screenData=ScreenData[uuid=3f5c9a55-5fdd-4248-a064-893091a81fc8, dialogId=807e0c30-d072-3b48-981f-8f4abe44a573, dialogButtonId=null, actionDataEntryId=null, pageIndex=0, additionalData={DialogData:{Default:"cultista",DialogDataSet:[{Buttons:[],Name:"cultista",Texts:[{Text:"Dialog text"}]}],Type:"CUSTOM"}}]}
+[21Sep2025 11:52:14.856] [Server thread/INFO] [Easy NPC/]: Open dialog editor with for dialog 807e0c30-d072-3b48-981f-8f4abe44a573 for Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50] from ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24]
+[21Sep2025 11:52:14.948] [Server thread/INFO] [Easy NPC/]: Opening menu 6d81613b-3ddb-4714-93a2-3636329ef9bc for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24] with EditorMenuHandler{editorType=DIALOG_TEXT, easyNPC=Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50], screenData=ScreenData[uuid=3f5c9a55-5fdd-4248-a064-893091a81fc8, dialogId=807e0c30-d072-3b48-981f-8f4abe44a573, dialogButtonId=null, actionDataEntryId=null, pageIndex=0, additionalData={DialogData:{Default:"cultista",DialogDataSet:[{Buttons:[],Name:"cultista",Texts:[{Text:"Dialog text"}]}],Type:"CUSTOM"}}]}
+[21Sep2025 11:52:29.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 11:52:29.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 11:53:08.452] [Server thread/INFO] [Easy NPC/]: Open dialog editor with for dialog 807e0c30-d072-3b48-981f-8f4abe44a573 for Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50] from ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24]
+[21Sep2025 11:53:08.548] [Server thread/INFO] [Easy NPC/]: Opening menu 76073065-0e28-44ce-82fa-95017607aae1 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24] with EditorMenuHandler{editorType=DIALOG, easyNPC=Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50], screenData=ScreenData[uuid=3f5c9a55-5fdd-4248-a064-893091a81fc8, dialogId=807e0c30-d072-3b48-981f-8f4abe44a573, dialogButtonId=null, actionDataEntryId=null, pageIndex=0, additionalData={DialogData:{Default:"cultista",DialogDataSet:[{Buttons:[],Name:"cultista",Texts:[{Text:"Aqui yacen mis compañeros murieron todos intentando revivir al nigromante solo lo revivimos su forma fisica"}]}],Type:"CUSTOM"}}]}
+[21Sep2025 11:53:10.047] [Server thread/INFO] [Easy NPC/]: Created new dialog button DialogButtonData [id=6b2932e1-d524-9708-7799-a56a9185878d, name=Button 207, label=button_207, type=DEFAULT, isTranslationKey=false, actionDataSet=[]] for dialog 807e0c30-d072-3b48-981f-8f4abe44a573 for Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50] from ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24]
+[21Sep2025 11:53:10.148] [Server thread/INFO] [Easy NPC/]: Opening menu fee738c3-3051-46e0-a95a-a3a273b9bf31 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24] with EditorMenuHandler{editorType=DIALOG_BUTTON, easyNPC=Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50], screenData=ScreenData[uuid=3f5c9a55-5fdd-4248-a064-893091a81fc8, dialogId=807e0c30-d072-3b48-981f-8f4abe44a573, dialogButtonId=6b2932e1-d524-9708-7799-a56a9185878d, actionDataEntryId=null, pageIndex=0, additionalData={DialogData:{Default:"cultista",DialogDataSet:[{Buttons:[{Actions:[],Name:"Button 207",Type:"DEFAULT"}],Name:"cultista",Texts:[{Text:"Aqui yacen mis compañeros murieron todos intentando revivir al nigromante solo lo revivimos su forma fisica"}]}],Type:"CUSTOM"}}]}
+[21Sep2025 11:53:11.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04uwzq62n3yw3]: started parsing
+[21Sep2025 11:53:11.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04uwzq62n3yw3]: Consuming argument `air`
+[21Sep2025 11:53:11.914] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [04uwzq62n3yw3]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:11.915] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1crhe16qdgtz6]: started parsing
+[21Sep2025 11:53:11.915] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1crhe16qdgtz6]: Consuming argument `air`
+[21Sep2025 11:53:11.915] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1crhe16qdgtz6]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:12.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jwvahg53ld6n]: started parsing
+[21Sep2025 11:53:12.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jwvahg53ld6n]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:12.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jwvahg53ld6n]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:12.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ijrwelzpoias]: started parsing
+[21Sep2025 11:53:12.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ijrwelzpoias]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:12.450] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ijrwelzpoias]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:12.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15kuatxulnexd]: started parsing
+[21Sep2025 11:53:12.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15kuatxulnexd]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:12.800] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15kuatxulnexd]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:20.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vse0ynr37lcm]: started parsing
+[21Sep2025 11:53:20.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vse0ynr37lcm]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:20.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vse0ynr37lcm]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:20.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15wmkypuxod8j]: started parsing
+[21Sep2025 11:53:20.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15wmkypuxod8j]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:20.879] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15wmkypuxod8j]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:21.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mzkoetwm8swq]: started parsing
+[21Sep2025 11:53:21.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mzkoetwm8swq]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:21.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mzkoetwm8swq]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:23.849] [Server thread/INFO] [Easy NPC/]: Edit existing dialog button DialogButtonData [id=f071d208-6937-102f-51bd-8ae43dcc2b5f, name=Bueno me puedes sacar de aqui, label=bueno_me_puedes_sacar_de_aqui, type=DEFAULT, isTranslationKey=false, actionDataSet=[]] for dialog 807e0c30-d072-3b48-981f-8f4abe44a573 for Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50] from ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24]
+[21Sep2025 11:53:23.850] [Server thread/INFO] [Easy NPC/]: Open dialog editor with for dialog 807e0c30-d072-3b48-981f-8f4abe44a573 for Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50] from ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24]
+[21Sep2025 11:53:23.927] [Server thread/INFO] [Easy NPC/]: Opening menu b17938df-28ac-47a2-a68f-5db24a857c2d for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24] with EditorMenuHandler{editorType=DIALOG, easyNPC=Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50], screenData=ScreenData[uuid=3f5c9a55-5fdd-4248-a064-893091a81fc8, dialogId=807e0c30-d072-3b48-981f-8f4abe44a573, dialogButtonId=null, actionDataEntryId=null, pageIndex=0, additionalData={DialogData:{Default:"cultista",DialogDataSet:[{Buttons:[{Actions:[],Name:"Bueno me puedes sacar de aqui",Type:"DEFAULT"}],Name:"cultista",Texts:[{Text:"Aqui yacen mis compañeros murieron todos intentando revivir al nigromante solo lo revivimos su forma fisica"}]}],Type:"CUSTOM"}}]}
+[21Sep2025 11:53:25.247] [Server thread/INFO] [Easy NPC/]: Opening menu c901907a-5f35-48a2-8bd8-4d0c823554cd for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24] with EditorMenuHandler{editorType=DIALOG_BUTTON, easyNPC=Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50], screenData=ScreenData[uuid=3f5c9a55-5fdd-4248-a064-893091a81fc8, dialogId=807e0c30-d072-3b48-981f-8f4abe44a573, dialogButtonId=f071d208-6937-102f-51bd-8ae43dcc2b5f, actionDataEntryId=null, pageIndex=0, additionalData={DialogData:{Default:"cultista",DialogDataSet:[{Buttons:[{Actions:[],Name:"Bueno me puedes sacar de aqui",Type:"DEFAULT"}],Name:"cultista",Texts:[{Text:"Aqui yacen mis compañeros murieron todos intentando revivir al nigromante solo lo revivimos su forma fisica"}]}],Type:"CUSTOM"}}]}
+[21Sep2025 11:53:26.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecxmomqh1dva]: started parsing
+[21Sep2025 11:53:26.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecxmomqh1dva]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:26.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ecxmomqh1dva]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:26.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ovmbwt7pnl5m]: started parsing
+[21Sep2025 11:53:26.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ovmbwt7pnl5m]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:26.300] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ovmbwt7pnl5m]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:26.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1drn2wiupi913]: started parsing
+[21Sep2025 11:53:26.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1drn2wiupi913]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:26.329] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1drn2wiupi913]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:26.904] [Server thread/INFO] [Easy NPC/]: Opening menu e2459781-de28-44b7-9271-2f1e65e1b0fe for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[cultista]}]
+[21Sep2025 11:53:27.952] [Server thread/INFO] [Easy NPC/]: Opening menu 8e720167-61c7-4af7-a980-d55c58e47e79 for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24] with ConfigurationMenu.ADVANCED_DIALOG[translation{key='text.easy_npc.config.advanced_dialog.title', args=[cultista]}]
+[21Sep2025 11:53:27.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jqp631936xuz]: started parsing
+[21Sep2025 11:53:27.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jqp631936xuz]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:27.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0jqp631936xuz]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:27.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0se8uwk6m6d1p]: started parsing
+[21Sep2025 11:53:27.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0se8uwk6m6d1p]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:27.954] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0se8uwk6m6d1p]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:28.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m0j44rrqobid]: started parsing
+[21Sep2025 11:53:28.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m0j44rrqobid]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:28.064] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m0j44rrqobid]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:29.048] [Server thread/INFO] [Easy NPC/]: Open dialog editor with for dialog 807e0c30-d072-3b48-981f-8f4abe44a573 for Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50] from ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24]
+[21Sep2025 11:53:29.115] [Server thread/INFO] [Easy NPC/]: Opening menu 502d514a-ca49-40b8-9716-63cb510fd34d for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24] with EditorMenuHandler{editorType=DIALOG, easyNPC=Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50], screenData=ScreenData[uuid=3f5c9a55-5fdd-4248-a064-893091a81fc8, dialogId=807e0c30-d072-3b48-981f-8f4abe44a573, dialogButtonId=null, actionDataEntryId=null, pageIndex=0, additionalData={DialogData:{Default:"cultista",DialogDataSet:[{Buttons:[{Actions:[],Name:"Bueno me puedes sacar de aqui",Type:"DEFAULT"}],Name:"cultista",Texts:[{Text:"Aqui yacen mis compañeros murieron todos intentando revivir al nigromante solo lo revivimos su forma fisica"}]}],Type:"CUSTOM"}}]}
+[21Sep2025 11:53:29.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bzf43bymzdno]: started parsing
+[21Sep2025 11:53:29.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bzf43bymzdno]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:29.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0bzf43bymzdno]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:29.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s20n74kpxt3k]: started parsing
+[21Sep2025 11:53:29.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s20n74kpxt3k]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:29.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0s20n74kpxt3k]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:30.018] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dnaqunrt3z2w]: started parsing
+[21Sep2025 11:53:30.018] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dnaqunrt3z2w]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:30.018] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0dnaqunrt3z2w]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:32.352] [Server thread/INFO] [Easy NPC/]: Created new dialog button DialogButtonData [id=9275b740-83ad-35c7-68ef-c9e83b01e6cb, name=Button 635, label=button_635, type=DEFAULT, isTranslationKey=false, actionDataSet=[]] for dialog 807e0c30-d072-3b48-981f-8f4abe44a573 for Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50] from ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24]
+[21Sep2025 11:53:32.427] [Server thread/INFO] [Easy NPC/]: Opening menu 7e50917c-9328-4df9-9a0e-ab644b7b1a9b for npc 3f5c9a55-5fdd-4248-a064-893091a81fc8 and player ServerPlayer['lentojas0'/490, l='ServerLevel[world]', x=-600.15, y=93.00, z=-771.24] with EditorMenuHandler{editorType=DIALOG_BUTTON, easyNPC=Humanoid['cultista'/59853, l='ServerLevel[world]', x=-598.50, y=93.00, z=-771.50], screenData=ScreenData[uuid=3f5c9a55-5fdd-4248-a064-893091a81fc8, dialogId=807e0c30-d072-3b48-981f-8f4abe44a573, dialogButtonId=9275b740-83ad-35c7-68ef-c9e83b01e6cb, actionDataEntryId=null, pageIndex=0, additionalData={DialogData:{Default:"cultista",DialogDataSet:[{Buttons:[{Actions:[],Name:"Bueno me puedes sacar de aqui",Type:"DEFAULT"},{Actions:[],Name:"Button 635",Type:"DEFAULT"}],Name:"cultista",Texts:[{Text:"Aqui yacen mis compañeros murieron todos intentando revivir al nigromante solo lo revivimos su forma fisica"}]}],Type:"CUSTOM"}}]}
+[21Sep2025 11:53:39.652] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wev53h6b9f7w]: started parsing
+[21Sep2025 11:53:39.652] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wev53h6b9f7w]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:39.652] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wev53h6b9f7w]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:39.652] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jye6mn1lko0p]: started parsing
+[21Sep2025 11:53:39.652] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jye6mn1lko0p]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:39.652] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jye6mn1lko0p]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:39.729] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hzbnp6m8ngyg]: started parsing
+[21Sep2025 11:53:39.729] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hzbnp6m8ngyg]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:39.729] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0hzbnp6m8ngyg]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:48.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uu4rvs6mil23]: started parsing
+[21Sep2025 11:53:48.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uu4rvs6mil23]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:48.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uu4rvs6mil23]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:48.303] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eefkp8ix52nd]: started parsing
+[21Sep2025 11:53:48.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eefkp8ix52nd]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:48.304] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eefkp8ix52nd]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:48.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rweoln3tg1m4]: started parsing
+[21Sep2025 11:53:48.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rweoln3tg1m4]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:48.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1rweoln3tg1m4]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:55.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16op4uukp93ah]: started parsing
+[21Sep2025 11:53:55.148] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16op4uukp93ah]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:55.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16op4uukp93ah]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:55.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gk8wsdj34n73]: started parsing
+[21Sep2025 11:53:55.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gk8wsdj34n73]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:55.149] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1gk8wsdj34n73]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:55.448] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h5t8on8b6a4k]: started parsing
+[21Sep2025 11:53:55.448] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h5t8on8b6a4k]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:55.448] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0h5t8on8b6a4k]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:56.315] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1owqgf1ejyxu3]: started parsing
+[21Sep2025 11:53:56.315] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1owqgf1ejyxu3]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:56.315] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1owqgf1ejyxu3]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:56.315] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17gbiqadncrve]: started parsing
+[21Sep2025 11:53:56.315] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17gbiqadncrve]: Consuming argument `stone_bricks`
+[21Sep2025 11:53:56.315] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17gbiqadncrve]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:56.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1knoci6lc2hu3]: started parsing
+[21Sep2025 11:53:56.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1knoci6lc2hu3]: Consuming argument `air`
+[21Sep2025 11:53:56.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1knoci6lc2hu3]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:56.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jckq8nu9scva]: started parsing
+[21Sep2025 11:53:56.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jckq8nu9scva]: Consuming argument `air`
+[21Sep2025 11:53:56.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1jckq8nu9scva]: Finished looking at arguments. Finalizing command.
+[21Sep2025 11:53:56.948] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16kfajhwged0n]: started parsing
+[21Sep2025 11:53:56.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16kfajhwged0n]: Consuming argument `air`
+[21Sep2025 11:53:56.949] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [16kfajhwged0n]: Finished looking at arguments. Finalizing command.
