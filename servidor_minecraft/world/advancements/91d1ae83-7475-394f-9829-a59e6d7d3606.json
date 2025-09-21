@@ -48,6 +48,7 @@
       "minecraft:birch_forest": "2025-09-20 18:42:34 +0000",
       "minecraft:windswept_hills": "2025-09-20 18:43:53 +0000",
       "minecraft:wooded_badlands": "2025-09-20 15:51:50 +0000",
+      "minecraft:bamboo_jungle": "2025-09-21 12:18:37 +0000",
       "minecraft:beach": "2025-09-20 18:42:25 +0000",
       "minecraft:stony_peaks": "2025-09-20 09:46:53 +0000",
       "minecraft:sparse_jungle": "2025-09-20 09:43:27 +0000",
@@ -2037,15 +2038,33 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/celestial_core": {
+    "criteria": {
+      "has_item": "2025-09-21 12:17:58 +0000"
+    },
+    "done": true
+  },
   "block_factorys_bosses:kill_dragon": {
     "criteria": {
       "kill": "2025-09-21 09:58:12 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-09-21 12:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-09-21 11:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-21 12:17:58 +0000"
     },
     "done": true
   },
@@ -2061,6 +2080,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-09-21 12:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-09-21 11:58:31 +0000"
@@ -2073,9 +2098,27 @@
     },
     "done": true
   },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2025-09-21 12:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-09-21 11:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-09-21 12:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-09-21 12:18:26 +0000"
     },
     "done": true
   },
@@ -2088,6 +2131,12 @@
   "mca:recipes/decorations/red_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-09-21 11:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-21 12:17:58 +0000"
     },
     "done": true
   },
@@ -2109,6 +2158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-09-21 12:17:58 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-09-21 11:58:31 +0000"
@@ -2118,6 +2173,12 @@
   "block_factorys_bosses:kill_boss_under_minute": {
     "criteria": {
       "kill_boss_under_minute_0": "2025-09-21 09:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-09-21 12:17:58 +0000"
     },
     "done": true
   },
@@ -2157,6 +2218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-09-21 12:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-09-21 11:58:31 +0000"
@@ -2193,6 +2260,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-21 12:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-21 12:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-21 12:17:58 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/vial_of_blood": {
     "criteria": {
       "vial_of_blood": "2025-09-21 11:35:00 +0000"
@@ -2205,9 +2290,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-09-21 12:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-21 11:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-09-21 12:17:58 +0000"
     },
     "done": true
   },
@@ -2259,9 +2356,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-09-21 12:17:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-09-21 11:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-21 12:17:58 +0000"
     },
     "done": true
   },
@@ -2283,9 +2392,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-09-21 12:20:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-09-21 11:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-09-21 12:17:58 +0000"
     },
     "done": true
   },
