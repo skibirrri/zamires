@@ -2564,24 +2564,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-09-21 18:21:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-09-21 18:21:41 +0000"
-    },
-    "done": true
-  },
-  "mca:hunted": {
-    "criteria": {
-      "iron": "2025-09-21 18:33:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2025-09-21 17:59:55 +0000"
@@ -2594,9 +2576,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-09-21 18:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-21 18:21:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-09-21 18:21:41 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-09-21 18:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-21 18:47:23 +0000"
     },
     "done": true
   },
