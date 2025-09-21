@@ -1169,6 +1169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-21 14:14:50 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/light_blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-09-21 10:33:21 +0000"
@@ -1178,6 +1184,12 @@
   "mca:recipes/decorations/light_gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-09-21 14:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-21 14:14:50 +0000"
     },
     "done": true
   },
@@ -1214,6 +1226,12 @@
   "mca:recipes/misc/staff_of_life": {
     "criteria": {
       "has_item": "2025-09-21 10:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-21 14:14:50 +0000"
     },
     "done": true
   },
@@ -1265,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-21 14:14:50 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-09-21 10:33:21 +0000"
@@ -1283,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-21 14:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-09-21 13:58:48 +0000"
@@ -1298,6 +1328,12 @@
   "mca:recipes/decorations/white_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-09-21 10:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-21 14:14:50 +0000"
     },
     "done": true
   },
@@ -1358,6 +1394,12 @@
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-09-21 13:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-21 14:14:50 +0000"
     },
     "done": true
   },
@@ -1439,6 +1481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-21 14:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-09-21 14:10:44 +0000"
@@ -1460,6 +1508,12 @@
   "mca:recipes/decorations/orange_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-09-21 14:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-21 14:14:50 +0000"
     },
     "done": true
   },
@@ -1487,6 +1541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-21 14:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-09-21 14:11:05 +0000"
@@ -1496,6 +1556,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-09-21 13:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-21 14:14:50 +0000"
     },
     "done": true
   },
@@ -1520,6 +1586,12 @@
   "mca:recipes/decorations/gray_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-09-21 14:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-21 14:14:50 +0000"
     },
     "done": true
   },

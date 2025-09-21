@@ -2052,6 +2052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-09-21 14:24:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-09-21 12:17:58 +0000"
@@ -2166,6 +2172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-09-21 14:24:14 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/pink_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-09-21 11:58:31 +0000"
@@ -2178,6 +2190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-09-21 14:24:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-09-21 12:17:58 +0000"
@@ -2187,6 +2205,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-09-21 11:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-09-21 14:24:17 +0000"
     },
     "done": true
   },
@@ -2262,6 +2286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-09-21 14:24:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-09-21 11:32:08 +0000"
@@ -2325,6 +2355,12 @@
   "mca:recipes/decorations/light_gray_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-09-21 11:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-09-21 14:24:14 +0000"
     },
     "done": true
   },
