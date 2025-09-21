@@ -1692,5 +1692,11 @@
     },
     "done": true
   },
+  "block_factorys_bosses:no_hit_underworld_knight": {
+    "criteria": {
+      "no_hit_underworld_knight_0": "2025-09-21 17:19:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
