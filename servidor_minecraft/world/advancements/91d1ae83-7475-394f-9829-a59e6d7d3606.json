@@ -2018,5 +2018,23 @@
     },
     "done": true
   },
+  "block_factorys_bosses:kill_dragon": {
+    "criteria": {
+      "kill": "2025-09-21 09:58:12 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:kill_boss_under_minute": {
+    "criteria": {
+      "kill_boss_under_minute_0": "2025-09-21 09:58:12 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:kill_all_bosses": {
+    "criteria": {
+      "kill_dragon": "2025-09-21 09:58:12 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
