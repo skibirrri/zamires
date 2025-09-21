@@ -10526,3 +10526,116 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'theabys
 [21Sep2025 14:03:59.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m58n5zmy8j9x]: Consuming argument `air`
 [21Sep2025 14:03:59.250] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m58n5zmy8j9x]: Finished looking at arguments. Finalizing command.
 [21Sep2025 14:04:12.296] [Server thread/DEBUG] [com.etema.attributemodify.AttributeModify/]: Processing Curios attributes for bunny_hoppers in slot feet
+[21Sep2025 14:07:10.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zamires: Teleported zamires to lentojas0]
+[21Sep2025 14:07:31.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 14:07:31.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 14:08:33.602] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b4fne2ciermn]: started parsing
+[21Sep2025 14:08:33.602] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1b4fne2ciermn]: Consuming argument ``
+[21Sep2025 14:08:33.702] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15xt37xi1wlmh]: started parsing
+[21Sep2025 14:08:33.702] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15xt37xi1wlmh]: Consuming argument `a`
+[21Sep2025 14:08:33.802] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dao3vq4kkllg]: started parsing
+[21Sep2025 14:08:33.802] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dao3vq4kkllg]: Consuming argument `ai`
+[21Sep2025 14:08:33.889] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o1kmbotw5ogd]: started parsing
+[21Sep2025 14:08:33.890] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o1kmbotw5ogd]: Consuming argument `air`
+[21Sep2025 14:08:33.890] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0o1kmbotw5ogd]: Finished looking at arguments. Finalizing command.
+[21Sep2025 14:08:34.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j5yvx78n677p]: started parsing
+[21Sep2025 14:08:34.002] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j5yvx78n677p]: Consuming argument `air`
+[21Sep2025 14:08:34.003] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0j5yvx78n677p]: Finished looking at arguments. Finalizing command.
+[21Sep2025 14:08:35.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lentojas0 moved too quickly! -6.093116418851423,-4.875000190238524,-7.157109516576384
+[21Sep2025 14:08:42.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lentojas0 moved too quickly! 3.53145845090512,0.0,10.116229562061562
+[21Sep2025 14:09:01.952] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0osp285vs8h19]: started parsing
+[21Sep2025 14:09:01.952] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0osp285vs8h19]: Consuming argument ``
+[21Sep2025 14:09:02.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gq0fkd1nomjx]: started parsing
+[21Sep2025 14:09:02.059] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gq0fkd1nomjx]: Consuming argument `a`
+[21Sep2025 14:09:02.440] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vzsdpsoyx6vx]: started parsing
+[21Sep2025 14:09:02.440] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vzsdpsoyx6vx]: Consuming argument `ar`
+[21Sep2025 14:09:02.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p1ll11s04kji]: started parsing
+[21Sep2025 14:09:02.691] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0p1ll11s04kji]: Consuming argument `are`
+[21Sep2025 14:09:03.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xgbdsfvhda5z]: started parsing
+[21Sep2025 14:09:03.111] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1xgbdsfvhda5z]: Consuming argument `ar`
+[21Sep2025 14:09:03.371] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ia4joy163tss]: started parsing
+[21Sep2025 14:09:03.371] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ia4joy163tss]: Consuming argument `a`
+[21Sep2025 14:09:03.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v8mn34rvyzx3]: started parsing
+[21Sep2025 14:09:03.552] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1v8mn34rvyzx3]: Consuming argument ``
+[21Sep2025 14:09:04.540] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18rd371lzy5t3]: started parsing
+[21Sep2025 14:09:04.540] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [18rd371lzy5t3]: Consuming argument `a`
+[21Sep2025 14:09:04.823] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nn4nv3ejihlq]: started parsing
+[21Sep2025 14:09:04.823] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1nn4nv3ejihlq]: Consuming argument `an`
+[21Sep2025 14:09:05.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0imajr0bj4xuc]: started parsing
+[21Sep2025 14:09:05.103] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0imajr0bj4xuc]: Consuming argument `and`
+[21Sep2025 14:09:05.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lykt9h3lgk1t]: started parsing
+[21Sep2025 14:09:05.408] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0lykt9h3lgk1t]: Consuming argument `an`
+[21Sep2025 14:09:05.602] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eu26bkwlevh1]: started parsing
+[21Sep2025 14:09:05.602] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0eu26bkwlevh1]: Consuming argument `a`
+[21Sep2025 14:09:05.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uk8h5013weve]: started parsing
+[21Sep2025 14:09:05.752] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uk8h5013weve]: Consuming argument ``
+[21Sep2025 14:09:05.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gk2m3dcyt3s0]: started parsing
+[21Sep2025 14:09:05.859] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0gk2m3dcyt3s0]: Consuming argument `s`
+[21Sep2025 14:09:05.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0huoj3f36q2wq]: started parsing
+[21Sep2025 14:09:05.942] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0huoj3f36q2wq]: Consuming argument `sa`
+[21Sep2025 14:09:06.093] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0br6qawu46vfq]: started parsing
+[21Sep2025 14:09:06.094] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0br6qawu46vfq]: Consuming argument `san`
+[21Sep2025 14:09:08.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kayrwlcv6azt]: started parsing
+[21Sep2025 14:09:08.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kayrwlcv6azt]: Consuming argument `sandstone`
+[21Sep2025 14:09:08.209] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kayrwlcv6azt]: Finished looking at arguments. Finalizing command.
+[21Sep2025 14:09:34.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [018uf0a00eodi]: started parsing
+[21Sep2025 14:09:34.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [018uf0a00eodi]: Consuming argument `sandstone`
+[21Sep2025 14:09:34.398] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [018uf0a00eodi]: Finished looking at arguments. Finalizing command.
+[21Sep2025 14:09:34.399] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08nvlh4skik40]: started parsing
+[21Sep2025 14:09:34.399] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08nvlh4skik40]: Consuming argument `sandstone`
+[21Sep2025 14:09:34.399] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08nvlh4skik40]: Finished looking at arguments. Finalizing command.
+[21Sep2025 14:09:34.771] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n472h1asaktw]: started parsing
+[21Sep2025 14:09:34.771] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n472h1asaktw]: Consuming argument `sandstone`
+[21Sep2025 14:09:34.772] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1n472h1asaktw]: Finished looking at arguments. Finalizing command.
+[21Sep2025 14:10:04.206] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/130730, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 14:10:04.206] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/130730, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 14:10:04.206] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero'/130730, l='ServerLevel[world]', x=2415.31, y=79.00, z=-3886.54].
+[21Sep2025 14:10:04.212] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/130733, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 14:10:04.212] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/130733, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 14:10:04.212] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero'/130733, l='ServerLevel[world]', x=2419.30, y=78.00, z=-3882.63].
+[21Sep2025 14:10:04.214] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/130734, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 14:10:04.214] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/130734, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 14:10:04.215] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero'/130734, l='ServerLevel[world]', x=2416.30, y=75.00, z=-3891.40].
+[21Sep2025 14:10:04.265] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/130751, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 14:10:04.265] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/130751, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 14:10:04.265] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero'/130751, l='ServerLevel[world]', x=2338.50, y=102.00, z=-3835.50].
+[21Sep2025 14:10:04.271] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/130756, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 14:10:04.271] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/130756, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 14:10:04.272] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero de alto mando'/130756, l='ServerLevel[world]', x=2396.45, y=87.00, z=-3835.17].
+[21Sep2025 14:10:04.370] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/130788, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 14:10:04.370] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/130788, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 14:10:04.370] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero medio'/130788, l='ServerLevel[world]', x=2337.50, y=87.00, z=-3810.50].
+[21Sep2025 14:10:04.375] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/130795, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 14:10:04.376] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/130795, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 14:10:04.376] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero'/130795, l='ServerLevel[world]', x=2453.50, y=87.00, z=-3832.29].
+[21Sep2025 14:10:04.376] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/130796, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 14:10:04.376] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/130796, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 14:10:04.376] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero'/130796, l='ServerLevel[world]', x=2453.50, y=87.00, z=-3832.42].
+[21Sep2025 14:10:04.377] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/130799, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 14:10:04.377] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/130799, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 14:10:04.377] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero'/130799, l='ServerLevel[world]', x=2451.50, y=102.00, z=-3835.50].
+[21Sep2025 14:10:04.717] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/130837, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 14:10:04.717] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/130837, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 14:10:04.718] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero'/130837, l='ServerLevel[world]', x=2342.65, y=73.00, z=-3763.44].
+[21Sep2025 14:10:04.719] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/130839, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 14:10:04.719] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/130839, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 14:10:04.720] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero'/130839, l='ServerLevel[world]', x=2394.50, y=52.00, z=-3773.53].
+[21Sep2025 14:10:04.720] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/130840, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 14:10:04.720] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/130840, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 14:10:04.721] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero'/130840, l='ServerLevel[world]', x=2394.49, y=52.00, z=-3773.49].
+[21Sep2025 14:10:04.721] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/130841, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[21Sep2025 14:10:04.721] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/130841, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[21Sep2025 14:10:04.721] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['caballero'/130841, l='ServerLevel[world]', x=2395.50, y=51.00, z=-3774.37].
+[21Sep2025 14:10:17.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has completed the challenge [Serious Dedication]
+[21Sep2025 14:11:05.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zamires has made the advancement [A Seedy Place]
+[21Sep2025 14:12:31.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 14:12:31.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 14:12:59.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [lentojas0: The difficulty has been set to Hard]
+[21Sep2025 14:16:36.102] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01lbk3ew1tajo]: started parsing
+[21Sep2025 14:16:36.102] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01lbk3ew1tajo]: Finished looking at arguments. Finalizing command.
+[21Sep2025 14:16:40.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sdms0yefwylj]: started parsing
+[21Sep2025 14:16:40.352] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sdms0yefwylj]: Finished looking at arguments. Finalizing command.
+[21Sep2025 14:16:44.925] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kiohs4cuj0gl]: started parsing
+[21Sep2025 14:16:44.925] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kiohs4cuj0gl]: Finished looking at arguments. Finalizing command.
+[21Sep2025 14:16:47.176] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17u3adxc7z7ig]: started parsing
+[21Sep2025 14:16:47.176] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17u3adxc7z7ig]: Finished looking at arguments. Finalizing command.
